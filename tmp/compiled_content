@@ -160,12 +160,12 @@ a:hover {
   line-height: 20px;
 }
 ;T;	@;
-@I"/0-index/;T{;{	;I"		<!DOCTYPE html>
+@I"/0-index/;T{;{	;I"	<!DOCTYPE html>
 <html lang="en">
   <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="utf-8">
-    <title>Lemuridae.org</title>
+    <title>Lemuridae</title>
     <link href="stylesheets/main.css" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Josefin+Sans:600" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Lora" rel="stylesheet" type="text/css">
