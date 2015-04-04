@@ -1453,7 +1453,7 @@ I"Ò
   <p><a href="mailto:info@freeyourmetadata.org">Contact us</a> to host a Free Your Metadata session at your event.</p>
   </div>
 </aside>
-;T;@7I"/9-about/;T{;{	;I"Œ<!DOCTYPE html>
+;T;@7I"/9-about/;T{;{	;I"î<!DOCTYPE html>
 <html lang="en">
   <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -1528,10 +1528,12 @@ I"Ò
       <h2>Get started now</h2>
       <p>Talis quam mortem coepit res haud scio sit post meam.</p>
       <h2>Keep in touch</h2>
-      <a href="https://twitter.com/intent/tweet?screen_name=LemuridaeDotOrg" class="twitter-mention-button" data-related="LemuridaeDotOrg">Tweet to @LemuridaeDotOrg</a>
+      <p>Do not hesitate to send us a tweet.</p>
+      <p><a href="https://twitter.com/intent/tweet?screen_name=LemuridaeDotOrg" class="twitter-mention-button" data-related="LemuridaeDotOrg">Tweet to @LemuridaeDotOrg</a></p>
     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
       <h2>Spread the world</h2>
-      <a href="https://twitter.com/LemuridaeDotOrg" class="twitter-follow-button" data-show-count="false">Follow @LemuridaeDotOrg</a>
+      <p>Follow us on Twitter!</p>
+      <p><a href="https://twitter.com/LemuridaeDotOrg" class="twitter-follow-button" data-show-count="false">Follow @LemuridaeDotOrg</a></p>
     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
     </aside>
     <footer>
@@ -1542,7 +1544,7 @@ I"Ò
     <script>(function(a){if(navigator.userAgent.match(/like Mac OS X/i)){var c=[1,1],b="querySelectorAll"in a?a.querySelectorAll("meta[name=viewport]"):[],d=function(){b.content="width=device-width,minimum-scale="+c[0]+",maximum-scale="+c[1];a.removeEventListener("gesturestart",d,!0)};if((b=b[b.length-1])&&"addEventListener"in a)d(),c=[0.25,1.6],a.addEventListener("gesturestart",d,!0)}})(document);</script>
   </body>
 </html>
-;T;	I"y
+;T;	I"Ó
 <article>
 <h1>Lorem ipsum dolor sit amet consectetuer adipiscing 
 elit</h1>
@@ -1575,10 +1577,12 @@ ultricies nec, pellentesque eu, pretium quis, sem.</p>
   <h2>Get started now</h2>
   <p>Talis quam mortem coepit res haud scio sit post meam.</p>
   <h2>Keep in touch</h2>
-  <a href="https://twitter.com/intent/tweet?screen_name=LemuridaeDotOrg" class="twitter-mention-button" data-related="LemuridaeDotOrg">Tweet to @LemuridaeDotOrg</a>
+  <p>Do not hesitate to send us a tweet.</p>
+  <p><a href="https://twitter.com/intent/tweet?screen_name=LemuridaeDotOrg" class="twitter-mention-button" data-related="LemuridaeDotOrg">Tweet to @LemuridaeDotOrg</a></p>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
   <h2>Spread the world</h2>
-  <a href="https://twitter.com/LemuridaeDotOrg" class="twitter-follow-button" data-show-count="false">Follow @LemuridaeDotOrg</a>
+  <p>Follow us on Twitter!</p>
+  <p><a href="https://twitter.com/LemuridaeDotOrg" class="twitter-follow-button" data-show-count="false">Follow @LemuridaeDotOrg</a></p>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 </aside>
 ;T;
@@ -3431,7 +3435,7 @@ ultricies nec, pellentesque eu, pretium quis, sem.</p>
   <p>You're aware about your compliance issue? Let's <a href="/taxonomies/">build a taxonomy</a>!</p>
 </aside>
 ;T;
-@À;@¿I"/2-taxonomies/;T{;{	;I"ú<!DOCTYPE html>
+@À;@¿I"/2-taxonomies/;T{;{	;I""<!DOCTYPE html>
 <html lang="en">
   <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -3553,7 +3557,8 @@ ultricies nec, pellentesque eu, pretium quis, sem.</p>
       <a href="https://twitter.com/intent/tweet?screen_name=LemuridaeDotOrg" class="twitter-mention-button" data-related="LemuridaeDotOrg">Tweet to @LemuridaeDotOrg</a>
     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
       <h2>Stay informed!</h2>
-      <a href="https://twitter.com/LemuridaeDotOrg" class="twitter-follow-button" data-show-count="false">Follow @LemuridaeDotOrg</a>
+    <p>Follow us on Twitter!</p>  
+    <p><a href="https://twitter.com/LemuridaeDotOrg" class="twitter-follow-button" data-show-count="false">Follow @LemuridaeDotOrg</a></p>
     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
     </aside>
     <footer>
@@ -3564,7 +3569,7 @@ ultricies nec, pellentesque eu, pretium quis, sem.</p>
     <script>(function(a){if(navigator.userAgent.match(/like Mac OS X/i)){var c=[1,1],b="querySelectorAll"in a?a.querySelectorAll("meta[name=viewport]"):[],d=function(){b.content="width=device-width,minimum-scale="+c[0]+",maximum-scale="+c[1];a.removeEventListener("gesturestart",d,!0)};if((b=b[b.length-1])&&"addEventListener"in a)d(),c=[0.25,1.6],a.addEventListener("gesturestart",d,!0)}})(document);</script>
   </body>
 </html>
-;T;	I"5
+;T;	I"Y
 <article>
   <h1>Lorem ipsum dolor sit amet consectetuer adipiscing 
 elit</h1>
@@ -3644,7 +3649,8 @@ ultricies nec, pellentesque eu, pretium quis, sem.</p>
   <a href="https://twitter.com/intent/tweet?screen_name=LemuridaeDotOrg" class="twitter-mention-button" data-related="LemuridaeDotOrg">Tweet to @LemuridaeDotOrg</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
   <h2>Stay informed!</h2>
-  <a href="https://twitter.com/LemuridaeDotOrg" class="twitter-follow-button" data-show-count="false">Follow @LemuridaeDotOrg</a>
+<p>Follow us on Twitter!</p>  
+<p><a href="https://twitter.com/LemuridaeDotOrg" class="twitter-follow-button" data-show-count="false">Follow @LemuridaeDotOrg</a></p>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 </aside>
 ;T;
