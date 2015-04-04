@@ -1,0 +1,568 @@
+/*
+  html5doctor.com Reset Stylesheet
+  v1.6.1
+  Last Updated: 2010-09-17
+  Author: Richard Clark - http://richclarkdesign.com
+  Twitter: @rich_clark
+*/
+html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,dfn,em,img,ins,kbd,q,samp,small,strong,sub,sup,var,b,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary,time,mark,audio,video{border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent;margin:0;padding:0;}body{line-height:1;}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block;}nav ul{list-style:none;}blockquote,q{quotes:none;}blockquote:before,blockquote:after,q:before,q:after{content:none;}a{font-size:100%;vertical-align:baseline;background:transparent;margin:0;padding:0;}ins{background-color:#ff9;color:#000;text-decoration:none;}mark{background-color:#ff9;color:#000;font-style:italic;font-weight:700;}del{text-decoration:line-through;}abbr[title],dfn[title]{border-bottom:1px dotted;cursor:help;}table{border-collapse:collapse;border-spacing:0;}hr{display:block;height:1px;border:0;border-top:1px solid #ccc;margin:1em 0;padding:0;}input,select{vertical-align:middle;}
+
+/*
+  Main CSS
+*/
+
+@link-color: #109f85;
+@link-hover-color: #15bb9a;
+@em-color: #444444;
+@aside-border-color: fadeout(@link-color, 30%);
+@footer-color: #AAAAAA;
+
+.clearfix() {
+  zoom: 1;
+	&:after {
+    display: block;
+    visibility: hidden;
+    height: 0;
+    clear: both;
+    content: ".";
+	}
+}
+
+/*** main element styles ***/
+
+html, body, th, td, input, select, textarea {
+  font-family: "Lora", "Helvetica Neue", Helvetica, Arial, serif;
+  line-height: 1.8;
+  font-weight: 300;
+}
+
+html {
+  margin: 10px;
+}
+
+body {
+  width: 990px;
+  max-width: 990px;
+  margin: 0 auto;
+  -webkit-text-size-adjust: 100%;
+}
+
+a {
+  color: @link-color;
+  text-decoration: none;
+  border-bottom: 1px solid;
+  &:hover {
+    color: @link-hover-color !important;
+  }
+  &.img {
+    border: none;
+  }
+}
+
+h1 a, h2 a, .billboard a, footer a {
+  color: inherit !important;
+  border-bottom: none;
+}
+
+ul, ol, dl {
+  margin: 0 0 1em 30px;
+}
+
+p {
+  margin-bottom: 1em;
+}
+
+p + ul, p + ol {
+  margin-top: -1em;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  color: @link-color;
+}
+
+h1 {
+  font-size: 2em;
+  line-height: 1.25em;
+}
+
+h2 {
+  font-size: 1.5em;
+  line-height: 1.5em;
+}
+
+strong {
+  font-weight: 700;
+}
+
+em {
+  font-style: normal;
+  font-weight: normal;
+  color: @em-color;
+}
+
+img, iframe {
+  max-width: 100%;
+}
+
+dt {
+  font-weight: bold;
+  float: left;
+  clear: both;
+
+  &:after {
+    font-weight: 300;
+    content: ":\0000a0";
+  }
+}
+
+hr {
+  border-color: #dddddd;
+}
+
+pre {
+  padding: 5px 10px;
+  margin: -5px 0 1em 2px;
+  border-left: 3px solid fadeout(@link-color, 30%);
+  max-width: 100%;
+  overflow: auto;
+  &:hover {
+    background-color: fadeout(@link-color, 97%);
+  }
+  code {
+    vertical-align: 0;
+  }
+  &, code {
+    font: 10pt/1.4 Courier, monospace;
+  }
+}
+code {
+  font: 11pt Courier, monospace;
+  letter-spacing: -1px;
+}
+a:hover code {
+  color: @link-hover-color;
+}
+
+sup {
+  vertical-align: super;
+  font-size: smaller;
+}
+
+
+/*** layout ***/
+
+article {
+  width: 67%;
+  float: left;
+  padding-top: 1em;
+  min-height: 100px;
+
+  figure {
+    text-align: center;
+  }
+}
+
+aside {
+  width: 27%;
+  float: right;
+  border-left: 2px solid @aside-border-color;
+  margin: 3em 0;
+  padding: .25em 0 .25em 3%;
+}
+aside div ~ div {
+  margin-top: 1.5em;
+}
+
+header {
+  margin: 1em 0 .25em;
+
+  h1 {
+    font-size: 3em;
+    line-height: 1.1em;
+  }
+  h2 {
+    font-size: 1.18em;
+    font-weight: 300;
+    line-height: 1.5em;
+  }
+  img {
+    height: 180px;
+    float: right;
+    margin: -3.3em 0 -170px -100px;
+  }
+}
+
+nav {
+  ul {
+    margin: 0 0 .75em;
+    font-size: 1.5em;
+    font-weight: normal;
+  }
+  li {
+    display: inline;
+    margin-right: 20px;
+  }
+  a {
+    border-bottom: none;
+    &:hover {
+      border-bottom: .15em solid;
+    }
+  }
+}
+
+footer {
+  clear: both;
+  padding: 0 1.5em;
+  font-size: 12px;
+  color: @footer-color;
+  text-align: center;
+}
+
+.steps {
+  counter-reset: step;
+}
+
+.steps h3:before {
+  content: counter(step) ". ";
+  counter-increment: step;
+}
+
+.example, .example em {
+  color: #666666;
+}
+
+/*** homepage ***/
+
+.home {
+  article, aside {
+    width: auto;
+    float: none;
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+  aside {
+    clear: both;
+    overflow: hidden;
+    margin-bottom: 2em;
+
+    p:last-child {
+      margin-bottom: 0;
+    }
+    .section {
+      width: 29%;
+      padding: 0 3%;
+      margin-top: 10px;
+      float: left;
+      padding-bottom: 1000px;
+    	margin-bottom: -1000px;
+
+    	&:first-child {
+        padding-left: 0;
+        border-right: 3px solid @aside-border-color;
+      }
+      &:last-child {
+        padding-right: 0;
+        border-left: 3px solid @aside-border-color;
+      }
+    }
+  }
+}
+
+.billboard {
+  margin: 30px 0 -30px 0;
+  min-height: 610px;
+  font-size: 22px;
+
+  img.logo {
+    float: right;
+    min-width: 50px;
+    max-width: 300px;
+    margin: -20px 0 2px -130px;
+    *margin: 100px -5px -500px -130px;
+    *width: 280px;
+  }
+  h1 {
+    padding-top: 70px;
+    font-size: 3.5em;
+    line-height: 1.1;
+    letter-spacing: -1px;
+  }
+  h2 {
+    font-weight: normal;
+    font-size: 1.35em;
+    line-height: 1.63;
+  }
+  figure {
+    text-align: left;
+    margin: 1.5em 0 2em 0;
+    a {
+      color: @link-color !important;
+    }
+    &:hover{
+      img {
+        opacity: .98;
+        box-shadow: 5px 5px 5px #aaa;
+      }
+    }
+    img {
+      float: left;
+      margin-right: 30px;
+    }
+  }
+  figcaption {
+    max-width: 600px;
+    margin: .2em 0;
+    line-height: 1.5;
+    font-weight: bold;
+    p { margin: 0; }
+  }
+}
+
+figure.logo {
+  .clearfix;
+  clear: both;
+  padding-top: 1.5em;
+
+  img {
+    float: left;
+    margin: 0 10px 1em 0;
+  }
+
+  border-top: 2px solid @aside-border-color;
+}
+
+h2.screencast {
+  a {
+    background: url(/images/television.png) no-repeat right center;
+    padding-right: 50px;
+
+    &:hover, &:active {
+      background-image: url(/images/television-active.png);
+    }
+  }
+  /* preload background */
+  background: url(/images/television-active.png) no-repeat -99px -99px;
+}
+
+/*** enhancements for smaller devices ***/
+
+@media only screen and (max-width: 1000px) {
+  body {
+    width: 100%;
+    font-size: 14px;
+  }
+  h2 {
+    font-size: 1.5em;
+    margin-bottom: .1em;
+  }
+  header img {
+    height: 170px;
+  }
+  .billboard {
+    min-height: 0;
+    font-size: 15px;
+    margin: 0;
+
+    img.logo {
+      display: none;
+    }
+    h1 {
+      padding-top: 60px;
+    }
+    figure {
+      margin: 1em 0 !important;
+    }
+  }
+}
+
+@media only screen and (max-height: 900px) {
+  .billboard {
+    min-height: 0;
+    margin: 0;
+
+    img.logo {
+      max-width: 30%;
+      margin-top: 0;
+      margin-right: 20px;
+    }
+  }
+}
+
+@media only screen and (max-height: 750px) {
+  .billboard {
+    h1 {
+      padding-top: 30px;
+    }
+    img.logo {
+      max-width: 28%;
+      margin-right: 50px;
+    }
+  }
+  .home {
+    aside {
+      margin-bottom: 1em;
+      .section {
+        margin-top: ;
+      }
+    }
+  }
+  footer {
+    p {
+      margin-bottom: 0.5em;
+    }
+  }
+}
+
+@media only screen and (max-height: 600px) {
+  .billboard {
+    h1 {
+      padding: 0;
+    }
+    img.logo {
+      max-width: 20%;
+    }
+  }
+}
+
+@media only screen and (max-height: 400px) {
+  body {
+    font-size: 13px;
+  }
+  h2 {
+    font-size: 1.3em;
+    margin-bottom: .1em;
+  }
+  footer {
+    padding: 1em 0;
+  }
+  .billboard {
+    font-size: 13px;
+
+    img.logo {
+      max-width: 6%;
+    }
+    figure {
+      display: none;
+    }
+  }
+}
+
+@media only screen and (max-width: 720px), screen and (max-height: 200px) {
+  article, aside {
+    width: auto;
+    float: none;
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+  aside {
+    padding-top: 1em;
+    border-top: 2px solid @aside-border-color;
+    border-bottom: 2px solid @aside-border-color;
+  }
+  img {
+    height: auto;
+  }
+  header img {
+    display: none;
+  }
+  .home aside .section {
+    float: none;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    border: none !important;
+  }
+  h2 {
+    font-size: 1.3em;
+  }
+  footer {
+    padding: 1em 0;
+  }
+  .billboard {
+    font-size: 13px;
+
+    h1 {
+      padding: 0;
+    }
+  }
+}
+
+@media only screen and (max-width: 480px), screen and (max-height: 320px) {
+  header, .billboard {
+    font-size: 11px;
+    margin: 0;
+    h1 {
+      font-size: 28px;
+    }
+    h2 {
+      font-size: 10px;
+    }
+    img.logo {
+      display: none;
+    }
+    figure {
+      display: none;
+    }
+  }
+  nav {
+    ul {
+      margin: 0;
+      font-size: 14px;
+    }
+    li {
+      margin-right: 5px;
+    }
+  }
+}
+
+/*** selection color ***/
+@selection-color: #b8e1d9;
+@code-selection-color: fadeout(@link-color, 90%);
+
+::selection {background: @selection-color;}
+::-moz-selection {background: @selection-color;}
+body {-webkit-tap-highlight-color: @selection-color;}
+
+pre::selection, code::selection {background: @code-selection-color;}
+pre::-moz-selection, code::-moz-selection {background: @code-selection-color;}
+pre, code {-webkit-tap-highlight-color: @code-selection-color;}
+
+/*** print media ***/
+
+@media print {
+  a[href^="http://"]:after {
+    content: " (" attr(href) ") ";
+  }
+}
+
+/*** scrollbars ***/
+
+::-webkit-scrollbar {
+    width: 10px;
+    height: 6px;
+    margin-left: 10px;
+}
+
+::-webkit-scrollbar-track-piece {
+    background-color: #c3eae2;
+    border-radius: 6px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #15bb9a;
+    border-radius: 6px;
+}
+
+/*** IE fixes ***/
+
+/* IE6 & 7 */
+.home .section {
+  *padding-left: 0 !important;
+}
+
+/* IE8 */
+html .home .section {
+  padding-right: ~"0\0/";
+}

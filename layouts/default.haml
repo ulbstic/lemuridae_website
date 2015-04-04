@@ -1,0 +1,22 @@
+!!!
+%html{:lang => "en"}
+  = render "head", :title => "LEMURIDAE.ORG | #{@item[:title]}"
+  %body
+    %header
+      %hgroup
+        %h1
+          %a{:href => "/", :rel => "contents"} LEMURIDAE.ORG
+        %h2
+          Text mining for content enhancement & compliance
+          %a{:href => "/", :rel => "contents"}
+            %img{:alt => "", :src => "/images/lemur_logo.jpg", :class => "logo"}
+    %nav
+      %ul
+        - @items.
+        -   find_all{|content| content[:extension] =~ /^html/ and not content[:hide] and content.reps.first.path =~ /^\/[^\/]+\/$/ }.
+        -   sort{|a,b| a[:filename] <=> b[:filename]}.
+        -   each do |page|
+          %li
+            %a{:href => page.reps.first.path}=page[:title]
+    = yield
+    = render "footer"

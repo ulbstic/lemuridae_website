@@ -1,0 +1,5 @@
+%h3 #{event[:title]}, #{event[:location]}
+%p
+  %a{:href => event[:website]} #{event[:event]}
+  %br
+  #{event[:location_details]} — #{event[:date].strftime '%d %B %Y'}

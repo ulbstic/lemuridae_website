@@ -1,0 +1,70 @@
+#!/usr/bin/env ruby
+
+compress = File.exists? 'COMPRESS'
+
+compile '/stylesheets/*' do
+  filter :less
+  filter :rainpress if compress
+end
+
+compile '/scripts/*' do
+  filter :yui_compressor if compress
+end
+
+compile '/0-index' do
+  layout 'home'
+  filter :relativize_paths, :type => :html
+  filter :html_compressor if compress
+end
+
+compile "events/*" do
+end
+
+compile '*' do
+  if item[:extension] =~/erb$/
+    filter :erb
+  end
+  if item[:extension] =~ /^html/
+    layout 'default'
+    filter :relativize_paths, :type => :html
+    filter :html_compressor if compress
+  end
+end
+
+route "stylesheets/*" do
+  rep.item.identifier.chop + ".css"
+end
+
+route "scripts/*" do
+  rep.item.identifier.chop + ".js"
+end
+
+route "events/*" do
+end
+
+route "*-bibtex" do
+  rep.item.identifier.sub /-bibtex\/$/, ".bib"
+end
+
+route "*-citation" do
+  rep.item.identifier.sub /-citation\/$/, ".txt"
+end
+
+route '*' do
+  if item.binary?
+    # Write item with identifier /foo/ to /foo.ext
+    item.identifier.chop + '.' + item[:extension]
+  else
+    # Write item with identifier /2.foo/ to /foo/index.html
+    "#{remove_sorting_number item.identifier}index.html"
+  end
+end
+
+layout '*', :haml, :format => :html5
+
+class Nanoc3::RuleContext
+  def remove_sorting_number(path)
+    path.gsub(/\/0-[^\/]+\/$/, '/').
+         gsub(/\/\d+-/, '/')
+  end
+end

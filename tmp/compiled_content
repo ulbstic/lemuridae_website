@@ -1,0 +1,3954 @@
+{:	data{9I"/:ET{:default{	:	lastI"<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>A Brand New nanoc Site - Home</title>
+    <link rel="stylesheet" href="/stylesheet.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.7.5">
+  </head>
+  <body>
+    <div id="main">
+      <h1>A Brand New nanoc Site</h1>
+
+<p>You’ve just created a new nanoc site. The page you are looking at right now is the home page for your site. To get started, consider replacing this default homepage with your own customized homepage. Some pointers on how to do so:</p>
+
+<ul>
+  <li><p><strong>Change this page’s content</strong> by editing the “index.html” file in the “content” directory. This is the actual page content, and therefore doesn’t include the header, sidebar or style information (those are part of the layout).</p></li>
+  <li><p><strong>Change the layout</strong>, which is the “default.html” file in the “layouts” directory, and create something unique (and hopefully less bland).</p></li>
+</ul>
+
+<p>If you need any help with customizing your nanoc web site, be sure to check out the documentation (see sidebar), and be sure to subscribe to the discussion group (also see sidebar). Enjoy!</p>
+
+    </div>
+    <div id="sidebar">
+      <h2>Documentation</h2>
+      <ul>
+        <li><a href="http://nanoc.ws/docs/">Documentation</a></li>
+        <li><a href="http://nanoc.ws/docs/tutorial/">Getting Started</a></li>
+      </ul>
+      <h2>Community</h2>
+      <ul>
+        <li><a href="http://groups.google.com/group/nanoc/">Discussion Group</a></li>
+        <li><a href="irc://chat.freenode.net/#nanoc">IRC Channel</a></li>
+        <li><a href="http://github.com/nanoc/nanoc/wiki/">Wiki</a></li>
+      </ul>
+    </div>
+  </body>
+</html>
+;T:rawI"�<h1>A Brand New nanoc Site</h1>
+
+<p>You’ve just created a new nanoc site. The page you are looking at right now is the home page for your site. To get started, consider replacing this default homepage with your own customized homepage. Some pointers on how to do so:</p>
+
+<ul>
+  <li><p><strong>Change this page’s content</strong> by editing the “index.html” file in the “content” directory. This is the actual page content, and therefore doesn’t include the header, sidebar or style information (those are part of the layout).</p></li>
+  <li><p><strong>Change the layout</strong>, which is the “default.html” file in the “layouts” directory, and create something unique (and hopefully less bland).</p></li>
+</ul>
+
+<p>If you need any help with customizing your nanoc web site, be sure to check out the documentation (see sidebar), and be sure to subscribe to the discussion group (also see sidebar). Enjoy!</p>
+;T:preI"�<h1>A Brand New nanoc Site</h1>
+
+<p>You’ve just created a new nanoc site. The page you are looking at right now is the home page for your site. To get started, consider replacing this default homepage with your own customized homepage. Some pointers on how to do so:</p>
+
+<ul>
+  <li><p><strong>Change this page’s content</strong> by editing the “index.html” file in the “content” directory. This is the actual page content, and therefore doesn’t include the header, sidebar or style information (those are part of the layout).</p></li>
+  <li><p><strong>Change the layout</strong>, which is the “default.html” file in the “layouts” directory, and create something unique (and hopefully less bland).</p></li>
+</ul>
+
+<p>If you need any help with customizing your nanoc web site, be sure to check out the documentation (see sidebar), and be sure to subscribe to the discussion group (also see sidebar). Enjoy!</p>
+;T:	post@
+I"/stylesheet/;T{;{;I"�* {
+  margin: 0;
+  padding: 0;
+
+  font-family: Georgia, Palatino, serif;
+}
+
+body {
+  background: #fff;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link,
+a:visited {
+  color: #f30;
+}
+
+a:hover {
+  color: #f90;
+}
+
+#main {
+  position: absolute;
+
+  top: 40px;
+  left: 280px;
+
+  width: 500px;
+}
+
+#main h1 {
+  font-size: 40px;
+  font-weight: normal;
+
+  line-height: 40px;
+
+  letter-spacing: -1px;
+}
+
+#main p {
+  margin: 20px 0;
+
+  font-size: 15px;
+
+  line-height: 20px;
+}
+
+#main ul, #main ol {
+  margin: 20px;
+}
+
+#main li {
+  font-size: 15px;
+
+  line-height: 20px;
+}
+
+#main ul li {
+  list-style-type: square;
+}
+
+#sidebar {
+  position: absolute;
+
+  top: 40px;
+  left: 20px;
+  width: 200px;
+
+  padding: 20px 20px 0 0;
+
+  border-right: 1px solid #ccc;
+
+  text-align: right;
+}
+
+#sidebar h2 {
+  text-transform: uppercase;
+
+  font-size: 13px;
+
+  color: #333;
+
+  letter-spacing: 1px;
+
+  line-height: 20px;
+}
+
+#sidebar ul {
+  list-style-type: none;
+
+  margin: 20px 0;
+}
+
+#sidebar li {
+  font-size: 14px;
+
+  line-height: 20px;
+}
+;T;	@;
+@I"/0-index/;T{;{	;I"	<!DOCTYPE html>
+<html lang="en">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <title>Lemuridae.org</title>
+    <link href="stylesheets/main.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Josefin+Sans:600" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lora" rel="stylesheet" type="text/css">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  </head>
+  <body class="home">
+    
+    <article>
+      <div class="billboard">
+        <hgroup>
+          <h1><a href="about/">LEMURIDAE.ORG</a></h1>
+          <h2><a href="about/">Build. Class. Comply.</a></h2>
+          <h3><a href="about/">Text mining for content enhancement &amp; compliance</a></h3>
+        </hgroup>
+        	<p></p>
+          <p><a href="about/"><img src="images/lemur_broad.jpg"></a></p>
+      </div>
+    </article>
+    
+    <aside>
+      <div class="section">
+        <h2><a href="compliance/">Compliance issues &amp; challenges</a></h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+      </div>
+      <div class="section">
+        <h2><a href="taxonomies/">Build taxonomies &amp; file plans</a></h2>
+        <p>Duis aute irure dolor in tempor reprehenderit in velit esse cillum eiusmod voluptate.</p>
+      </div>
+      <div class="section">
+        <h2><a href="classification/">Classify &amp; annotate content</a></h2>
+        <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.</p>
+      </div>
+    </aside>
+    <footer>
+      <p>
+        <a href="authors/">© 2015–2015 MaSTIC – Université Libre de Bruxelles</a>
+      </p>
+    </footer>
+    <script>(function(a){if(navigator.userAgent.match(/like Mac OS X/i)){var c=[1,1],b="querySelectorAll"in a?a.querySelectorAll("meta[name=viewport]"):[],d=function(){b.content="width=device-width,minimum-scale="+c[0]+",maximum-scale="+c[1];a.removeEventListener("gesturestart",d,!0)};if((b=b[b.length-1])&&"addEventListener"in a)d(),c=[0.25,1.6],a.addEventListener("gesturestart",d,!0)}})(document);</script>
+  </body>
+</html>
+;T;	I"�
+<article>
+  <div class='billboard'>
+    <hgroup>
+      <h1><a href='/about/'>LEMURIDAE.ORG</a></h1>
+      <h2><a href='/about/'>Build. Class. Comply.</a></h2>
+      <h3><a href='/about/'>Text mining for content enhancement & compliance</a></h3>
+    </hgroup>
+    	<p></p>
+      <p><a href='/about/'><img src='/images/lemur_broad.jpg'></a></p>
+  </div>
+</article>
+
+<aside>
+  <div class='section'>
+    <h2><a href='/compliance/'>Compliance issues & challenges</a></h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+  </div>
+  <div class='section'>
+    <h2><a href='/taxonomies/'>Build taxonomies & file plans</a></h2>
+    <p>Duis aute irure dolor in tempor reprehenderit in velit esse cillum eiusmod voluptate.</p>
+  </div>
+  <div class='section'>
+    <h2><a href='/classification/'>Classify & annotate content</a></h2>
+    <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.</p>
+  </div>
+</aside>
+;T;
+@;@I"/1-cleanup/;T{;{	;I"�.<!DOCTYPE html>
+<html lang="en">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <title>Lemuridae.org | Cleanup</title>
+    <link href="../stylesheets/main.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700" rel="stylesheet" type="text/css">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  </head>
+  <body>
+    <header>
+      <hgroup>
+        <h1>
+          <a href="../" rel="contents">Lemuridae.org</a>
+        </h1>
+        <h2>
+          Text mining for content enhancement &amp; compliance
+          <a href="../" rel="contents">
+            <img alt="" class="logo" src="../images/lemur.jpg">
+          </a>
+        </h2>
+      </hgroup>
+    </header>
+    <nav>
+      <ul>
+        <li>
+          <a href="./">Cleanup</a>
+        </li>
+        <li>
+          <a href="../reconciliation/">Reconciliation</a>
+        </li>
+        <li>
+          <a href="../named-entity-extraction/">Extraction</a>
+        </li>
+        <li>
+          <a href="../sustainable-access/">Access</a>
+        </li>
+        <li>
+          <a href="../reaching-out/">Reaching out</a>
+        </li>
+        <li>
+          <a href="../about/">About</a>
+        </li>
+      </ul>
+    </nav>
+    
+    <article>
+      <h1>Clean up your metadata</h1>
+      <p>No matter how much effort you have put into creating it, tiny errors always creep into a large metadata set. <strong>Cleaning</strong> is the process that tries to find and correct those errors in a semi-automated way.</p>
+      <p>The easiest way to get started, is to follow through an <em>example</em>. We use the <a href="http://www.powerhousemuseum.com/collection/database/download.php">collection metadata</a> provided by the Sydney <a href="http://www.powerhousemuseum.com/">Powerhouse Museum</a> and walk you through OpenRefine, right from the start.</p>
+      <h1>Screencast</h1>
+      <p>Follow along with this screencast and/or the steps below.</p>
+      <iframe width="640" height="360" src="http://www.youtube.com/embed/NnCA1dnCT-c?rel=0&amp;hd=1&amp;color=white&amp;modestbranding=1&amp;rel=0&amp;autohide=1" frameborder="0" allowfullscreen></iframe>
+      <h2>Preparation</h2>
+      <h3>Get the Powerhouse Museum metadata</h3>
+      <p>You can <a href="http://data.freeyourmetadata.org/powerhouse-museum/phm-collection.zip">download</a> the collection metadata <a href="http://data.freeyourmetadata.org/powerhouse-museum/phm-collection.zip">compressed</a> or <a href="http://data.freeyourmetadata.org/powerhouse-museum/phm-collection.tsv">uncompressed</a>.
+        Alternatively, you can download it directly from the <a href="http://www.powerhousemuseum.com/collection/database/download.php">Powerhouse Museum</a>.
+        This metadata is released under a <a href="http://creativecommons.org/licenses/by-sa/2.5/au/deed.en">CC-BY-SA license</a>.</p>
+      <h3>Install and start OpenRefine</h3>
+      <p>Download <a href="http://www.openrefine.org/">OpenRefine</a> and follow the instructions. OpenRefine then opens in your browser.</p>
+      <h2>Example cleaning steps</h2>
+      <div class="steps">
+        <h3>Import the collection into OpenRefine</h3>
+        <p>On the OpenRefine start page, create a new project using the <a href="http://data.freeyourmetadata.org/powerhouse-museum/phm-collection.tsv">downloaded data file</a>. Do not forget to tick the <em>Ignore quotation marks</em> checkbox, since the quotes inside the file do not have any meaning to OpenRefine. If all goes well, you see 75.814 rows.</p>
+        <p>Alternatively, you can download the <a href="http://data.freeyourmetadata.org/powerhouse-museum/phm-collection.google-refine.tar.gz">initial OpenRefine project</a> directly.</p>
+        <h3>Get to know your data</h3>
+        <p>The first thing to do is to look around and get to know your data. You can inspect the different data values by displaying them in <strong>facets</strong>. Click the triangle in front of the column name, select <em>Facet</em>, and create a facet of your choice.</p>
+        <h3>Remove blank rows</h3>
+        <p>One thing you notice when creating a <em>numeric facet</em> for the <em>Record ID</em> column, is that three rows are <strong>empty</strong>. You can find them by unticking the <em>Numeric</em> checkbox, leaving only <em>Non-numeric</em> values. To remove these rows, click the triangle in front of the <em>All</em> column, select <em>Edit rows</em>, and then <em>Remove all matching rows</em>. Close the numeric facet to see the remaining 75.811 rows.</p>
+        <h3>Remove duplicate rows</h3>
+        <p>To eliminate <strong>duplicate rows</strong>, we have to bring them together. This is most easily done by sorting them on a unique value, such as the <em>Record ID</em>. To do this, click the triangle of the <em>Record ID</em> column and sort the cell values as numbers. In OpenRefine, sorting is only a visual aid, unless you make the order permanent. To do this, click the <em>Sort</em> menu at the top and choose <em>Reorder rows permanently</em>.
+        </p>
+<p>Identical rows are now adjacent to each other. Next, blank the <em>Record ID</em> of rows that have the same <em>Record ID</em> as the row above them, marking duplicates. Click on the <em>Record ID</em> triangle, choose <em>Edit cells</em>, <em>Blank down</em>. The status message tells you that 84 columns were affected. Eliminate those rows by creating a facet on blank cells (<em>Facet</em>, <em>Customized facets</em>, <em>Facet by blank</em>), selecting the blank rows by clicking on <em>true</em>, and removing them using the <em>All</em> triangle (<em>Edit rows</em>, <em>Remove all matching rows</em>). Upon closing the facet, you see 75.727 unique rows.</p>
+        <h3>Split cells with multiple values</h3>
+        <p>In some datasets, several cells can contain <strong>multiple values</strong>. This is the case with the <em>Categories</em> field. To have a better view, click the <em>Categories</em> triangle and select <em>View</em>, <em>Collapse all other columns</em>. You can see that categories are separated by a pipe character <code>|</code>. Choose <em>Edit cells</em>, <em>Split multi-valued cells</em>, entering <code>|</code> as the value separator. OpenRefine informs you that you now have 170.167 rows.</p>
+        <p>It is important to fully understand the <strong>rows/records paradigm</strong>. Make the <em>Record ID</em> column visible to see what is going on. In the <em>rows</em> view, each row represents a couple of a <em>Record ID</em> and a single <em>Category</em>, enabling manipulation of each one individually. The <em>records</em> view has an entry for each <em>Record ID</em>, which can have different <em>Categories</em>, but each record is manipulated as a whole. Concretely, now there are 170.167 category assignments, spread over 75.736 collection items.</p>
+        <h3>Remove blank cells</h3>
+        <p>As it turns out, some of the <em>Categories</em> are <strong>empty</strong>. Since we are not interested in these values, you can select them by creating a facet for blanks (<em>Facet</em>, <em>Customized facets</em>, <em>Facet by blank</em>, set filter to <em>true</em>) and remove them (<em>All</em> triangle, <em>Edit rows</em>, <em>Remove all matching rows</em>). Make sure you are in <em>rows</em> mode: in <em>records</em> mode, you would remove all records with at least one blank category. Instead, we want to remove only rows with empty categories, leaving 169.706 rows or 75.275 records.</p>
+        <h3>Cluster values</h3>
+        <p>An amazing feature of OpenRefine is its ability to automatically <strong>cluster</strong> similar values. This helps to correct typos and minor spelling differences. Click the <em>Categories</em> triangle and choose <em>Edit cells</em>, <em>Cluster and edit</em>. Using standard settings (<em>key collision</em> with <em>fingerprint</em>), we find 27 clusters, which concern casing differences. Choose <em>Select All</em> and <em>Merge Selected &amp; Re-Cluster</em> to merge them.</p>
+        <p>Clustering again by <em>key collision</em> using an <em>ngram-fingerprint</em> of size <em>2</em> remedies spacing differences. After a quick manual review, we decided not to cluster <em>Shirts</em> and <em>T-shirts</em>, but you can merge everything else. Other methods, such as <em>nearest neighbor</em> using <em>Levenshtein</em> distance, do not bring helpful suggestions, except for singular/plural variations. You can choose to accept those manually if you like.</p>
+        <h3>Remove double category values</h3>
+        <p>You may notice that some of the records contain the same <em>Category</em> value twice. However, removing <strong>duplicates</strong> here is not as simple as before, since the values should only be unique <em>per record</em> instead of globally. We found a way to achieve the desired result, but it uses some of the more advanced OpenRefine functions.</p>
+        <p>The idea is to bring the values together, keep the unique ones, and separate them again. So first, we join the multi-valued cells using <em>Edit cells</em>, <em>Join multi-valued cells</em>, <em>OK</em>. The category field is now a single connected piece of text. Then, a custom expression will remove duplicates in this text. Click <em>Edit cells</em>, <em>Transform</em> and enter this expression: <code>value.split(", ").uniques().join(", ")</code>, confirming with <em>OK</em>. This code is written in the <a href="https://github.com/OpenRefine/OpenRefine/wiki/GREL-Functions">General Refine Expression Language (GREL)</a>. It inspects the comma-separated parts of the text individually, keeps only the unique ones, and joins them back together in the cell. Afterwards, we split the multi-valued <em>Categories</em> field again by choosing <em>Edit cells</em>, <em>Split multi-valued cells</em>, <em>OK</em>.</p>
+        <p>This leaves you with 75.275 records and 167.016 rows. These numbers my vary slightly, depending on your choices in the clustering step.</p>
+      </div>
+        <h2>Congratulations</h2>
+        <p>You have successfully cleaned your first dataset. Time to free your own metadata!</p>
+        <p>If you want to have a look at the result without following all steps, download the <a href="http://data.freeyourmetadata.org/powerhouse-museum/phm-collection-cleaned.google-refine.tar.gz">finished OpenRefine project</a>. Use the <em>Undo / Redo</em> history to review each step.</p>
+        <h2>Take your metadata to the next level</h2>
+        <p>Now, you're ready to <a href="../reconciliation/">reconcile</a> this metadata and connect it to the Linked Data Cloud. These <a href="../reconciliation/">simple steps</a> show you how.</p>
+    </article>
+    <aside>
+      <h2>Get started quickly!</h2>
+      <p>This page walks you through a <strong>hands-on example</strong>, teaching you how to clean your metadata.</p>
+      <p>You can also <a href="http://data.freeyourmetadata.org/powerhouse-museum/phm-collection-cleaned.google-refine.tar.gz">download the finished example directly</a> and examine each step.</p>
+      <h2>On to the next step</h2>
+      <p>Has your metadata been cleaned? Let's <a href="../reconciliation/">reconcile</a> it!</p>
+    </aside>
+    <footer>
+      <p>
+        <a href="../authors/">© 2011–2015 MaSTIC – Université Libre de Bruxelles</a>
+      </p>
+    </footer>
+    <script>(function(a){if(navigator.userAgent.match(/like Mac OS X/i)){var c=[1,1],b="querySelectorAll"in a?a.querySelectorAll("meta[name=viewport]"):[],d=function(){b.content="width=device-width,minimum-scale="+c[0]+",maximum-scale="+c[1];a.removeEventListener("gesturestart",d,!0)};if((b=b[b.length-1])&&"addEventListener"in a)d(),c=[0.25,1.6],a.addEventListener("gesturestart",d,!0)}})(document);</script>
+  </body>
+</html>
+;T;	I"�&
+<article>
+  <h1>Clean up your metadata</h1>
+  <p>No matter how much effort you have put into creating it, tiny errors always creep into a&nbsp;large metadata set. <strong>Cleaning</strong> is the process that tries to find and correct those errors in a semi-automated way.</p>
+  <p>The easiest way to get started, is to follow through an <em>example</em>. We use the <a href="http://www.powerhousemuseum.com/collection/database/download.php">collection metadata</a> provided by the Sydney <a href="http://www.powerhousemuseum.com/">Powerhouse Museum</a> and walk you through OpenRefine, right from the start.</p>
+  <h1>Screencast</h1>
+  <p>Follow along with this screencast and/or the steps below.</p>
+  <iframe width="640" height="360" src="http://www.youtube.com/embed/NnCA1dnCT-c?rel=0&amp;hd=1&amp;color=white&amp;modestbranding=1&amp;rel=0&amp;autohide=1" frameborder="0" allowfullscreen></iframe>
+  <h2>Preparation</h2>
+  <h3>Get the Powerhouse Museum metadata</h3>
+  <p>You can <a href="http://data.freeyourmetadata.org/powerhouse-museum/phm-collection.zip">download</a> the collection metadata <a href="http://data.freeyourmetadata.org/powerhouse-museum/phm-collection.zip">compressed</a> or <a href="http://data.freeyourmetadata.org/powerhouse-museum/phm-collection.tsv">uncompressed</a>.
+    Alternatively, you can download it directly from the <a href="http://www.powerhousemuseum.com/collection/database/download.php">Powerhouse Museum</a>.
+    This metadata is released under a <a href="http://creativecommons.org/licenses/by-sa/2.5/au/deed.en">CC-BY-SA license</a>.</p>
+  <h3>Install and start OpenRefine</h3>
+  <p>Download <a href="http://www.openrefine.org/">OpenRefine</a> and follow the instructions. OpenRefine then opens in your&nbsp;browser.</p>
+  <h2>Example cleaning steps</h2>
+  <div class="steps">
+    <h3>Import the collection into OpenRefine</h3>
+    <p>On the OpenRefine start page, create a new project using the <a href="http://data.freeyourmetadata.org/powerhouse-museum/phm-collection.tsv">downloaded data file</a>. Do&nbsp;not forget to tick the <em>Ignore quotation marks</em> checkbox, since the quotes inside the file do not have any meaning to OpenRefine. If all goes well, you see 75.814&nbsp;rows.</p>
+    <p>Alternatively, you can download the <a href="http://data.freeyourmetadata.org/powerhouse-museum/phm-collection.google-refine.tar.gz">initial OpenRefine project</a> directly.</p>
+    <h3>Get to know your data</h3>
+    <p>The first thing to do is to look around and get to know your data. You can inspect the different data values by displaying them in <strong>facets</strong>. Click the triangle in front of the column name, select <em>Facet</em>, and create a facet of your choice.</p>
+    <h3>Remove blank rows</h3>
+    <p>One thing you notice when creating a&nbsp;<em>numeric facet</em> for the <em>Record ID</em> column, is that three rows are <strong>empty</strong>. You can find them by unticking the <em>Numeric</em> checkbox, leaving only <em>Non-numeric</em> values. To remove these rows, click the triangle in front of the <em>All</em> column, select <em>Edit rows</em>, and then <em>Remove all matching rows</em>. Close the numeric facet to see the remaining 75.811&nbsp;rows.</p>
+    <h3>Remove duplicate rows</h3>
+    <p>To eliminate <strong>duplicate rows</strong>, we have to bring them together. This is most easily done by sorting them on a unique value, such as the <em>Record ID</em>. To do this, click the triangle of the <em>Record ID</em> column and sort the cell values as numbers. In OpenRefine, sorting is only a&nbsp;visual aid, unless you make the order permanent. To do this, click the <em>Sort</em> menu at the top and choose <em>Reorder rows permanently</em>.
+    <p>Identical rows are now adjacent to each other. Next, blank the <em>Record ID</em> of rows that have the same <em>Record ID</em> as the row above them, marking duplicates. Click on the <em>Record ID</em> triangle, choose <em>Edit cells</em>, <em>Blank down</em>. The status message tells you that 84&nbsp;columns were affected. Eliminate those rows by creating a facet on blank cells (<em>Facet</em>, <em>Customized facets</em>, <em>Facet by blank</em>), selecting the blank rows by clicking on <em>true</em>, and removing them using the <em>All</em> triangle (<em>Edit rows</em>, <em>Remove all matching rows</em>). Upon closing the facet, you see 75.727&nbsp;unique rows.</p>
+    <h3>Split cells with multiple values</h3>
+    <p>In some datasets, several cells can contain <strong>multiple values</strong>. This is the case with the <em>Categories</em> field. To have a better view, click the <em>Categories</em> triangle and select <em>View</em>, <em>Collapse all other columns</em>. You can see that categories are separated by a pipe character <code>|</code>. Choose <em>Edit cells</em>, <em>Split multi-valued cells</em>, entering <code>|</code> as the value separator. OpenRefine informs you that you now have 170.167&nbsp;rows.</p>
+    <p>It is important to fully understand the <strong>rows/records paradigm</strong>. Make the <em>Record ID</em> column visible to see what is going on. In the <em>rows</em> view, each row represents a couple of a <em>Record ID</em> and a single <em>Category</em>, enabling manipulation of each one individually. The <em>records</em> view has an entry for each <em>Record ID</em>, which can have different <em>Categories</em>, but each record is manipulated as a whole. Concretely, now there are 170.167&nbsp;category assignments, spread over 75.736&nbsp;collection items.</p>
+    <h3>Remove blank cells</h3>
+    <p>As it turns out, some of the <em>Categories</em> are <strong>empty</strong>. Since we are not interested in these values, you can select them by creating a facet for blanks (<em>Facet</em>, <em>Customized facets</em>, <em>Facet by blank</em>, set filter to <em>true</em>) and remove them (<em>All</em> triangle, <em>Edit rows</em>, <em>Remove all matching rows</em>). Make sure you are in <em>rows</em> mode: in <em>records</em> mode, you would remove all records with at least one blank category. Instead, we want to remove only rows with empty categories, leaving 169.706&nbsp;rows or 75.275&nbsp;records.</p>
+    <h3>Cluster values</h3>
+    <p>An amazing feature of OpenRefine is its ability to automatically <strong>cluster</strong> similar values. This helps to correct typos and minor spelling differences. Click the <em>Categories</em> triangle and choose <em>Edit cells</em>, <em>Cluster and edit</em>. Using standard settings (<em>key collision</em> with <em>fingerprint</em>), we find 27&nbsp;clusters, which concern casing differences. Choose <em>Select All</em> and <em>Merge Selected &amp; Re-Cluster</em> to merge them.</p>
+    <p>Clustering again by <em>key collision</em> using an <em>ngram-fingerprint</em> of size&nbsp;<em>2</em> remedies spacing differences. After a quick manual review, we decided not to cluster <em>Shirts</em> and <em>T-shirts</em>, but you can merge everything else. Other methods, such as <em>nearest neighbor</em> using <em>Levenshtein</em> distance, do not bring helpful suggestions, except for singular/plural variations. You can choose to accept those manually if you like.</p>
+    <h3>Remove double category values</h3>
+    <p>You may notice that some of the records contain the same <em>Category</em> value twice. However, removing <strong>duplicates</strong> here is not as simple as before, since the values should only be unique <em>per record</em> instead of globally. We found a way to achieve the desired result, but it uses some of the more advanced OpenRefine functions.</p>
+    <p>The idea is to bring the values together, keep the unique ones, and separate them again. So first, we join the multi-valued cells using <em>Edit cells</em>, <em>Join multi-valued cells</em>, <em>OK</em>. The category field is now a single connected piece of text. Then, a&nbsp;custom expression will remove duplicates in this text. Click <em>Edit cells</em>, <em>Transform</em> and enter this expression: <code>value.split(", ").uniques().join(", ")</code>, confirming with <em>OK</em>. This code is written in the <a href="https://github.com/OpenRefine/OpenRefine/wiki/GREL-Functions">General Refine Expression Language (GREL)</a>. It inspects the comma-separated parts of the text individually, keeps only the unique ones, and joins them back together in the cell. Afterwards, we split the multi-valued <em>Categories</em> field again by choosing <em>Edit cells</em>, <em>Split multi-valued cells</em>, <em>OK</em>.</p>
+    <p>This leaves you with 75.275&nbsp;records and 167.016&nbsp;rows. These numbers my vary slightly, depending on your choices in the clustering step.</p>
+  </div>
+    <h2>Congratulations</h2>
+    <p>You have successfully cleaned your first dataset. Time to free your own metadata!</p>
+    <p>If you want to have a look at the result without following all steps, download the <a href="http://data.freeyourmetadata.org/powerhouse-museum/phm-collection-cleaned.google-refine.tar.gz">finished OpenRefine project</a>. Use the <em>Undo&nbsp;/&nbsp;Redo</em> history to review each step.</p>
+    <h2>Take your metadata to the next level</h2>
+    <p>Now, you're ready to <a href="/reconciliation/">reconcile</a> this metadata and connect it to the Linked Data Cloud. These <a href="/reconciliation/">simple steps</a> show you how.</p>
+</article>
+<aside>
+  <h2>Get started quickly!</h2>
+  <p>This page walks you through a <strong>hands-on example</strong>, teaching you how to clean your metadata.</p>
+  <p>You can also <a href="http://data.freeyourmetadata.org/powerhouse-museum/phm-collection-cleaned.google-refine.tar.gz">download the finished example directly</a> and examine each step.</p>
+  <h2>On to the next step</h2>
+  <p>Has your metadata been cleaned? Let's <a href="/reconciliation/">reconcile</a> it!</p>
+</aside>
+;T;
+@;@I"/2-reconciliation/;T{;{	;I"�:<!DOCTYPE html>
+<html lang="en">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <title>Lemuridae.org | Reconciliation</title>
+    <link href="../stylesheets/main.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700" rel="stylesheet" type="text/css">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  </head>
+  <body>
+    <header>
+      <hgroup>
+        <h1>
+          <a href="../" rel="contents">Lemuridae.org</a>
+        </h1>
+        <h2>
+          Text mining for content enhancement &amp; compliance
+          <a href="../" rel="contents">
+            <img alt="" class="logo" src="../images/lemur.jpg">
+          </a>
+        </h2>
+      </hgroup>
+    </header>
+    <nav>
+      <ul>
+        <li>
+          <a href="../compliance/">Cleanup</a>
+        </li>
+        <li>
+          <a href="./">Reconciliation</a>
+        </li>
+        <li>
+          <a href="../named-entity-extraction/">Extraction</a>
+        </li>
+        <li>
+          <a href="../sustainable-access/">Access</a>
+        </li>
+        <li>
+          <a href="../reaching-out/">Reaching out</a>
+        </li>
+        <li>
+          <a href="../about/">About</a>
+        </li>
+      </ul>
+    </nav>
+    
+    <article>
+      <h1>Reconcile your metadata</h1>
+      <p>The goal of reconciliation is to connect your collection-specific vocabulary to a <strong>controlled vocabulary</strong> on the Web.</p>
+      <p>For example: does your label <em>instruments</em> indicate <a href="http://id.loc.gov/authorities/subjects/sh85088961.html" target="_blank">musical instruments</a>, <a href="http://id.loc.gov/authorities/subjects/sh85082706.html" target="_blank">measuring instruments</a>, or even <a href="http://id.loc.gov/authorities/subjects/sh85001309.html" target="_blank">aeronautical instruments</a>?</p>
+      <p>Reconciliation is about giving <strong>meaning</strong> to field values, making your metadata interpretable by the whole wide world.</p>
+      <h1>Screencast</h1>
+      <p>Follow along with this screencast and/or the steps below.</p>
+      <p>The reconciliation screencast is coming soon. <a href="http://twitter.com/freemetadata">Stay tuned!</a></p>
+      <h2>Preparation</h2>
+      <h3>Get the cleaned Powerhouse Museum metadata</h3>
+      <p>In the <a href="../cleanup/">previous screencast</a>, we have cleaned the Powerhouse Museum metadata.</p>
+      <p>To start at the same spot, download
+         the <a href="http://data.freeyourmetadata.org/powerhouse-museum/phm-collection-cleaned.google-refine.tar.gz">cleaned OpenRefine project</a>
+         or create a new project using
+         the <a href="http://data.freeyourmetadata.org/powerhouse-museum/phm-collection-cleaned.zip">cleaned metadata</a>,
+         released under a <a href="http://creativecommons.org/licenses/by-sa/2.5/au/deed.en" target="_blank">CC-BY-SA license</a>.
+      </p>
+      <h3 id="install-rdf-extension">Install the RDF extension</h3>
+      <p>
+        OpenRefine has many <a href="https://github.com/OpenRefine/OpenRefine/wiki/Reconciliation" target="_blank">reconciliation possibilities</a>.<br>
+        Here, we are going to reconcile against an RDF data source.
+        Therefore, we need the <a href="http://lab.linkeddata.deri.ie/2010/grefine-rdf-extension/" target="_blank">DERI RDF Extension for OpenRefine</a>.
+        <a href="http://lab.linkeddata.deri.ie/2010/grefine-rdf-extension/downloads/?C=M;O=D" target="_blank">Download</a> and <a href="http://lab.linkeddata.deri.ie/2010/grefine-rdf-extension/#quick_start" target="_blank">install</a> it.</p>
+      
+      <h2>Example reconciliation steps</h2>
+      <div class="steps">
+        <h3>Pick a column to reconcile</h3>
+        <p>The Powerhouse Museum collection contains a <em>Categories</em> field. This field is a good candidate for connecting to a controlled vocabulary, because:</p>
+        <ul>
+          <li>it refers to <strong>well-defined external concepts</strong>
+</li>
+          <li>it offers an <strong>important subdivision</strong> of the collection</li>
+        </ul>
+        <h3>Pick a vocabulary to reconcile with</h3>
+        <p>
+          There are several controlled vocabularies online.
+          Which one to choose depends on your metadata <strong>domain</strong> and the digital <strong>availability</strong> of the vocabulary.
+        </p>
+        <p>
+          We chose the <a href="http://id.loc.gov/authorities/subjects.html" target="_blank">Library of Congress Subject Headings (LCSH)</a>,
+          since it provides an established vocabulary and is made available through <a href="http://en.wikipedia.org/wiki/SPARQL" target="_blank">a SPARQL endpoint</a>.
+          This means that computer programs can <strong>automatically access and browse</strong> it.
+        </p>
+        <h3>Tell OpenRefine about the vocabulary</h3>
+        <p>
+          In order to use a certain vocabulary, OpenRefine needs to know about it.
+          This is done by adding a <strong>reconciliation service</strong>.
+          This step is somewhat technical, but needs to be performed only once per vocabulary and we'll guide you through it.
+        </p>
+        <p>First, make sure you have installed the <a href="#install-rdf-extension">RDF extension</a>.</p>
+        <p>
+          Then, click the <em>RDF</em> button in the top right corner, select <em>Add reconciliation service</em>, <em>Based on SPARQL endpoint</em>.
+          In the dialog, you tell OpenRefine how to access the controlled vocabulary. For LCSH, provide the following parameters:
+        </p>
+        <dl>
+          <dt>Name</dt>
+          <dd>LCSH</dd>
+          <dt>Endpoint URL</dt>
+          <dd><code>http://sparql.freeyourmetadata.org/</code></dd>
+          <dt>Graph URI</dt>
+          <dd><code>http://id.loc.gov/authorities/subjects</code></dd>
+          <dt>Type</dt>
+          <dd>Virtuoso</dd>
+          <dt>Label properties</dt>
+          <dd>check only <code>skos:prefLabel</code>
+</dd>
+        </dl>
+        <p>
+          This instructs OpenRefine to create an <em>LCSH</em> reconciliation service that reads the vocabulary identified by <code>http://id.loc.gov/authorities/subjects</code> from our endpoint.
+          The vocabulary is loaded in Virtuoso (a database type) and uses <a href="http://en.wikipedia.org/wiki/Simple_Knowledge_Organization_System" target="_blank">SKOS</a> for labels.
+        </p>
+        <h3>Start the reconciliation process</h3>
+        <p>
+          Click the triangle in front of the <em>Categories</em> column and choose <em>Reconcile</em>, <em>Start reconciling</em>.
+          OpenRefine now presents all available reconciliation services.
+          Select the newly created <em>LSCH</em> service.
+        </p>
+        <p>
+          OpenRefine will now use some examples of your dataset to see how they map to the <em>LCSH</em> vocabulary.
+          As a result, you'll see that it recognizes the <em>Categories</em> as SKOS concepts.
+          Choose <strong>Start Reconciling</strong> to let OpenRefine perform the hard work.
+        </p>
+        <h3>Understanding the reconciliation results</h3>
+        <p>
+          After it has finished reconciling, OpenRefine will automatically create <strong>facets</strong> for its <em>judgement</em> (matched or not) and <em>best candidate's score</em>. A green bar underneath the column name indicates the <em>success percentage</em>.
+        </p>
+        <p>
+          A <strong>matching category assignment</strong> is indicated as a dark blue link.
+          For example, click the <a href="http://id.loc.gov/authorities/subjects/sh2001000705.html#concept">Botanical specimens</a> link to view to what vocabulary item it has been reconciled.
+          <strong>Unreconciled categories</strong> are black.
+          For some of them, OpenRefine found several alternatives (in light blue) but was unable to select the best one.
+          You could click each correct category manually, but this involves a lot of work.
+        </p>
+        <h3>Interpreting the reconciliation results</h3>
+        <p>To interpret the results, you should be familiar with the two OpenRefine modes:</p>
+        <dl>
+          <dt>Rows mode</dt>
+          <dd>
+            Each element is a <em>single category assignment</em> belonging to a collection item.
+            Each assignment is manipulated individually.<br>
+            <span class="example"><em>Example:</em> Item 7 is assigned category <em>Botanical specimens</em>.</span>
+          </dd>
+          <dt>Records mode</dt>
+          <dd>
+            Each element is a <em>collection item</em> with (possibly) multiple category assignments.
+            They are manipulated as a whole.<br>
+            <span class="example"><em>Example:</em> Item 7 is assigned categories <em>Botanical specimens</em> and <em>Numismatics</em>.</span>
+          </dd>
+        </dl>
+        <p>
+          First, switch to <em>rows</em> mode.
+          You can see there are 167.016 category assignments.
+          Use the <em>judgement</em> facet to select all 20.239 <strong>matched rows</strong>.
+          You can see that each category is indeed dark blue, indicating a successful match.
+          This means that 20.239 category assignments have been reconciled to the LCSH vocabulary.
+        </p>
+        <p>
+          With the <em>matched</em> rows still selected, switch to <em>records</em> mode.
+          OpenRefine informs us that there are 19.100 <strong>matched records</strong>.
+          This means that there are 19.000 records with <em>at least one</em> reconciled category assignment.
+          This should make clear the distinction between rows and records.
+        </p>
+        <h3>Retrying the reconciliation process</h3>
+        <p>
+          At this point, you may feel that a 25% records reconciliation rate is rather low.
+          Indeed, this implies that 75% of records cannot be linked.
+          This is due to the way the RDF extension uses the LCSH vocabulary.
+        </p>
+        <p>
+          As a workaround, we provide a <strong>preprocessed version of the LCSH vocabulary</strong>, which does not have this limitation.
+          Let's retry reconciliation with that endpoint.
+        </p>
+        <p>
+          First, undo the reconciliation by going to the <em>Undo / Redo</em> tab, and clicking on the step before <em>Reconcile cells</em>.
+          Then, go back to the <em>Facet / Filter</em> tab and remove the facets by clicking <em>Remove All</em>.
+          To add the new endpoint, click the <em>RDF</em> button, select <em>Add reconciliation service</em>, <em>Based on SPARQL endpoint</em>.
+          Its parameters are:
+        </p>
+        <dl>
+          <dt>Name</dt>
+          <dd>LCSH (preprocessed)</dd>
+          <dt>Endpoint URL</dt>
+          <dd><code>http://sparql.freeyourmetadata.org/</code></dd>
+          <dt>Graph URI</dt>
+          <dd><code>http://sparql.freeyourmetadata.org/authorities-processed/</code></dd>
+          <dt>Type</dt>
+          <dd>Virtuoso</dd>
+          <dt>Label properties</dt>
+          <dd>check only <code>skos:prefLabel</code>
+</dd>
+        </dl>
+        <p>
+          Now, restart the reconciliation process for the <em>Categories</em> column with this new endpoint (<em>Reconcile</em>, <em>Start reconciling</em>, <em>LCSH [preprocessed]</em>, <em>Start Reconciling</em>).
+        </p>
+        <h3>Interpreting the new reconciliation results</h3>
+        <p>
+          Reconciliation gives <strong>far better results</strong> now: almost 75% of records has been reconciled.
+          To have an overview of the non-reconciled categories, in <em>rows</em> mode, select the <em>none</em> facet under <em>judgement</em>.
+        </p>
+        <p>
+          You can have an even better view on them by creating a facet on the <em>Categories</em> column (<em>Facet</em>, <em>Text Facet</em>).
+          If there are too many choices, click <em>Facet by choice counts</em> and select a more appropriate range.
+          You can reconcile some of the largest categories manually if necessary.
+        </p>
+        <h3>Obtaining the reconciled URL</h3>
+        <p>
+          Now that reconciliation has been performed, you probably want to know the <strong>reconciled URL</strong>.
+        </p>
+        <p>
+          Remove all facets by clicking the <em>Remove All</em> button, and switch to <em>rows</em> mode.
+          Then, on the <em>Categories</em> column, choose <em>Edit column</em>, <em>Add column based on this column</em>.
+          Name this column <em>Category URL</em> and enter the GREL expression <code>cell.recon.match.id</code>.
+          It takes the reconciliation information of the cell, looks for the match, and extracts the ID, which is the URL.
+          Then click <em>OK</em>.
+        </p>
+        <p>
+          You can now use these URLs to <strong>link your metadata</strong> to the controlled vocabulary.
+        </p>
+      </div>
+      <h2>Congratulations</h2>
+      <p>
+        You have successfully completed your first reconciliation.<br>
+        Time to reconcile your own metadata!
+      </p>
+      <p>If you want to have a look at the result without following all steps, download the <a href="http://data.freeyourmetadata.org/powerhouse-museum/phm-collection-reconciled.google-refine.tar.gz">finished OpenRefine project</a>. Use the <em>Undo / Redo</em> history to review each step.</p>
+    </article>
+    
+    <aside>
+      <h2>Got clean metadata?</h2>
+      <p>Before you start reconciliation, first <a href="../cleanup/">clean your metadata</a>.</p>
+      <h2>Need help?</h2>
+      <p><strong>Ask your question</strong> on Twitter and get help from experts.</p>
+      <iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/tweet_button.html?text=%40freemetadata%20Can%20you%20help%20me%20%E2%80%A6%3F&amp;url=http://freeyourmetadata.org&amp;related=FreeMetadata:Free%20Your%20Metadata" height="20"></iframe>
+      <iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/follow_button.html?screen_name=freemetadata&amp;link_color=08719C" height="20"></iframe>
+    </aside>
+    <footer>
+      <p>
+        <a href="../authors/">© 2015–2015 MaSTIC – Université Libre de Bruxelles</a>
+      </p>
+    </footer>
+    <script>(function(a){if(navigator.userAgent.match(/like Mac OS X/i)){var c=[1,1],b="querySelectorAll"in a?a.querySelectorAll("meta[name=viewport]"):[],d=function(){b.content="width=device-width,minimum-scale="+c[0]+",maximum-scale="+c[1];a.removeEventListener("gesturestart",d,!0)};if((b=b[b.length-1])&&"addEventListener"in a)d(),c=[0.25,1.6],a.addEventListener("gesturestart",d,!0)}})(document);</script>
+  </body>
+</html>
+;T;	I"<0
+<article>
+  <h1>Reconcile your metadata</h1>
+  <p>The goal of reconciliation is to connect your collection-specific vocabulary to a&nbsp;<strong>controlled vocabulary</strong> on the Web.</p>
+  <p>For example: does your label <em>instruments</em> indicate <a href="http://id.loc.gov/authorities/subjects/sh85088961.html" target="_blank">musical instruments</a>, <a href="http://id.loc.gov/authorities/subjects/sh85082706.html" target="_blank">measuring instruments</a>, or even <a href="http://id.loc.gov/authorities/subjects/sh85001309.html" target="_blank">aeronautical instruments</a>?</p>
+  <p>Reconciliation is about giving <strong>meaning</strong> to field values, making your metadata interpretable by the whole wide world.</p>
+  <h1>Screencast</h1>
+  <p>Follow along with this screencast and/or the steps below.</p>
+  <p>The reconciliation screencast is coming soon. <a href="http://twitter.com/freemetadata">Stay tuned!</a></p>
+  <h2>Preparation</h2>
+  <h3>Get the cleaned Powerhouse Museum metadata</h3>
+  <p>In the <a href="/cleanup/">previous screencast</a>, we have cleaned the Powerhouse Museum metadata.</p>
+  <p>To start at the same spot, download
+     the <a href="http://data.freeyourmetadata.org/powerhouse-museum/phm-collection-cleaned.google-refine.tar.gz">cleaned OpenRefine project</a>
+     or create a new project using
+     the <a href="http://data.freeyourmetadata.org/powerhouse-museum/phm-collection-cleaned.zip">cleaned metadata</a>,
+     released under a <a href="http://creativecommons.org/licenses/by-sa/2.5/au/deed.en" target="_blank">CC-BY-SA license</a>.
+  </p>
+  <h3 id="install-rdf-extension">Install the RDF extension</h3>
+  <p>
+    OpenRefine has many <a href="https://github.com/OpenRefine/OpenRefine/wiki/Reconciliation" target="_blank">reconciliation possibilities</a>.<br>
+    Here, we are going to reconcile against an RDF data source.
+    Therefore, we need the <a href="http://lab.linkeddata.deri.ie/2010/grefine-rdf-extension/" target="_blank">DERI RDF Extension for OpenRefine</a>.
+    <a href="http://lab.linkeddata.deri.ie/2010/grefine-rdf-extension/downloads/?C=M;O=D" target="_blank">Download</a> and <a href="http://lab.linkeddata.deri.ie/2010/grefine-rdf-extension/#quick_start" target="_blank">install</a> it.</p>
+  
+  <h2>Example reconciliation steps</h2>
+  <div class="steps">
+    <h3>Pick a column to reconcile</h3>
+    <p>The Powerhouse Museum collection contains a <em>Categories</em> field. This field is a good candidate for connecting to a&nbsp;controlled vocabulary, because:</p>
+    <ul>
+      <li>it refers to <strong>well-defined external concepts</strong></li>
+      <li>it offers an <strong>important subdivision</strong> of the collection</li>
+    </ul>
+    <h3>Pick a vocabulary to reconcile with</h3>
+    <p>
+      There are several controlled vocabularies online.
+      Which one to choose depends on your metadata <strong>domain</strong> and the digital <strong>availability</strong> of the vocabulary.
+    </p>
+    <p>
+      We chose the <a href="http://id.loc.gov/authorities/subjects.html" target="_blank">Library of Congress Subject Headings (LCSH)</a>,
+      since it provides an established vocabulary and is made available through <a href="http://en.wikipedia.org/wiki/SPARQL" target="_blank">a&nbsp;SPARQL endpoint</a>.
+      This means that computer programs can <strong>automatically access and browse</strong> it.
+    </p>
+    <h3>Tell OpenRefine about the vocabulary</h3>
+    <p>
+      In order to use a certain vocabulary, OpenRefine needs to know about it.
+      This is done by adding a&nbsp;<strong>reconciliation service</strong>.
+      This step is somewhat technical, but needs to be performed only once per vocabulary and we'll guide you through it.
+    </p>
+    <p>First, make sure you have installed the <a href="#install-rdf-extension">RDF extension</a>.</p>
+    <p>
+      Then, click the <em>RDF</em> button in the top right corner, select <em>Add reconciliation service</em>, <em>Based on SPARQL endpoint</em>.
+      In the dialog, you tell OpenRefine how to access the controlled vocabulary. For LCSH, provide the following parameters:
+    </p>
+    <dl>
+      <dt>Name</dt>
+      <dd>LCSH</dd>
+      <dt>Endpoint URL</dt>
+      <dd><code>http://sparql.freeyourmetadata.org/</code></dd>
+      <dt>Graph URI</dt>
+      <dd><code>http://id.loc.gov/authorities/subjects</code></dd>
+      <dt>Type</dt>
+      <dd>Virtuoso</dd>
+      <dt>Label properties</dt>
+      <dd>check only <code>skos:prefLabel</code></dd>
+    </dl>
+    <p>
+      This instructs OpenRefine to create an <em>LCSH</em> reconciliation service that reads the vocabulary identified by <code>http://id.loc.gov/authorities/subjects</code> from our endpoint.
+      The&nbsp;vocabulary is loaded in Virtuoso (a&nbsp;database type) and uses <a href="http://en.wikipedia.org/wiki/Simple_Knowledge_Organization_System" target="_blank">SKOS</a> for labels.
+    </p>
+    <h3>Start the reconciliation process</h3>
+    <p>
+      Click the triangle in front of the <em>Categories</em> column and choose <em>Reconcile</em>, <em>Start reconciling</em>.
+      OpenRefine now presents all available reconciliation services.
+      Select the newly created <em>LSCH</em> service.
+    </p>
+    <p>
+      OpenRefine will now use some examples of your dataset to see how they map to the <em>LCSH</em> vocabulary.
+      As a result, you'll see that it recognizes the <em>Categories</em> as SKOS concepts.
+      Choose <strong>Start Reconciling</strong> to let OpenRefine perform the hard work.
+    </p>
+    <h3>Understanding the reconciliation results</h3>
+    <p>
+      After it has finished reconciling, OpenRefine will automatically create <strong>facets</strong> for its <em>judgement</em> (matched or not) and <em>best candidate's score</em>. A&nbsp;green bar underneath the column name indicates the <em>success percentage</em>.
+    </p>
+    <p>
+      A&nbsp;<strong>matching category assignment</strong> is indicated as a dark blue link.
+      For example, click the <a href="http://id.loc.gov/authorities/subjects/sh2001000705.html#concept">Botanical specimens</a> link to view to what vocabulary item it has been reconciled.
+      <strong>Unreconciled categories</strong> are black.
+      For some of them, OpenRefine found several alternatives (in light blue) but was unable to select the best one.
+      You could click each correct category manually, but this involves a lot of work.
+    </p>
+    <h3>Interpreting the reconciliation results</h3>
+    <p>To interpret the results, you should be familiar with the two OpenRefine modes:</p>
+    <dl>
+      <dt>Rows mode</dt>
+      <dd>
+        Each element is a&nbsp;<em>single category assignment</em> belonging to a&nbsp;collection item.
+        Each assignment is manipulated individually.<br>
+        <span class="example"><em>Example:</em> Item&nbsp;7 is assigned category <em>Botanical specimens</em>.</span>
+      </dd>
+      <dt>Records mode</dt>
+      <dd>
+        Each element is a&nbsp;<em>collection item</em> with (possibly) multiple category assignments.
+        They are manipulated as a whole.<br>
+        <span class="example"><em>Example:</em> Item&nbsp;7 is assigned categories <em>Botanical specimens</em> and <em>Numismatics</em>.</span>
+      </dd>
+    </dl>
+    <p>
+      First, switch to <em>rows</em> mode.
+      You can see there are 167.016&nbsp;category assignments.
+      Use the <em>judgement</em> facet to select all 20.239&nbsp;<strong>matched rows</strong>.
+      You can see that each category is indeed dark blue, indicating a&nbsp;successful match.
+      This means that 20.239&nbsp;category assignments have been reconciled to the LCSH vocabulary.
+    </p>
+    <p>
+      With the <em>matched</em> rows still selected, switch to <em>records</em> mode.
+      OpenRefine informs us that there are 19.100&nbsp;<strong>matched records</strong>.
+      This means that there are 19.000&nbsp;records with <em>at least one</em> reconciled category assignment.
+      This should make clear the distinction between rows and records.
+    </p>
+    <h3>Retrying the reconciliation process</h3>
+    <p>
+      At this point, you may feel that a&nbsp;25% records reconciliation rate is rather low.
+      Indeed, this implies that 75%&nbsp;of records cannot be linked.
+      This is due to the way the RDF extension uses the LCSH vocabulary.
+    </p>
+    <p>
+      As a&nbsp;workaround, we provide a&nbsp;<strong>preprocessed version of the LCSH vocabulary</strong>, which does not have this limitation.
+      Let's retry reconciliation with that endpoint.
+    </p>
+    <p>
+      First, undo the reconciliation by going to the <em>Undo / Redo</em> tab, and clicking on the step before <em>Reconcile cells</em>.
+      Then, go back to the <em>Facet / Filter</em> tab and remove the facets by clicking <em>Remove All</em>.
+      To add the new endpoint, click the <em>RDF</em> button, select <em>Add reconciliation service</em>, <em>Based on SPARQL endpoint</em>.
+      Its parameters are:
+    </p>
+    <dl>
+      <dt>Name</dt>
+      <dd>LCSH (preprocessed)</dd>
+      <dt>Endpoint URL</dt>
+      <dd><code>http://sparql.freeyourmetadata.org/</code></dd>
+      <dt>Graph URI</dt>
+      <dd><code>http://sparql.freeyourmetadata.org/authorities-processed/</code></dd>
+      <dt>Type</dt>
+      <dd>Virtuoso</dd>
+      <dt>Label properties</dt>
+      <dd>check only <code>skos:prefLabel</code></dd>
+    </dl>
+    <p>
+      Now, restart the reconciliation process for the <em>Categories</em> column with this new endpoint (<em>Reconcile</em>, <em>Start reconciling</em>, <em>LCSH [preprocessed]</em>, <em>Start Reconciling</em>).
+    </p>
+    <h3>Interpreting the new reconciliation results</h3>
+    <p>
+      Reconciliation gives <strong>far better results</strong> now: almost 75%&nbsp;of records has been reconciled.
+      To have an overview of the non-reconciled categories, in <em>rows</em> mode, select the <em>none</em> facet under <em>judgement</em>.
+    </p>
+    <p>
+      You can have an even better view on them by creating a&nbsp;facet on the <em>Categories</em> column (<em>Facet</em>, <em>Text Facet</em>).
+      If there are too many choices, click <em>Facet by choice counts</em> and select a more appropriate range.
+      You can reconcile some of the largest categories manually if necessary.
+    </p>
+    <h3>Obtaining the reconciled URL</h3>
+    <p>
+      Now that reconciliation has been performed, you probably want to know the&nbsp;<strong>reconciled URL</strong>.
+    </p>
+    <p>
+      Remove all facets by clicking the <em>Remove All</em> button, and switch to <em>rows</em> mode.
+      Then, on the <em>Categories</em> column, choose <em>Edit column</em>, <em>Add column based on this column</em>.
+      Name this column <em>Category URL</em> and enter the GREL expression <code>cell.recon.match.id</code>.
+      It takes the reconciliation information of the cell, looks for the match, and extracts the ID, which is the URL.
+      Then click <em>OK</em>.
+    </p>
+    <p>
+      You can now use these URLs to <strong>link your metadata</strong> to the controlled vocabulary.
+    </p>
+  </div>
+  <h2>Congratulations</h2>
+  <p>
+    You have successfully completed your first reconciliation.<br>
+    Time to reconcile your own metadata!
+  </p>
+  <p>If you want to have a look at the result without following all steps, download the <a href="http://data.freeyourmetadata.org/powerhouse-museum/phm-collection-reconciled.google-refine.tar.gz">finished OpenRefine project</a>. Use the <em>Undo&nbsp;/&nbsp;Redo</em> history to review each step.</p>
+</article>
+
+<aside>
+  <h2>Got clean metadata?</h2>
+  <p>Before you start reconciliation, first <a href="/cleanup/">clean your metadata</a>.</p>
+  <h2>Need help?</h2>
+  <p><strong>Ask your question</strong> on Twitter and get help from experts.</p>
+  <iframe allowtransparency="true" frameborder="0" scrolling="no"
+          src="http://platform.twitter.com/widgets/tweet_button.html?text=%40freemetadata%20Can%20you%20help%20me%20%E2%80%A6%3F&amp;url=http://freeyourmetadata.org&amp;related=FreeMetadata:Free%20Your%20Metadata" height="20"></iframe>
+  <iframe allowtransparency="true" frameborder="0" scrolling="no"
+          src="http://platform.twitter.com/widgets/follow_button.html?screen_name=freemetadata&amp;link_color=08719C" height="20"></iframe>
+</aside>
+;T;
+@;@I"+/3-named-entity-extraction/alchemyapi/;T{;{	;I"�<!DOCTYPE html>
+<html lang="en">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <title>Lemuridae.org | Alchemy</title>
+    <link href="../../stylesheets/main.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700" rel="stylesheet" type="text/css">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  </head>
+  <body>
+    <header>
+      <hgroup>
+        <h1>
+          <a href="../../" rel="contents">Lemuridae.org</a>
+        </h1>
+        <h2>
+          Text mining for content enhancement &amp; compliance
+          <a href="../../" rel="contents">
+            <img alt="" class="logo" src="../../images/lemur.jpg">
+          </a>
+        </h2>
+      </hgroup>
+    </header>
+    <nav>
+      <ul>
+        <li>
+          <a href="../../compliance/">Cleanup</a>
+        </li>
+        <li>
+          <a href="../../reconciliation/">Reconciliation</a>
+        </li>
+        <li>
+          <a href="../">Extraction</a>
+        </li>
+        <li>
+          <a href="../../sustainable-access/">Access</a>
+        </li>
+        <li>
+          <a href="../../reaching-out/">Reaching out</a>
+        </li>
+        <li>
+          <a href="../../about/">About</a>
+        </li>
+      </ul>
+    </nav>
+    
+    <article>
+      <h1>AlchemyAPI</h1>
+      <h2>Obtaining an API key</h2>
+      <p>
+        To obtain an API key for AlchemyAPI,
+        fill out the <a href="http://www.alchemyapi.com/api/register.html">form on the AlchemyAPI website</a>.
+      </p>
+    </article>
+    <footer>
+      <p>
+        <a href="../../authors/">© 2015–2015 MaSTIC – Université Libre de Bruxelles</a>
+      </p>
+    </footer>
+    <script>(function(a){if(navigator.userAgent.match(/like Mac OS X/i)){var c=[1,1],b="querySelectorAll"in a?a.querySelectorAll("meta[name=viewport]"):[],d=function(){b.content="width=device-width,minimum-scale="+c[0]+",maximum-scale="+c[1];a.removeEventListener("gesturestart",d,!0)};if((b=b[b.length-1])&&"addEventListener"in a)d(),c=[0.25,1.6],a.addEventListener("gesturestart",d,!0)}})(document);</script>
+  </body>
+</html>
+;T;	I"�
+<article>
+  <h1>AlchemyAPI</h1>
+  <h2>Obtaining an API key</h2>
+  <p>
+    To obtain an API key for AlchemyAPI,
+    fill out the <a href="http://www.alchemyapi.com/api/register.html">form on the AlchemyAPI website</a>.
+  </p>
+</article>
+;T;
+@$;@#I" /3-named-entity-extraction/;T{;{	;I"�<!DOCTYPE html>
+<html lang="en">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <title>Lemuridae.org | Extraction</title>
+    <link href="../stylesheets/main.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700" rel="stylesheet" type="text/css">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  </head>
+  <body>
+    <header>
+      <hgroup>
+        <h1>
+          <a href="../" rel="contents">Lemuridae.org</a>
+        </h1>
+        <h2>
+          Text mining for content enhancement &amp; compliance
+          <a href="../" rel="contents">
+            <img alt="" class="logo" src="../images/lemur.jpg">
+          </a>
+        </h2>
+      </hgroup>
+    </header>
+    <nav>
+      <ul>
+        <li>
+          <a href="../compliance/">Cleanup</a>
+        </li>
+        <li>
+          <a href="../reconciliation/">Reconciliation</a>
+        </li>
+        <li>
+          <a href="./">Extraction</a>
+        </li>
+        <li>
+          <a href="../sustainable-access/">Access</a>
+        </li>
+        <li>
+          <a href="../reaching-out/">Reaching out</a>
+        </li>
+        <li>
+          <a href="../about/">About</a>
+        </li>
+      </ul>
+    </nav>
+    
+    <article>
+      <h1>Named entity extraction</h1>
+      <p>
+        The techniques we discussed in the
+        <a href="../cleanup/">Cleanup</a> and <a href="../reconciliation/">Reconciliation</a> parts
+        come in very handy when your data is already in a structured format.
+        However, many fields (notoriously <em>description</em>)
+        contain <strong>unstructured text</strong>,
+        yet they usually convey a high amount of interesting information.
+        To capture this in machine-processable format,
+        <strong>named entity recognition</strong> can be used.
+      </p>
+      <h2>Download our Refine extension</h2>
+      <p>
+        Named-entity recognition has never been easier:
+        thanks to our brand new <strong>OpenRefine extension</strong>,
+        you can enrich your description fields right from your workspace.
+      </p>
+      <figure>
+        <img src="../images/ner-extension.png" alt="[Screenshot or the named-entity recognition extension]">
+      </figure>
+      <h2>Installation</h2>
+      <ol>
+        <li>
+          <a href="http://software.freeyourmetadata.org/ner-extension/" target="_blank"><strong>Download</strong> the latest version of the extension</a> and <strong>unzip</strong> it.
+        </li>
+        <li>
+<strong>Copy</strong> the unzipped folder to your extensions folder.
+          <ul>
+            <li>
+              To find your extensions folder,
+              choose <em>Browse workspace directory</em> from the Refine interface,
+              and navigate to the folder <em>extensions</em>
+              (which you should create if it doesn't exist yet).
+            </li>
+          </ul>
+        </li>
+        <li>
+<strong>Start</strong> or restart Refine.</li>
+        <li>
+<strong>Open</strong> or create a project.</li>
+        <li>
+          Click the <em>Named-entity recognition</em> button,
+          choose <em>Configure API keys...</em> and enter your personal <strong>API keys</strong>.
+        </li>
+      </ol>
+      <h2>Usage</h2>
+      <ol>
+        <li>
+          Click the triangle before the <strong>column</strong>
+          and choose <em>Extract named entities...</em>
+        </li>
+        <li>Select the <strong>services</strong> you want to use.</li>
+        <li>Click <strong>Start extraction</strong>.</li>
+      </ol>
+    </article>
+    
+    <aside>
+      <h2>Refine extension</h2>
+      <p>
+        Our free OpenRefine extension
+        makes named-entity recognition easier than ever before.
+        <a href="http://software.freeyourmetadata.org/ner-extension/" target="_blank">Download</a>
+      </p>
+      <h2>Publication</h2>
+      <p>
+        Read the <a href="../publications/named-entity-recognition.pdf">pre-print</a> of our forthcoming publication on named-entity recognition for cultural heritage collections.
+      </p>
+    </aside>
+    <footer>
+      <p>
+        <a href="../authors/">© 2015–2015 MaSTIC – Université Libre de Bruxelles</a>
+      </p>
+    </footer>
+    <script>(function(a){if(navigator.userAgent.match(/like Mac OS X/i)){var c=[1,1],b="querySelectorAll"in a?a.querySelectorAll("meta[name=viewport]"):[],d=function(){b.content="width=device-width,minimum-scale="+c[0]+",maximum-scale="+c[1];a.removeEventListener("gesturestart",d,!0)};if((b=b[b.length-1])&&"addEventListener"in a)d(),c=[0.25,1.6],a.addEventListener("gesturestart",d,!0)}})(document);</script>
+  </body>
+</html>
+;T;	I"
+
+<article>
+  <h1>Named entity extraction</h1>
+  <p>
+    The techniques we discussed in the
+    <a href="/cleanup/">Cleanup</a> and <a href="/reconciliation/">Reconciliation</a> parts
+    come in very handy when your data is already in a structured format.
+    However, many fields (notoriously <em>description</em>)
+    contain <strong>unstructured text</strong>,
+    yet they usually convey a high amount of interesting information.
+    To capture this in machine-processable format,
+    <strong>named entity recognition</strong> can be used.
+  </p>
+  <h2>Download our Refine extension</h2>
+  <p>
+    Named-entity recognition has never been easier:
+    thanks to our brand new <strong>OpenRefine extension</strong>,
+    you can enrich your description fields right from your workspace.
+  </p>
+  <figure>
+    <img src="/images/ner-extension.png" alt="[Screenshot or the named-entity recognition extension]" />
+  </figure>
+  <h2>Installation</h2>
+  <ol>
+    <li>
+      <a href="http://software.freeyourmetadata.org/ner-extension/" target="_blank"><strong>Download</strong> the latest version of the extension</a> and <strong>unzip</strong> it.
+    </li>
+    <li><strong>Copy</strong> the unzipped folder to your extensions folder.
+      <ul>
+        <li>
+          To find your extensions folder,
+          choose <em>Browse workspace directory</em> from the Refine interface,
+          and navigate to the folder <em>extensions</em>
+          (which you should create if it doesn't exist yet).
+        </li>
+      </ul>
+    </li>
+    <li><strong>Start</strong> or restart Refine.</li>
+    <li><strong>Open</strong> or create a project.</li>
+    <li>
+      Click the <em>Named-entity recognition</em> button,
+      choose <em>Configure API keys...</em> and enter your personal <strong>API keys</strong>.
+    </li>
+  </ol>
+  <h2>Usage</h2>
+  <ol>
+    <li>
+      Click the triangle before the <strong>column</strong>
+      and choose <em>Extract named entities...</em>
+    </li>
+    <li>Select the <strong>services</strong> you want to use.</li>
+    <li>Click <strong>Start extraction</strong>.</li>
+  </ol>
+</article>
+
+<aside>
+  <h2>Refine extension</h2>
+  <p>
+    Our free OpenRefine extension
+    makes named-entity recognition easier than ever before.
+    <a href="http://software.freeyourmetadata.org/ner-extension/" target="_blank">Download</a>
+  </p>
+  <h2>Publication</h2>
+  <p>
+    Read the <a href="/publications/named-entity-recognition.pdf">pre-print</a> of our forthcoming publication on named-entity recognition for cultural heritage collections.
+  </p>
+</aside>
+;T;
+@);@(I"(/3-named-entity-extraction/zemanta/;T{;{	;I"N	<!DOCTYPE html>
+<html lang="en">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <title>Lemuridae.org | Alchemy</title>
+    <link href="../../stylesheets/main.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700" rel="stylesheet" type="text/css">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  </head>
+  <body>
+    <header>
+      <hgroup>
+        <h1>
+          <a href="../../" rel="contents">Lemuridae.org</a>
+        </h1>
+        <h2>
+          Text mining for content enhancement &amp; compliance
+          <a href="../../" rel="contents">
+            <img alt="" class="logo" src="../../images/lemur.jpg">
+          </a>
+        </h2>
+      </hgroup>
+    </header>
+    <nav>
+      <ul>
+        <li>
+          <a href="../../compliance/">Cleanup</a>
+        </li>
+        <li>
+          <a href="../../reconciliation/">Reconciliation</a>
+        </li>
+        <li>
+          <a href="../">Extraction</a>
+        </li>
+        <li>
+          <a href="../../sustainable-access/">Access</a>
+        </li>
+        <li>
+          <a href="../../reaching-out/">Reaching out</a>
+        </li>
+        <li>
+          <a href="../../about/">About</a>
+        </li>
+      </ul>
+    </nav>
+    
+    <article>
+      <h1>Zemanta</h1>
+      <h2>Obtaining an API key</h2>
+      <p>
+        To obtain an API key for Zemanta,
+        first <a href="http://developer.zemanta.com/member/register/">create a developer account</a>
+        and then <a href="http://developer.zemanta.com/apps/register/">register an application</a>.
+      </p>
+    </article>
+    <footer>
+      <p>
+        <a href="../../authors/">© 2015–2015 MaSTIC – Université Libre de Bruxelles</a>
+      </p>
+    </footer>
+    <script>(function(a){if(navigator.userAgent.match(/like Mac OS X/i)){var c=[1,1],b="querySelectorAll"in a?a.querySelectorAll("meta[name=viewport]"):[],d=function(){b.content="width=device-width,minimum-scale="+c[0]+",maximum-scale="+c[1];a.removeEventListener("gesturestart",d,!0)};if((b=b[b.length-1])&&"addEventListener"in a)d(),c=[0.25,1.6],a.addEventListener("gesturestart",d,!0)}})(document);</script>
+  </body>
+</html>
+;T;	I"=
+<article>
+  <h1>Zemanta</h1>
+  <h2>Obtaining an API key</h2>
+  <p>
+    To obtain an API key for Zemanta,
+    first <a href="http://developer.zemanta.com/member/register/">create a developer account</a>
+    and then <a href="http://developer.zemanta.com/apps/register/">register an application</a>.
+  </p>
+</article>
+;T;
+@.;@-I"/4-sustainable-access/;T{;{	;I"�	<!DOCTYPE html>
+<html lang="en">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <title>Lemuridae.org | Access</title>
+    <link href="../stylesheets/main.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700" rel="stylesheet" type="text/css">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  </head>
+  <body>
+    <header>
+      <hgroup>
+        <h1>
+          <a href="../" rel="contents">Lemuridae.org</a>
+        </h1>
+        <h2>
+          Text mining for content enhancement &amp; compliance
+          <a href="../" rel="contents">
+            <img alt="" class="logo" src="../images/lemur.jpg">
+          </a>
+        </h2>
+      </hgroup>
+    </header>
+    <nav>
+      <ul>
+        <li>
+          <a href="../compliance/">Cleanup</a>
+        </li>
+        <li>
+          <a href="../reconciliation/">Reconciliation</a>
+        </li>
+        <li>
+          <a href="../named-entity-extraction/">Extraction</a>
+        </li>
+        <li>
+          <a href="./">Access</a>
+        </li>
+        <li>
+          <a href="../reaching-out/">Reaching out</a>
+        </li>
+        <li>
+          <a href="../about/">About</a>
+        </li>
+      </ul>
+    </nav>
+    
+    <article>
+      <h1>Sustainable metadata access</h1>
+      <p>
+        Liberating metadata is one thing,
+        <strong>publishing it in a sustainable way</strong> is another.
+      </p>
+      <p>
+        Over the next couple of months,
+        we plan to release a series of guidelines on sustainable metadata publishing,
+        illustrated by a real-world use case.
+      </p>
+      <p>
+        Stay tuned to learn more.
+      </p>
+    </article>
+    <footer>
+      <p>
+        <a href="../authors/">© 2015–2015 MaSTIC – Université Libre de Bruxelles</a>
+      </p>
+    </footer>
+    <script>(function(a){if(navigator.userAgent.match(/like Mac OS X/i)){var c=[1,1],b="querySelectorAll"in a?a.querySelectorAll("meta[name=viewport]"):[],d=function(){b.content="width=device-width,minimum-scale="+c[0]+",maximum-scale="+c[1];a.removeEventListener("gesturestart",d,!0)};if((b=b[b.length-1])&&"addEventListener"in a)d(),c=[0.25,1.6],a.addEventListener("gesturestart",d,!0)}})(document);</script>
+  </body>
+</html>
+;T;	I"�
+<article>
+  <h1>Sustainable metadata access</h1>
+  <p>
+    Liberating metadata is one thing,
+    <strong>publishing it in a sustainable way</strong> is another.
+  </p>
+  <p>
+    Over the next couple of months,
+    we plan to release a series of guidelines on sustainable metadata publishing,
+    illustrated by a real-world use case.
+  </p>
+  <p>
+    Stay tuned to learn more.
+  </p>
+</article>
+;T;
+@3;@2I"/8-reaching-out/;T{;{	;I"<!DOCTYPE html>
+<html lang="en">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <title>Lemuridae.org | Reaching out</title>
+    <link href="../stylesheets/main.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700" rel="stylesheet" type="text/css">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  </head>
+  <body>
+    <header>
+      <hgroup>
+        <h1>
+          <a href="../" rel="contents">Lemuridae.org</a>
+        </h1>
+        <h2>
+          Text mining for content enhancement &amp; compliance
+          <a href="../" rel="contents">
+            <img alt="" class="logo" src="../images/lemur.jpg">
+          </a>
+        </h2>
+      </hgroup>
+    </header>
+    <nav>
+      <ul>
+        <li>
+          <a href="../compliance/">Cleanup</a>
+        </li>
+        <li>
+          <a href="../reconciliation/">Reconciliation</a>
+        </li>
+        <li>
+          <a href="../named-entity-extraction/">Extraction</a>
+        </li>
+        <li>
+          <a href="../sustainable-access/">Access</a>
+        </li>
+        <li>
+          <a href="./">Reaching out</a>
+        </li>
+        <li>
+          <a href="../about/">About</a>
+        </li>
+      </ul>
+    </nav>
+    
+    <article>
+      <h1>Reaching out</h1>
+      <p>
+        Freeing your metadata too? <a href="mailto:info@freeyourmetadata.org">Share the love</a>, <a href="http://twitter.com/freemetadata">spread the word</a>, and let's get together!
+      </p>
+      <p>
+        To promote <a href="http://book.freeyourmetadata.org">the handbook “Linked Data for Libraries, Archives and Museums”</a>, we have planned a limited number of events in the winter of 2014 but we'll be on the road for an extensive international tour in the spring and the summer of 2015. We are already preparing a series of workshops across Europe, the US, Latin America, Africa and Asia for January-June 2015. The quicker you get in touch with us, the easier we can fit the visit into our schedule. <a href="info@freeyourmetadata.org">E-mail us</a> and tell us about your plans. We look forward to meeting you!
+      </p>
+      
+      <h2>Past events</h2>
+      <p>
+        Starting from 2011 we met up and collaborated with many wonderful people.
+        <br>
+        Here are several institutions and events where we shared our passion for metadata:
+        <a href="http://sceti.library.upenn.edu">UPenn Schoenberg Centre for Electronic Text and Image</a>,
+        <a href="http://aau.edu.et/sis/">School of Information Sciences</a> in Addis Ababa,
+      <a href="http://www.dh2012.uni-hamburg.de/conference/programme/pre-conference-workshops/">Digital Humanities 2012</a> in Hamburg, <a href="http://chnm.gmu.edu/">George Mason University</a> in Virginia, <a href="http://www.worldbank.org/">World Bank</a> in Washington DC, <a href="http://ischool.umd.edu/">College of Information Studies</a> in Maryland, <a href="https://library.columbia.edu/bts/ldp/digital_seminars/2012/2012-02-10.html">Digital Library Seminar</a> in New York, <a href="http://museumscomputergroup.org.uk/2011/08/26/uk-museums-on-the-web-2011-2/">UK Museums on the Web</a> in London, <a href="http://www.linkedheritage.com/index.php?en/146/events/48/barcelona-workshop-on-europeana-aggregation-of-content-and-linked-data-for-the-cultural-heritage">i2CAT Workshop</a> in Barcelona, <a href="http://switzerland2011.thatcamp.org/">The Humanities and Technology Camp</a> in Lausanne, <a href="http://lod2.eu/BlogPost/642-gld-workshop.html">Open Government Data Camp</a> in Warsaw and <a href="http://dcevents.dublincore.org/index.php/IntConf/dc-2011/schedConf/">Dublin Core 2011</a> in The Hague.</p>
+    </article>
+    <aside>
+      <div>
+      <h2>Read our article</h2>
+      <p>Learn about the <a href="../publications/freeyourmetadata.pdf">foundations of Free Your Metadata</a>.</p>
+      <h2>Follow us on Twitter</h2>
+      <iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/follow_button.html?screen_name=freemetadata&amp;link_color=08719C" height="20"></iframe>
+      <h2>Tweet about us</h2>
+      <iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/tweet_button.html?text=Free%20your%20metadata!&amp;via=freemetadata&amp;url=http://freeyourmetadata.org&amp;related=FreeMetadata:Free%20Your%20Metadata" height="20"></iframe>
+      </div>
+      <div>
+      <h2>Event organizer?</h2>
+      <p><a href="mailto:info@freeyourmetadata.org">Contact us</a> to host a Free Your Metadata session at your event.</p>
+      </div>
+    </aside>
+    <footer>
+      <p>
+        <a href="../authors/">© 2015–2015 MaSTIC – Université Libre de Bruxelles</a>
+      </p>
+    </footer>
+    <script>(function(a){if(navigator.userAgent.match(/like Mac OS X/i)){var c=[1,1],b="querySelectorAll"in a?a.querySelectorAll("meta[name=viewport]"):[],d=function(){b.content="width=device-width,minimum-scale="+c[0]+",maximum-scale="+c[1];a.removeEventListener("gesturestart",d,!0)};if((b=b[b.length-1])&&"addEventListener"in a)d(),c=[0.25,1.6],a.addEventListener("gesturestart",d,!0)}})(document);</script>
+  </body>
+</html>
+;T;	I"�
+<article>
+  <h1>Reaching out</h1>
+  <p>
+    Freeing your metadata too? <a href="mailto:info@freeyourmetadata.org">Share the love</a>, <a href="http://twitter.com/freemetadata">spread the word</a>, and let's get together!
+  </p>
+  <p>
+    To promote <a href="http://book.freeyourmetadata.org">the handbook “Linked Data for Libraries, Archives and Museums”</a>, we have planned a limited number of events in the winter of 2014 but we'll be on the road for an extensive international tour in the spring and the summer of 2015. We are already preparing a series of workshops across Europe, the US, Latin America, Africa and Asia for January-June 2015. The quicker you get in touch with us, the easier we can fit the visit into our schedule. <a href="info@freeyourmetadata.org">E-mail us</a> and tell us about your plans. We look forward to meeting you!
+  </p>
+  <% events = @items.find_all { |i| i.identifier =~ /^\/events\// }
+     events_by_month = events.group_by{ |item| Date.new item[:date].year, item[:date].month, 1 }.
+                              sort{ |a,b| a.first <=> b.first }
+     first_of_month = Date.new DateTime.now.year, DateTime.now.month, 1
+     events_by_month.find_all { |i| i.first >= first_of_month }.
+                     each do |month, items| %>
+  <h2><%= month.strftime '%B %Y' %></h2>
+    <% items.sort{ |a,b| a[:date] <=> b[:date] }.
+             each do |item| %>
+      <%= render "event_summary", :event => item %>
+    <% end %>
+  <% end %>
+  <h2>Past events</h2>
+  <p>
+    Starting from 2011 we met up and collaborated with many wonderful people.
+    <br>
+    Here are several institutions and events where we shared our passion for metadata:
+    <a href="http://sceti.library.upenn.edu">UPenn Schoenberg Centre for Electronic Text and Image</a>,
+    <a href="http://aau.edu.et/sis/">School of Information Sciences</a> in Addis Ababa,
+  <%= events.find_all { |i| i[:date] < first_of_month }.
+             sort { |a,b| b[:date] <=> a[:date] }.
+             map { |e| "#{link_to e[:title], e[:website]} in #{e[:location].gsub(/ /, ' ')}" }.
+             join(', ').
+             sub(/, ([^,]+)$/, ' and \1')
+  %>.</p>
+</article>
+<aside>
+  <div>
+  <h2>Read our article</h2>
+  <p>Learn about the <a href="/publications/freeyourmetadata.pdf">foundations of Free Your Metadata</a>.</p>
+  <h2>Follow us on Twitter</h2>
+  <iframe allowtransparency="true" frameborder="0" scrolling="no"
+          src="http://platform.twitter.com/widgets/follow_button.html?screen_name=freemetadata&amp;link_color=08719C" height="20"></iframe>
+  <h2>Tweet about us</h2>
+  <iframe allowtransparency="true" frameborder="0" scrolling="no"
+          src="http://platform.twitter.com/widgets/tweet_button.html?text=Free%20your%20metadata!&amp;via=freemetadata&amp;url=http://freeyourmetadata.org&amp;related=FreeMetadata:Free%20Your%20Metadata" height="20"></iframe>
+  </div>
+  <div>
+  <h2>Event organizer?</h2>
+  <p><a href="mailto:info@freeyourmetadata.org">Contact us</a> to host a Free Your Metadata session at your event.</p>
+  </div>
+</aside>
+;T;
+I"�
+<article>
+  <h1>Reaching out</h1>
+  <p>
+    Freeing your metadata too? <a href="mailto:info@freeyourmetadata.org">Share the love</a>, <a href="http://twitter.com/freemetadata">spread the word</a>, and let's get together!
+  </p>
+  <p>
+    To promote <a href="http://book.freeyourmetadata.org">the handbook “Linked Data for Libraries, Archives and Museums”</a>, we have planned a limited number of events in the winter of 2014 but we'll be on the road for an extensive international tour in the spring and the summer of 2015. We are already preparing a series of workshops across Europe, the US, Latin America, Africa and Asia for January-June 2015. The quicker you get in touch with us, the easier we can fit the visit into our schedule. <a href="info@freeyourmetadata.org">E-mail us</a> and tell us about your plans. We look forward to meeting you!
+  </p>
+  
+  <h2>Past events</h2>
+  <p>
+    Starting from 2011 we met up and collaborated with many wonderful people.
+    <br>
+    Here are several institutions and events where we shared our passion for metadata:
+    <a href="http://sceti.library.upenn.edu">UPenn Schoenberg Centre for Electronic Text and Image</a>,
+    <a href="http://aau.edu.et/sis/">School of Information Sciences</a> in Addis Ababa,
+  <a href="http://www.dh2012.uni-hamburg.de/conference/programme/pre-conference-workshops/">Digital Humanities 2012</a> in Hamburg, <a href="http://chnm.gmu.edu/">George Mason University</a> in Virginia, <a href="http://www.worldbank.org/">World Bank</a> in Washington DC, <a href="http://ischool.umd.edu/">College of Information Studies</a> in Maryland, <a href="https://library.columbia.edu/bts/ldp/digital_seminars/2012/2012-02-10.html">Digital Library Seminar</a> in New York, <a href="http://museumscomputergroup.org.uk/2011/08/26/uk-museums-on-the-web-2011-2/">UK Museums on the Web</a> in London, <a href="http://www.linkedheritage.com/index.php?en/146/events/48/barcelona-workshop-on-europeana-aggregation-of-content-and-linked-data-for-the-cultural-heritage">i2CAT Workshop</a> in Barcelona, <a href="http://switzerland2011.thatcamp.org/">The Humanities and Technology Camp</a> in Lausanne, <a href="http://lod2.eu/BlogPost/642-gld-workshop.html">Open Government Data Camp</a> in Warsaw and <a href="http://dcevents.dublincore.org/index.php/IntConf/dc-2011/schedConf/">Dublin Core 2011</a> in The Hague.</p>
+</article>
+<aside>
+  <div>
+  <h2>Read our article</h2>
+  <p>Learn about the <a href="/publications/freeyourmetadata.pdf">foundations of Free Your Metadata</a>.</p>
+  <h2>Follow us on Twitter</h2>
+  <iframe allowtransparency="true" frameborder="0" scrolling="no"
+          src="http://platform.twitter.com/widgets/follow_button.html?screen_name=freemetadata&amp;link_color=08719C" height="20"></iframe>
+  <h2>Tweet about us</h2>
+  <iframe allowtransparency="true" frameborder="0" scrolling="no"
+          src="http://platform.twitter.com/widgets/tweet_button.html?text=Free%20your%20metadata!&amp;via=freemetadata&amp;url=http://freeyourmetadata.org&amp;related=FreeMetadata:Free%20Your%20Metadata" height="20"></iframe>
+  </div>
+  <div>
+  <h2>Event organizer?</h2>
+  <p><a href="mailto:info@freeyourmetadata.org">Contact us</a> to host a Free Your Metadata session at your event.</p>
+  </div>
+</aside>
+;T;@7I"/9-about/;T{;{	;I"�<!DOCTYPE html>
+<html lang="en">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <title>LEMURIDAE.ORG | About</title>
+    <link href="../stylesheets/main.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Josefin+Sans:600" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lora" rel="stylesheet" type="text/css">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  </head>
+  <body>
+    <header>
+      <hgroup>
+        <h1>
+          <a href="../" rel="contents">LEMURIDAE.ORG</a>
+        </h1>
+        <h2>
+          Text mining for content enhancement &amp; compliance
+          <a href="../" rel="contents">
+            <img alt="" class="logo" src="../images/lemur_logo.jpg">
+          </a>
+        </h2>
+      </hgroup>
+    </header>
+    <nav>
+      <ul>
+        <li>
+          <a href="../compliance/">Compliance</a>
+        </li>
+        <li>
+          <a href="../taxonomies/">Taxonomies</a>
+        </li>
+        <li>
+          <a href="../classification/">Classification</a>
+        </li>
+        <li>
+          <a href="./">About</a>
+        </li>
+      </ul>
+    </nav>
+    
+    <article>
+    <h1>Lorem ipsum dolor sit amet consectetuer adipiscing 
+    elit</h1>
+    
+    
+    <h2>Aenean commodo ligula eget dolor aenean massa</h2>
+    
+    
+    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
+    elit. Aenean commodo ligula eget dolor. Aenean massa. 
+    Cum sociis natoque penatibus et magnis dis parturient 
+    montes, nascetur ridiculus mus. Donec quam felis, 
+    ultricies nec, pellentesque eu, pretium quis, sem.</p>
+    
+    
+    <h2>Aenean commodo ligula eget dolor aenean massa</h2>
+    
+    
+    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
+    elit. Aenean commodo ligula eget dolor. Aenean massa. 
+    Cum sociis natoque penatibus et magnis dis parturient 
+    montes, nascetur ridiculus mus. Donec quam felis, 
+    ultricies nec, pellentesque eu, pretium quis, sem.</p>
+    
+    </article>
+    
+    <aside>
+      <h2>Read our article</h2>
+      <p>Coriolano regnum ferre debuerunt debuerunt ferre illi Vecellinum arma amici.</p>
+      <h2>Get started now</h2>
+      <p>Talis quam mortem coepit res haud scio sit post meam.</p>
+      <h2>Keep in touch</h2>
+      <a href="https://twitter.com/intent/tweet?screen_name=LemuridaeDotOrg" class="twitter-mention-button" data-related="LemuridaeDotOrg">Tweet to @LemuridaeDotOrg</a>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+      <h2>Spread the world</h2>
+      <a href="https://twitter.com/LemuridaeDotOrg" class="twitter-follow-button" data-show-count="false">Follow @LemuridaeDotOrg</a>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+    </aside>
+    <footer>
+      <p>
+        <a href="../authors/">© 2015–2015 MaSTIC – Université Libre de Bruxelles</a>
+      </p>
+    </footer>
+    <script>(function(a){if(navigator.userAgent.match(/like Mac OS X/i)){var c=[1,1],b="querySelectorAll"in a?a.querySelectorAll("meta[name=viewport]"):[],d=function(){b.content="width=device-width,minimum-scale="+c[0]+",maximum-scale="+c[1];a.removeEventListener("gesturestart",d,!0)};if((b=b[b.length-1])&&"addEventListener"in a)d(),c=[0.25,1.6],a.addEventListener("gesturestart",d,!0)}})(document);</script>
+  </body>
+</html>
+;T;	I"y
+<article>
+<h1>Lorem ipsum dolor sit amet consectetuer adipiscing 
+elit</h1>
+
+
+<h2>Aenean commodo ligula eget dolor aenean massa</h2>
+
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
+elit. Aenean commodo ligula eget dolor. Aenean massa. 
+Cum sociis natoque penatibus et magnis dis parturient 
+montes, nascetur ridiculus mus. Donec quam felis, 
+ultricies nec, pellentesque eu, pretium quis, sem.</p>
+
+
+<h2>Aenean commodo ligula eget dolor aenean massa</h2>
+
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
+elit. Aenean commodo ligula eget dolor. Aenean massa. 
+Cum sociis natoque penatibus et magnis dis parturient 
+montes, nascetur ridiculus mus. Donec quam felis, 
+ultricies nec, pellentesque eu, pretium quis, sem.</p>
+
+</article>
+
+<aside>
+  <h2>Read our article</h2>
+  <p>Coriolano regnum ferre debuerunt debuerunt ferre illi Vecellinum arma amici.</p>
+  <h2>Get started now</h2>
+  <p>Talis quam mortem coepit res haud scio sit post meam.</p>
+  <h2>Keep in touch</h2>
+  <a href="https://twitter.com/intent/tweet?screen_name=LemuridaeDotOrg" class="twitter-mention-button" data-related="LemuridaeDotOrg">Tweet to @LemuridaeDotOrg</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+  <h2>Spread the world</h2>
+  <a href="https://twitter.com/LemuridaeDotOrg" class="twitter-follow-button" data-show-count="false">Follow @LemuridaeDotOrg</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+</aside>
+;T;
+@>;@=I"/authors/;T{;{	;I"O<!DOCTYPE html>
+<html lang="en">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <title>LEMURIDAE.ORG | Authors</title>
+    <link href="../stylesheets/main.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Josefin+Sans:600" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lora" rel="stylesheet" type="text/css">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  </head>
+  <body>
+    <header>
+      <hgroup>
+        <h1>
+          <a href="../" rel="contents">LEMURIDAE.ORG</a>
+        </h1>
+        <h2>
+          Text mining for content enhancement &amp; compliance
+          <a href="../" rel="contents">
+            <img alt="" class="logo" src="../images/lemur_logo.jpg">
+          </a>
+        </h2>
+      </hgroup>
+    </header>
+    <nav>
+      <ul>
+        <li>
+          <a href="../compliance/">Compliance</a>
+        </li>
+        <li>
+          <a href="../taxonomies/">Taxonomies</a>
+        </li>
+        <li>
+          <a href="../classification/">Classification</a>
+        </li>
+        <li>
+          <a href="../about/">About</a>
+        </li>
+      </ul>
+    </nav>
+    
+    <article>
+      <h1>Authors</h1>
+      <p><em>Lemuridae.org</em> is a <a href="http://mastic.ulb.ac.be">MaSTIC</a> initiative.<br>
+      We love to hear from you at <a href="mailto:info@lemuridae.org">info@lemuridae.org</a>.</p>
+      <p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
+    elit. Aenean commodo ligula eget dolor. Aenean massa. 
+    Cum sociis natoque penatibus et magnis dis parturient 
+    montes, nascetur ridiculus mus. Donec quam felis, 
+    ultricies nec, pellentesque eu, pretium quis, sem.</p>
+    <ul>
+       <li>Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.</li>
+       <li>Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.</li>
+       <li>Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec consectetuer ligula vulputate sem tristique cursus. Nam nulla quam, gravida non, commodo a, sodales sit amet, nisi.</li>
+       <li>Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.</li>
+    </ul>
+                
+      <h2>Copyright</h2>
+      <p>Unless otherwise noted, all material on this website is copyrighted by the above authors. All rights reserved.</p> 
+      <p>The <a href="http://commons.wikimedia.org/wiki/File:Lemur_catta_001.jpg">lemur photo</a> is licensed under a Creative Commons license by Alex Dunkel.</p>
+      <p>The <a href="http://commons.wikimedia.org/wiki/File:IMB_PC-IMG_7271.jpg">pc photo</a> is licensed under a Creative Commons license by Alex Dunkel.</p>
+    </article>
+    <footer>
+      <p>
+        <a href="./">© 2015–2015 MaSTIC – Université Libre de Bruxelles</a>
+      </p>
+    </footer>
+    <script>(function(a){if(navigator.userAgent.match(/like Mac OS X/i)){var c=[1,1],b="querySelectorAll"in a?a.querySelectorAll("meta[name=viewport]"):[],d=function(){b.content="width=device-width,minimum-scale="+c[0]+",maximum-scale="+c[1];a.removeEventListener("gesturestart",d,!0)};if((b=b[b.length-1])&&"addEventListener"in a)d(),c=[0.25,1.6],a.addEventListener("gesturestart",d,!0)}})(document);</script>
+  </body>
+</html>
+;T;	I"s
+<article>
+  <h1>Authors</h1>
+  <p><em>Lemuridae.org</em> is a <a href="http://mastic.ulb.ac.be">MaSTIC</a> initiative.<br>
+  We love to hear from you at <a href="mailto:info@lemuridae.org">info@lemuridae.org</a>.</p>
+  <p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
+elit. Aenean commodo ligula eget dolor. Aenean massa. 
+Cum sociis natoque penatibus et magnis dis parturient 
+montes, nascetur ridiculus mus. Donec quam felis, 
+ultricies nec, pellentesque eu, pretium quis, sem.</p>
+<ul>
+   <li>Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.</li>
+   <li>Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.</li>
+   <li>Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec consectetuer ligula vulputate sem tristique cursus. Nam nulla quam, gravida non, commodo a, sodales sit amet, nisi.</li>
+   <li>Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.</li>
+</ul>
+            
+  <h2>Copyright</h2>
+  <p>Unless otherwise noted, all material on this website is copyrighted by the above authors. All rights reserved.</p> 
+  <p>The <a href="http://commons.wikimedia.org/wiki/File:Lemur_catta_001.jpg">lemur photo</a> is licensed under a Creative Commons license by Alex Dunkel.</p>
+  <p>The <a href="http://commons.wikimedia.org/wiki/File:IMB_PC-IMG_7271.jpg">pc photo</a> is licensed under a Creative Commons license by Alex Dunkel.</p>
+</article>
+;T;
+@C;@BI"/events/2011-09-23/;T{;{;I" ;T;	@G;
+@GI"/events/2011-10-20/;T{;{;I" ;T;	@K;
+@KI"/events/2011-11-11/;T{;{;I" ;T;	@O;
+@OI"/events/2011-11-22/;T{;{;I" ;T;	@S;
+@SI"/events/2011-11-25/;T{;{;I" ;T;	@W;
+@WI"/events/2012-02-10/;T{;{;I" ;T;	@[;
+@[I"/events/2012-02-13/;T{;{;I" ;T;	@_;
+@_I"/events/2012-02-14-wb/;T{;{;I" ;T;	@c;
+@cI"/events/2012-02-14/;T{;{;I" ;T;	@g;
+@gI"/events/2012-07-17/;T{;{;I" ;T;	@k;
+@kI"/favicon/;T{;{ I"/images/hpi/;T{;{ I"/images/ischool/;T{;{ I"/images/mmlab/;T{;{ I"/images/ner-extension/;T{;{ I"/images/seagull/;T{;{ I"/images/television-active/;T{;{ I"/images/television/;T{;{ I"/images/ulb/;T{;{ I"/images/using-openrefine/;T{;{ I"/images/video/;T{;{ I"/publications/0-index/;T{;{	;I"\<!DOCTYPE html>
+<html lang="en">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <title>Lemuridae.org | Publications</title>
+    <link href="../stylesheets/main.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700" rel="stylesheet" type="text/css">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  </head>
+  <body>
+    <header>
+      <hgroup>
+        <h1>
+          <a href="../" rel="contents">Lemuridae.org</a>
+        </h1>
+        <h2>
+          Text mining for content enhancement &amp; compliance
+          <a href="../" rel="contents">
+            <img alt="" class="logo" src="../images/lemur.jpg">
+          </a>
+        </h2>
+      </hgroup>
+    </header>
+    <nav>
+      <ul>
+        <li>
+          <a href="../compliance/">Cleanup</a>
+        </li>
+        <li>
+          <a href="../reconciliation/">Reconciliation</a>
+        </li>
+        <li>
+          <a href="../named-entity-extraction/">Extraction</a>
+        </li>
+        <li>
+          <a href="../sustainable-access/">Access</a>
+        </li>
+        <li>
+          <a href="../reaching-out/">Reaching out</a>
+        </li>
+        <li>
+          <a href="../about/">About</a>
+        </li>
+      </ul>
+    </nav>
+    
+    <article>
+      <h1>Publications</h1>
+      <h2>Books</h2>
+      <p>
+        Seth Van Hooland and Ruben Verborgh (2014).
+        <i>Linked Data for Libraries, Archives, and Museums</i>.
+        <a href="http://book.freeyourmetadata.org/">Website</a>
+        <a href="http://www.amazon.com/Linked-Data-Libraries-Archives-Museums/dp/1856049647/">Buy on Amazon</a>
+      </p>
+      <p>
+        Ruben Verborgh and Max De Wilde (2013).
+        <i>Using OpenRefine</i>.
+        <br>
+        <a href="http://www.packtpub.com/openrefine-guide-for-data-analysis-and-linking-dataset-to-the-web/book">Website</a>
+        <a href="http://www.amazon.com/Using-OpenRefine/dp/1783289082/">Buy on Amazon</a>
+      </p>
+      <h2>Journal papers</h2>
+      <p>
+        Ruben Verborgh, Seth van Hooland, Aaron Straup Cope, Sebastian Chan, Erik Mannens, and Rik Van de Walle (2014).
+        <i>The Fallacy of the Multi-API Culture: Conceptual and Practical Benefits of Representational State Transfer (REST)</i>
+        Accepted for publication in <i>Journal of Documentation</i>.
+        <br>
+        <a href="rest.pdf" title="The Fallacy of the Multi-API Culture">Pre-print</a>.
+        <a href="rest.bib" title="The Fallacy of the Multi-API Culture">BibTeX</a>.
+      </p>
+      <p>
+        Seth van Hooland, Max De Wilde, Ruben Verborgh, Thomas Steiner, and Rik Van de Walle (2014).
+        <i>Exploring Entity Recognition and Disambiguation for Cultural Heritage Collections</i>.
+        <br>
+        Accepted for publication in <i>Literary and Linguistics Computing</i>.
+        <br>
+        <a href="named-entity-recognition.pdf" title="Exploring Entity Recognition and Disambiguation for Cultural Heritage Collections">Pre-print</a>.
+        <a href="named-entity-recognition.bib" title="Exploring Entity Recognition and Disambiguation for Cultural Heritage Collections">BibTeX</a>.
+      </p>
+      <p>
+        Seth van Hooland, Ruben Verborgh, Max De Wilde, Johannes Hercher, Erik Mannens, and Rik Van de Walle (2012).
+        <i>Evaluating the success of vocabulary reconciliation for cultural heritage collections</i>.
+        <br>
+        Published in <i>Journal of the American Society for Information Science and Technology</i>.
+        <br>
+        <a href="freeyourmetadata.pdf" title="Evaluating the success of vocabulary reconciliation for cultural heritage collections">Pre-print</a>.
+        <a href="freeyourmetadata.bib" title="BibTeX entry of “Evaluating the success of vocabulary reconciliation for cultural heritage collections”">BibTeX</a>.
+      </p>
+    </article>
+    <aside>
+      <h2>Try our experiment</h2>
+      <p>
+        In the <a href="freeyourmetadata.pdf">article</a>, we <a href="../cleanup/">clean</a> and <a href="../reconciliation/">reconcile</a> the Powerhouse Museum metadata.
+        Follow along with the <a href="../cleanup/">screencasts</a> to try it for yourself.
+      </p>
+    </aside>
+    <footer>
+      <p>
+        <a href="../authors/">© 2015–2015 MaSTIC – Université Libre de Bruxelles</a>
+      </p>
+    </footer>
+    <script>(function(a){if(navigator.userAgent.match(/like Mac OS X/i)){var c=[1,1],b="querySelectorAll"in a?a.querySelectorAll("meta[name=viewport]"):[],d=function(){b.content="width=device-width,minimum-scale="+c[0]+",maximum-scale="+c[1];a.removeEventListener("gesturestart",d,!0)};if((b=b[b.length-1])&&"addEventListener"in a)d(),c=[0.25,1.6],a.addEventListener("gesturestart",d,!0)}})(document);</script>
+  </body>
+</html>
+;T;	I"
+<article>
+  <h1>Publications</h1>
+  <h2>Books</h2>
+  <p>
+    Seth Van Hooland and Ruben Verborgh (2014).
+    <i>Linked Data for Libraries, Archives, and Museums</i>.
+    <a href="http://book.freeyourmetadata.org/">Website</a>
+    <a href="http://www.amazon.com/Linked-Data-Libraries-Archives-Museums/dp/1856049647/">Buy on Amazon</a>
+  </p>
+  <p>
+    Ruben Verborgh and Max De Wilde (2013).
+    <i>Using OpenRefine</i>.
+    <br>
+    <a href="http://www.packtpub.com/openrefine-guide-for-data-analysis-and-linking-dataset-to-the-web/book">Website</a>
+    <a href="http://www.amazon.com/Using-OpenRefine/dp/1783289082/">Buy on Amazon</a>
+  </p>
+  <h2>Journal papers</h2>
+  <p>
+    Ruben Verborgh, Seth van Hooland, Aaron Straup Cope, Sebastian Chan, Erik Mannens, and Rik Van de Walle (2014).
+    <i>The Fallacy of the Multi-API Culture: Conceptual and Practical Benefits of Representational State Transfer (REST)</i>
+    Accepted for publication in <i>Journal of Documentation</i>.
+    <br>
+    <a href="/publications/rest.pdf" title="The Fallacy of the Multi-API Culture">Pre-print</a>.
+    <a href="/publications/rest.bib" title="The Fallacy of the Multi-API Culture">BibTeX</a>.
+  </p>
+  <p>
+    Seth van Hooland, Max De Wilde, Ruben Verborgh, Thomas Steiner, and Rik Van de Walle (2014).
+    <i>Exploring Entity Recognition and Disambiguation for Cultural Heritage Collections</i>.
+    <br>
+    Accepted for publication in <i>Literary and Linguistics Computing</i>.
+    <br>
+    <a href="/publications/named-entity-recognition.pdf" title="Exploring Entity Recognition and Disambiguation for Cultural Heritage Collections">Pre-print</a>.
+    <a href="/publications/named-entity-recognition.bib" title="Exploring Entity Recognition and Disambiguation for Cultural Heritage Collections">BibTeX</a>.
+  </p>
+  <p>
+    Seth van Hooland, Ruben Verborgh, Max De Wilde, Johannes Hercher, Erik Mannens, and Rik Van de Walle (2012).
+    <i>Evaluating the success of vocabulary reconciliation for cultural heritage collections</i>.
+    <br>
+    Published in <i>Journal of the American Society for Information Science and Technology</i>.
+    <br>
+    <a href="/publications/freeyourmetadata.pdf" title="Evaluating the success of vocabulary reconciliation for cultural heritage collections">Pre-print</a>.
+    <a href="/publications/freeyourmetadata.bib" title="BibTeX entry of &ldquo;Evaluating the success of vocabulary reconciliation for cultural heritage collections&rdquo;">BibTeX</a>.
+  </p>
+</article>
+<aside>
+  <h2>Try our experiment</h2>
+  <p>
+    In the <a href="/publications/freeyourmetadata.pdf">article</a>, we <a href="/cleanup/">clean</a> and <a href="/reconciliation/">reconcile</a> the Powerhouse Museum metadata.
+    Follow along with the <a href="/cleanup/">screencasts</a> to try it for yourself.
+  </p>
+</aside>
+;T;
+@�;@�I"+/publications/freeyourmetadata-bibtex/;T{;{ I"-/publications/freeyourmetadata-citation/;T{;{;I"bSeth van Hooland, Ruben Verborgh, Max De Wilde, Johannes Hercher, Erik Mannens, and Rik Van de Walle (2012). Evaluating the success of vocabulary reconciliation for cultural heritage collections, Journal of the American Society for Information Science and Technology. Pre-print available on http://freeyourmetadata.org/publications/freeyourmetadata.pdf.
+;T;	@�;
+@�I"$/publications/freeyourmetadata/;T{;{ I"3/publications/named-entity-recognition-bibtex/;T{;{ I"5/publications/named-entity-recognition-citation/;T{;{;I"�van Hooland, S., De Wilde, M., Verborgh, R., Steiner T., and Van de Walle, R., Exploring Entity Recognition and Disambiguation for Cultural Heritage Collections? In: Literary and Linguistics Computing, 2014.
+;T;	@�;
+@�I",/publications/named-entity-recognition/;T{;{ I"/publications/rest-bibtex/;T{;{ I"/publications/rest/;T{;{ I"/stylesheets/main/;T{;{;I"�%/*
+  html5doctor.com Reset Stylesheet
+  v1.6.1
+  Last Updated: 2010-09-17
+  Author: Richard Clark - http://richclarkdesign.com
+  Twitter: @rich_clark
+*/
+html,
+body,
+div,
+span,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+abbr,
+address,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+samp,
+small,
+strong,
+sub,
+sup,
+var,
+b,
+i,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+  margin: 0;
+  padding: 0;
+}
+body {
+  line-height: 1;
+}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+nav ul {
+  list-style: none;
+}
+blockquote,
+q {
+  quotes: none;
+}
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: none;
+}
+a {
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+  margin: 0;
+  padding: 0;
+}
+ins {
+  background-color: #ff9;
+  color: #000;
+  text-decoration: none;
+}
+mark {
+  background-color: #ff9;
+  color: #000;
+  font-style: italic;
+  font-weight: 700;
+}
+del {
+  text-decoration: line-through;
+}
+abbr[title],
+dfn[title] {
+  border-bottom: 1px dotted;
+  cursor: help;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 1em 0;
+  padding: 0;
+}
+input,
+select {
+  vertical-align: middle;
+}
+/*
+  Main CSS
+*/
+/*** main element styles ***/
+html,
+body,
+th,
+td,
+input,
+select,
+textarea {
+  font-family: "Lora", "Helvetica Neue", Helvetica, Arial, serif;
+  line-height: 1.8;
+  font-weight: 300;
+}
+html {
+  margin: 10px;
+}
+body {
+  width: 990px;
+  max-width: 990px;
+  margin: 0 auto;
+  -webkit-text-size-adjust: 100%;
+}
+a {
+  color: #109f85;
+  text-decoration: none;
+  border-bottom: 1px solid;
+}
+a:hover {
+  color: #15bb9a !important;
+}
+a.img {
+  border: none;
+}
+h1 a,
+h2 a,
+.billboard a,
+footer a {
+  color: inherit !important;
+  border-bottom: none;
+}
+ul,
+ol,
+dl {
+  margin: 0 0 1em 30px;
+}
+p {
+  margin-bottom: 1em;
+}
+p + ul,
+p + ol {
+  margin-top: -1em;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #109f85;
+}
+h1 {
+  font-size: 2em;
+  line-height: 1.25em;
+}
+h2 {
+  font-size: 1.5em;
+  line-height: 1.5em;
+}
+strong {
+  font-weight: 700;
+}
+em {
+  font-style: normal;
+  font-weight: normal;
+  color: #444444;
+}
+img,
+iframe {
+  max-width: 100%;
+}
+dt {
+  font-weight: bold;
+  float: left;
+  clear: both;
+}
+dt:after {
+  font-weight: 300;
+  content: ":\0000a0";
+}
+hr {
+  border-color: #dddddd;
+}
+pre {
+  padding: 5px 10px;
+  margin: -5px 0 1em 2px;
+  border-left: 3px solid rgba(16, 159, 133, 0.7);
+  max-width: 100%;
+  overflow: auto;
+}
+pre:hover {
+  background-color: rgba(16, 159, 133, 0.03);
+}
+pre code {
+  vertical-align: 0;
+}
+pre,
+pre code {
+  font: 10pt/1.4 Courier, monospace;
+}
+code {
+  font: 11pt Courier, monospace;
+  letter-spacing: -1px;
+}
+a:hover code {
+  color: #15bb9a;
+}
+sup {
+  vertical-align: super;
+  font-size: smaller;
+}
+/*** layout ***/
+article {
+  width: 67%;
+  float: left;
+  padding-top: 1em;
+  min-height: 100px;
+}
+article figure {
+  text-align: center;
+}
+aside {
+  width: 27%;
+  float: right;
+  border-left: 2px solid rgba(16, 159, 133, 0.7);
+  margin: 3em 0;
+  padding: .25em 0 .25em 3%;
+}
+aside div ~ div {
+  margin-top: 1.5em;
+}
+header {
+  margin: 1em 0 .25em;
+}
+header h1 {
+  font-size: 3em;
+  line-height: 1.1em;
+}
+header h2 {
+  font-size: 1.18em;
+  font-weight: 300;
+  line-height: 1.5em;
+}
+header img {
+  height: 180px;
+  float: right;
+  margin: -3.3em 0 -170px -100px;
+}
+nav ul {
+  margin: 0 0 .75em;
+  font-size: 1.5em;
+  font-weight: normal;
+}
+nav li {
+  display: inline;
+  margin-right: 20px;
+}
+nav a {
+  border-bottom: none;
+}
+nav a:hover {
+  border-bottom: .15em solid;
+}
+footer {
+  clear: both;
+  padding: 0 1.5em;
+  font-size: 12px;
+  color: #aaaaaa;
+  text-align: center;
+}
+.steps {
+  counter-reset: step;
+}
+.steps h3:before {
+  content: counter(step) ". ";
+  counter-increment: step;
+}
+.example,
+.example em {
+  color: #666666;
+}
+/*** homepage ***/
+.home article,
+.home aside {
+  width: auto;
+  float: none;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+.home aside {
+  clear: both;
+  overflow: hidden;
+  margin-bottom: 2em;
+}
+.home aside p:last-child {
+  margin-bottom: 0;
+}
+.home aside .section {
+  width: 29%;
+  padding: 0 3%;
+  margin-top: 10px;
+  float: left;
+  padding-bottom: 1000px;
+  margin-bottom: -1000px;
+}
+.home aside .section:first-child {
+  padding-left: 0;
+  border-right: 3px solid rgba(16, 159, 133, 0.7);
+}
+.home aside .section:last-child {
+  padding-right: 0;
+  border-left: 3px solid rgba(16, 159, 133, 0.7);
+}
+.billboard {
+  margin: 30px 0 -30px 0;
+  min-height: 610px;
+  font-size: 22px;
+}
+.billboard img.logo {
+  float: right;
+  min-width: 50px;
+  max-width: 300px;
+  margin: -20px 0 2px -130px;
+  *margin: 100px -5px -500px -130px;
+  *width: 280px;
+}
+.billboard h1 {
+  padding-top: 70px;
+  font-size: 3.5em;
+  line-height: 1.1;
+  letter-spacing: -1px;
+}
+.billboard h2 {
+  font-weight: normal;
+  font-size: 1.35em;
+  line-height: 1.63;
+}
+.billboard figure {
+  text-align: left;
+  margin: 1.5em 0 2em 0;
+}
+.billboard figure a {
+  color: #109f85 !important;
+}
+.billboard figure:hover img {
+  opacity: .98;
+  box-shadow: 5px 5px 5px #aaa;
+}
+.billboard figure img {
+  float: left;
+  margin-right: 30px;
+}
+.billboard figcaption {
+  max-width: 600px;
+  margin: .2em 0;
+  line-height: 1.5;
+  font-weight: bold;
+}
+.billboard figcaption p {
+  margin: 0;
+}
+figure.logo {
+  zoom: 1;
+  clear: both;
+  padding-top: 1.5em;
+  border-top: 2px solid rgba(16, 159, 133, 0.7);
+}
+figure.logo:after {
+  display: block;
+  visibility: hidden;
+  height: 0;
+  clear: both;
+  content: ".";
+}
+figure.logo img {
+  float: left;
+  margin: 0 10px 1em 0;
+}
+h2.screencast {
+  /* preload background */
+  background: url(/images/television-active.png) no-repeat -99px -99px;
+}
+h2.screencast a {
+  background: url(/images/television.png) no-repeat right center;
+  padding-right: 50px;
+}
+h2.screencast a:hover,
+h2.screencast a:active {
+  background-image: url(/images/television-active.png);
+}
+/*** enhancements for smaller devices ***/
+@media only screen and (max-width: 1000px) {
+  body {
+    width: 100%;
+    font-size: 14px;
+  }
+  h2 {
+    font-size: 1.5em;
+    margin-bottom: .1em;
+  }
+  header img {
+    height: 170px;
+  }
+  .billboard {
+    min-height: 0;
+    font-size: 15px;
+    margin: 0;
+  }
+  .billboard img.logo {
+    display: none;
+  }
+  .billboard h1 {
+    padding-top: 60px;
+  }
+  .billboard figure {
+    margin: 1em 0 !important;
+  }
+}
+@media only screen and (max-height: 900px) {
+  .billboard {
+    min-height: 0;
+    margin: 0;
+  }
+  .billboard img.logo {
+    max-width: 30%;
+    margin-top: 0;
+    margin-right: 20px;
+  }
+}
+@media only screen and (max-height: 750px) {
+  .billboard h1 {
+    padding-top: 30px;
+  }
+  .billboard img.logo {
+    max-width: 28%;
+    margin-right: 50px;
+  }
+  .home aside {
+    margin-bottom: 1em;
+  }
+  .home aside .section {
+    margin-top: ;
+  }
+  footer p {
+    margin-bottom: 0.5em;
+  }
+}
+@media only screen and (max-height: 600px) {
+  .billboard h1 {
+    padding: 0;
+  }
+  .billboard img.logo {
+    max-width: 20%;
+  }
+}
+@media only screen and (max-height: 400px) {
+  body {
+    font-size: 13px;
+  }
+  h2 {
+    font-size: 1.3em;
+    margin-bottom: .1em;
+  }
+  footer {
+    padding: 1em 0;
+  }
+  .billboard {
+    font-size: 13px;
+  }
+  .billboard img.logo {
+    max-width: 6%;
+  }
+  .billboard figure {
+    display: none;
+  }
+}
+@media only screen and (max-width: 720px), screen and (max-height: 200px) {
+  article,
+  aside {
+    width: auto;
+    float: none;
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+  aside {
+    padding-top: 1em;
+    border-top: 2px solid rgba(16, 159, 133, 0.7);
+    border-bottom: 2px solid rgba(16, 159, 133, 0.7);
+  }
+  img {
+    height: auto;
+  }
+  header img {
+    display: none;
+  }
+  .home aside .section {
+    float: none;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    border: none !important;
+  }
+  h2 {
+    font-size: 1.3em;
+  }
+  footer {
+    padding: 1em 0;
+  }
+  .billboard {
+    font-size: 13px;
+  }
+  .billboard h1 {
+    padding: 0;
+  }
+}
+@media only screen and (max-width: 480px), screen and (max-height: 320px) {
+  header,
+  .billboard {
+    font-size: 11px;
+    margin: 0;
+  }
+  header h1,
+  .billboard h1 {
+    font-size: 28px;
+  }
+  header h2,
+  .billboard h2 {
+    font-size: 10px;
+  }
+  header img.logo,
+  .billboard img.logo {
+    display: none;
+  }
+  header figure,
+  .billboard figure {
+    display: none;
+  }
+  nav ul {
+    margin: 0;
+    font-size: 14px;
+  }
+  nav li {
+    margin-right: 5px;
+  }
+}
+/*** selection color ***/
+::selection {
+  background: #b8e1d9;
+}
+::-moz-selection {
+  background: #b8e1d9;
+}
+body {
+  -webkit-tap-highlight-color: #b8e1d9;
+}
+pre::selection,
+code::selection {
+  background: rgba(16, 159, 133, 0.1);
+}
+pre::-moz-selection,
+code::-moz-selection {
+  background: rgba(16, 159, 133, 0.1);
+}
+pre,
+code {
+  -webkit-tap-highlight-color: rgba(16, 159, 133, 0.1);
+}
+/*** print media ***/
+@media print {
+  a[href^="http://"]:after {
+    content: " (" attr(href) ") ";
+  }
+}
+/*** scrollbars ***/
+::-webkit-scrollbar {
+  width: 10px;
+  height: 6px;
+  margin-left: 10px;
+}
+::-webkit-scrollbar-track-piece {
+  background-color: #c3eae2;
+  border-radius: 6px;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #15bb9a;
+  border-radius: 6px;
+}
+/*** IE fixes ***/
+/* IE6 & 7 */
+.home .section {
+  *padding-left: 0 !important;
+}
+/* IE8 */
+html .home .section {
+  padding-right: 0\0/;
+}
+;T;	I"�%/*
+  html5doctor.com Reset Stylesheet
+  v1.6.1
+  Last Updated: 2010-09-17
+  Author: Richard Clark - http://richclarkdesign.com
+  Twitter: @rich_clark
+*/
+html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,dfn,em,img,ins,kbd,q,samp,small,strong,sub,sup,var,b,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary,time,mark,audio,video{border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent;margin:0;padding:0;}body{line-height:1;}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block;}nav ul{list-style:none;}blockquote,q{quotes:none;}blockquote:before,blockquote:after,q:before,q:after{content:none;}a{font-size:100%;vertical-align:baseline;background:transparent;margin:0;padding:0;}ins{background-color:#ff9;color:#000;text-decoration:none;}mark{background-color:#ff9;color:#000;font-style:italic;font-weight:700;}del{text-decoration:line-through;}abbr[title],dfn[title]{border-bottom:1px dotted;cursor:help;}table{border-collapse:collapse;border-spacing:0;}hr{display:block;height:1px;border:0;border-top:1px solid #ccc;margin:1em 0;padding:0;}input,select{vertical-align:middle;}
+
+/*
+  Main CSS
+*/
+
+@link-color: #109f85;
+@link-hover-color: #15bb9a;
+@em-color: #444444;
+@aside-border-color: fadeout(@link-color, 30%);
+@footer-color: #AAAAAA;
+
+.clearfix() {
+  zoom: 1;
+	&:after {
+    display: block;
+    visibility: hidden;
+    height: 0;
+    clear: both;
+    content: ".";
+	}
+}
+
+/*** main element styles ***/
+
+html, body, th, td, input, select, textarea {
+  font-family: "Lora", "Helvetica Neue", Helvetica, Arial, serif;
+  line-height: 1.8;
+  font-weight: 300;
+}
+
+html {
+  margin: 10px;
+}
+
+body {
+  width: 990px;
+  max-width: 990px;
+  margin: 0 auto;
+  -webkit-text-size-adjust: 100%;
+}
+
+a {
+  color: @link-color;
+  text-decoration: none;
+  border-bottom: 1px solid;
+  &:hover {
+    color: @link-hover-color !important;
+  }
+  &.img {
+    border: none;
+  }
+}
+
+h1 a, h2 a, .billboard a, footer a {
+  color: inherit !important;
+  border-bottom: none;
+}
+
+ul, ol, dl {
+  margin: 0 0 1em 30px;
+}
+
+p {
+  margin-bottom: 1em;
+}
+
+p + ul, p + ol {
+  margin-top: -1em;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  color: @link-color;
+}
+
+h1 {
+  font-size: 2em;
+  line-height: 1.25em;
+}
+
+h2 {
+  font-size: 1.5em;
+  line-height: 1.5em;
+}
+
+strong {
+  font-weight: 700;
+}
+
+em {
+  font-style: normal;
+  font-weight: normal;
+  color: @em-color;
+}
+
+img, iframe {
+  max-width: 100%;
+}
+
+dt {
+  font-weight: bold;
+  float: left;
+  clear: both;
+
+  &:after {
+    font-weight: 300;
+    content: ":\0000a0";
+  }
+}
+
+hr {
+  border-color: #dddddd;
+}
+
+pre {
+  padding: 5px 10px;
+  margin: -5px 0 1em 2px;
+  border-left: 3px solid fadeout(@link-color, 30%);
+  max-width: 100%;
+  overflow: auto;
+  &:hover {
+    background-color: fadeout(@link-color, 97%);
+  }
+  code {
+    vertical-align: 0;
+  }
+  &, code {
+    font: 10pt/1.4 Courier, monospace;
+  }
+}
+code {
+  font: 11pt Courier, monospace;
+  letter-spacing: -1px;
+}
+a:hover code {
+  color: @link-hover-color;
+}
+
+sup {
+  vertical-align: super;
+  font-size: smaller;
+}
+
+
+/*** layout ***/
+
+article {
+  width: 67%;
+  float: left;
+  padding-top: 1em;
+  min-height: 100px;
+
+  figure {
+    text-align: center;
+  }
+}
+
+aside {
+  width: 27%;
+  float: right;
+  border-left: 2px solid @aside-border-color;
+  margin: 3em 0;
+  padding: .25em 0 .25em 3%;
+}
+aside div ~ div {
+  margin-top: 1.5em;
+}
+
+header {
+  margin: 1em 0 .25em;
+
+  h1 {
+    font-size: 3em;
+    line-height: 1.1em;
+  }
+  h2 {
+    font-size: 1.18em;
+    font-weight: 300;
+    line-height: 1.5em;
+  }
+  img {
+    height: 180px;
+    float: right;
+    margin: -3.3em 0 -170px -100px;
+  }
+}
+
+nav {
+  ul {
+    margin: 0 0 .75em;
+    font-size: 1.5em;
+    font-weight: normal;
+  }
+  li {
+    display: inline;
+    margin-right: 20px;
+  }
+  a {
+    border-bottom: none;
+    &:hover {
+      border-bottom: .15em solid;
+    }
+  }
+}
+
+footer {
+  clear: both;
+  padding: 0 1.5em;
+  font-size: 12px;
+  color: @footer-color;
+  text-align: center;
+}
+
+.steps {
+  counter-reset: step;
+}
+
+.steps h3:before {
+  content: counter(step) ". ";
+  counter-increment: step;
+}
+
+.example, .example em {
+  color: #666666;
+}
+
+/*** homepage ***/
+
+.home {
+  article, aside {
+    width: auto;
+    float: none;
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+  aside {
+    clear: both;
+    overflow: hidden;
+    margin-bottom: 2em;
+
+    p:last-child {
+      margin-bottom: 0;
+    }
+    .section {
+      width: 29%;
+      padding: 0 3%;
+      margin-top: 10px;
+      float: left;
+      padding-bottom: 1000px;
+    	margin-bottom: -1000px;
+
+    	&:first-child {
+        padding-left: 0;
+        border-right: 3px solid @aside-border-color;
+      }
+      &:last-child {
+        padding-right: 0;
+        border-left: 3px solid @aside-border-color;
+      }
+    }
+  }
+}
+
+.billboard {
+  margin: 30px 0 -30px 0;
+  min-height: 610px;
+  font-size: 22px;
+
+  img.logo {
+    float: right;
+    min-width: 50px;
+    max-width: 300px;
+    margin: -20px 0 2px -130px;
+    *margin: 100px -5px -500px -130px;
+    *width: 280px;
+  }
+  h1 {
+    padding-top: 70px;
+    font-size: 3.5em;
+    line-height: 1.1;
+    letter-spacing: -1px;
+  }
+  h2 {
+    font-weight: normal;
+    font-size: 1.35em;
+    line-height: 1.63;
+  }
+  figure {
+    text-align: left;
+    margin: 1.5em 0 2em 0;
+    a {
+      color: @link-color !important;
+    }
+    &:hover{
+      img {
+        opacity: .98;
+        box-shadow: 5px 5px 5px #aaa;
+      }
+    }
+    img {
+      float: left;
+      margin-right: 30px;
+    }
+  }
+  figcaption {
+    max-width: 600px;
+    margin: .2em 0;
+    line-height: 1.5;
+    font-weight: bold;
+    p { margin: 0; }
+  }
+}
+
+figure.logo {
+  .clearfix;
+  clear: both;
+  padding-top: 1.5em;
+
+  img {
+    float: left;
+    margin: 0 10px 1em 0;
+  }
+
+  border-top: 2px solid @aside-border-color;
+}
+
+h2.screencast {
+  a {
+    background: url(/images/television.png) no-repeat right center;
+    padding-right: 50px;
+
+    &:hover, &:active {
+      background-image: url(/images/television-active.png);
+    }
+  }
+  /* preload background */
+  background: url(/images/television-active.png) no-repeat -99px -99px;
+}
+
+/*** enhancements for smaller devices ***/
+
+@media only screen and (max-width: 1000px) {
+  body {
+    width: 100%;
+    font-size: 14px;
+  }
+  h2 {
+    font-size: 1.5em;
+    margin-bottom: .1em;
+  }
+  header img {
+    height: 170px;
+  }
+  .billboard {
+    min-height: 0;
+    font-size: 15px;
+    margin: 0;
+
+    img.logo {
+      display: none;
+    }
+    h1 {
+      padding-top: 60px;
+    }
+    figure {
+      margin: 1em 0 !important;
+    }
+  }
+}
+
+@media only screen and (max-height: 900px) {
+  .billboard {
+    min-height: 0;
+    margin: 0;
+
+    img.logo {
+      max-width: 30%;
+      margin-top: 0;
+      margin-right: 20px;
+    }
+  }
+}
+
+@media only screen and (max-height: 750px) {
+  .billboard {
+    h1 {
+      padding-top: 30px;
+    }
+    img.logo {
+      max-width: 28%;
+      margin-right: 50px;
+    }
+  }
+  .home {
+    aside {
+      margin-bottom: 1em;
+      .section {
+        margin-top: ;
+      }
+    }
+  }
+  footer {
+    p {
+      margin-bottom: 0.5em;
+    }
+  }
+}
+
+@media only screen and (max-height: 600px) {
+  .billboard {
+    h1 {
+      padding: 0;
+    }
+    img.logo {
+      max-width: 20%;
+    }
+  }
+}
+
+@media only screen and (max-height: 400px) {
+  body {
+    font-size: 13px;
+  }
+  h2 {
+    font-size: 1.3em;
+    margin-bottom: .1em;
+  }
+  footer {
+    padding: 1em 0;
+  }
+  .billboard {
+    font-size: 13px;
+
+    img.logo {
+      max-width: 6%;
+    }
+    figure {
+      display: none;
+    }
+  }
+}
+
+@media only screen and (max-width: 720px), screen and (max-height: 200px) {
+  article, aside {
+    width: auto;
+    float: none;
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+  aside {
+    padding-top: 1em;
+    border-top: 2px solid @aside-border-color;
+    border-bottom: 2px solid @aside-border-color;
+  }
+  img {
+    height: auto;
+  }
+  header img {
+    display: none;
+  }
+  .home aside .section {
+    float: none;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    border: none !important;
+  }
+  h2 {
+    font-size: 1.3em;
+  }
+  footer {
+    padding: 1em 0;
+  }
+  .billboard {
+    font-size: 13px;
+
+    h1 {
+      padding: 0;
+    }
+  }
+}
+
+@media only screen and (max-width: 480px), screen and (max-height: 320px) {
+  header, .billboard {
+    font-size: 11px;
+    margin: 0;
+    h1 {
+      font-size: 28px;
+    }
+    h2 {
+      font-size: 10px;
+    }
+    img.logo {
+      display: none;
+    }
+    figure {
+      display: none;
+    }
+  }
+  nav {
+    ul {
+      margin: 0;
+      font-size: 14px;
+    }
+    li {
+      margin-right: 5px;
+    }
+  }
+}
+
+/*** selection color ***/
+@selection-color: #b8e1d9;
+@code-selection-color: fadeout(@link-color, 90%);
+
+::selection {background: @selection-color;}
+::-moz-selection {background: @selection-color;}
+body {-webkit-tap-highlight-color: @selection-color;}
+
+pre::selection, code::selection {background: @code-selection-color;}
+pre::-moz-selection, code::-moz-selection {background: @code-selection-color;}
+pre, code {-webkit-tap-highlight-color: @code-selection-color;}
+
+/*** print media ***/
+
+@media print {
+  a[href^="http://"]:after {
+    content: " (" attr(href) ") ";
+  }
+}
+
+/*** scrollbars ***/
+
+::-webkit-scrollbar {
+    width: 10px;
+    height: 6px;
+    margin-left: 10px;
+}
+
+::-webkit-scrollbar-track-piece {
+    background-color: #c3eae2;
+    border-radius: 6px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #15bb9a;
+    border-radius: 6px;
+}
+
+/*** IE fixes ***/
+
+/* IE6 & 7 */
+.home .section {
+  *padding-left: 0 !important;
+}
+
+/* IE8 */
+html .home .section {
+  padding-right: ~"0\0/";
+}
+;T;
+@�I"/videos/0-index/;T{;{	;I"�<!DOCTYPE html>
+<html lang="en">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <title>Lemuridae.org | Videos</title>
+    <link href="../stylesheets/main.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700" rel="stylesheet" type="text/css">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  </head>
+  <body>
+    <header>
+      <hgroup>
+        <h1>
+          <a href="../" rel="contents">Lemuridae.org</a>
+        </h1>
+        <h2>
+          Text mining for content enhancement &amp; compliance
+          <a href="../" rel="contents">
+            <img alt="" class="logo" src="../images/lemur.jpg">
+          </a>
+        </h2>
+      </hgroup>
+    </header>
+    <nav>
+      <ul>
+        <li>
+          <a href="../compliance/">Cleanup</a>
+        </li>
+        <li>
+          <a href="../reconciliation/">Reconciliation</a>
+        </li>
+        <li>
+          <a href="../named-entity-extraction/">Extraction</a>
+        </li>
+        <li>
+          <a href="../sustainable-access/">Access</a>
+        </li>
+        <li>
+          <a href="../reaching-out/">Reaching out</a>
+        </li>
+        <li>
+          <a href="../about/">About</a>
+        </li>
+      </ul>
+    </nav>
+    
+    <article>
+      <h1>Videos</h1>
+      <ul>
+        <li><a href="introduction">Introduction</a></li>
+        <li><a href="../cleanup/">Cleaning</a></li>
+      </ul>
+    <footer>
+      <p>
+        <a href="../authors/">© 2015–2015 MaSTIC – Université Libre de Bruxelles</a>
+      </p>
+    </footer>
+    <script>(function(a){if(navigator.userAgent.match(/like Mac OS X/i)){var c=[1,1],b="querySelectorAll"in a?a.querySelectorAll("meta[name=viewport]"):[],d=function(){b.content="width=device-width,minimum-scale="+c[0]+",maximum-scale="+c[1];a.removeEventListener("gesturestart",d,!0)};if((b=b[b.length-1])&&"addEventListener"in a)d(),c=[0.25,1.6],a.addEventListener("gesturestart",d,!0)}})(document);</script>
+  </article>
+</body>
+</html>
+;T;	I"�
+<article>
+  <h1>Videos</h1>
+  <ul>
+    <li><a href="/videos/introduction">Introduction</a></li>
+    <li><a href="/cleanup/">Cleaning</a></li>
+  </ul>
+;T;
+@�;@�I"/videos/1-introduction/;T{;{	;I"�	<!DOCTYPE html>
+<html lang="en">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <title>Lemuridae.org | Introductory video</title>
+    <link href="../../stylesheets/main.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700" rel="stylesheet" type="text/css">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  </head>
+  <body>
+    <header>
+      <hgroup>
+        <h1>
+          <a href="../../" rel="contents">Lemuridae.org</a>
+        </h1>
+        <h2>
+          Text mining for content enhancement &amp; compliance
+          <a href="../../" rel="contents">
+            <img alt="" class="logo" src="../../images/lemur.jpg">
+          </a>
+        </h2>
+      </hgroup>
+    </header>
+    <nav>
+      <ul>
+        <li>
+          <a href="../../compliance/">Cleanup</a>
+        </li>
+        <li>
+          <a href="../../reconciliation/">Reconciliation</a>
+        </li>
+        <li>
+          <a href="../../named-entity-extraction/">Extraction</a>
+        </li>
+        <li>
+          <a href="../../sustainable-access/">Access</a>
+        </li>
+        <li>
+          <a href="../../reaching-out/">Reaching out</a>
+        </li>
+        <li>
+          <a href="../../about/">About</a>
+        </li>
+      </ul>
+    </nav>
+    
+    <article>
+      <h1>Introductory video</h1>
+      <p>In this video, Seth van Hooland, Max De Wilde, and Ruben Verborgh introduce <em>Free Your Metadata</em>.</p>
+    <iframe class="youtube" width="660" height="402" src="http://www.youtube.com/embed/KtP9qlx56_c?rel=0&amp;autoplay=1&amp;theme=light&amp;color=white&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+    <footer>
+      <p>
+        <a href="../../authors/">© 2015–2015 MaSTIC – Université Libre de Bruxelles</a>
+      </p>
+    </footer>
+    <script>(function(a){if(navigator.userAgent.match(/like Mac OS X/i)){var c=[1,1],b="querySelectorAll"in a?a.querySelectorAll("meta[name=viewport]"):[],d=function(){b.content="width=device-width,minimum-scale="+c[0]+",maximum-scale="+c[1];a.removeEventListener("gesturestart",d,!0)};if((b=b[b.length-1])&&"addEventListener"in a)d(),c=[0.25,1.6],a.addEventListener("gesturestart",d,!0)}})(document);</script>
+  </article>
+</body>
+</html>
+;T;	I"i
+<article>
+  <h1>Introductory video</h1>
+  <p>In this video, Seth van Hooland, Max De Wilde, and Ruben Verborgh introduce <em>Free Your Metadata</em>.</p>
+<iframe class="youtube" width="660" height="402" src="http://www.youtube.com/embed/KtP9qlx56_c?rel=0&amp;autoplay=1&amp;theme=light&amp;color=white&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+;T;
+@�;@�I"/images/lemur/;T{;{ I"/images/lemur_broad/;T{;{ I"/1-compliance/;T{;{	;I".<!DOCTYPE html>
+<html lang="en">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <title>LEMURIDAE.ORG | Compliance</title>
+    <link href="../stylesheets/main.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Josefin+Sans:600" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lora" rel="stylesheet" type="text/css">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  </head>
+  <body>
+    <header>
+      <hgroup>
+        <h1>
+          <a href="../" rel="contents">LEMURIDAE.ORG</a>
+        </h1>
+        <h2>
+          Text mining for content enhancement &amp; compliance
+          <a href="../" rel="contents">
+            <img alt="" class="logo" src="../images/lemur_logo.jpg">
+          </a>
+        </h2>
+      </hgroup>
+    </header>
+    <nav>
+      <ul>
+        <li>
+          <a href="./">Compliance</a>
+        </li>
+        <li>
+          <a href="../taxonomies/">Taxonomies</a>
+        </li>
+        <li>
+          <a href="../classification/">Classification</a>
+        </li>
+        <li>
+          <a href="../about/">About</a>
+        </li>
+      </ul>
+    </nav>
+    
+    <article>
+     <h1>Lorem ipsum dolor sit amet consectetuer adipiscing 
+    elit</h1>
+    
+    
+    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
+    elit. Aenean commodo ligula eget dolor. Aenean massa 
+    <strong>strong</strong>. Cum sociis natoque penatibus 
+    et magnis dis parturient montes, nascetur ridiculus 
+    mus. Donec quam felis, ultricies nec, pellentesque 
+    eu, pretium quis, sem. Nulla consequat massa quis 
+    enim. Donec pede justo, fringilla vel, aliquet nec, 
+    vulputate eget, arcu. In enim justo, rhoncus ut, 
+    imperdiet a, venenatis vitae, justo. Nullam dictum 
+    felis eu pede <a class="external ext" href="#">link</a> 
+    mollis pretium. Integer tincidunt. Cras dapibus. 
+    Vivamus elementum semper nisi. Aenean vulputate 
+    eleifend tellus. Aenean leo ligula, porttitor eu, 
+    consequat vitae, eleifend ac, enim. Aliquam lorem ante, 
+    dapibus in, viverra quis, feugiat a, tellus. Phasellus 
+    viverra nulla ut metus varius laoreet. Quisque rutrum. 
+    Aenean imperdiet. Etiam ultricies nisi vel augue. 
+    Curabitur ullamcorper ultricies nisi.</p>
+    
+    
+    <h1>Lorem ipsum dolor sit amet consectetuer adipiscing 
+    elit</h1>
+    
+    
+    <h2>Aenean commodo ligula eget dolor aenean massa</h2>
+    
+    
+    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
+    elit. Aenean commodo ligula eget dolor. Aenean massa. 
+    Cum sociis natoque penatibus et magnis dis parturient 
+    montes, nascetur ridiculus mus. Donec quam felis, 
+    ultricies nec, pellentesque eu, pretium quis, sem.</p>
+    
+    
+    <h2>Aenean commodo ligula eget dolor aenean massa</h2>
+    
+    
+    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
+    elit. Aenean commodo ligula eget dolor. Aenean massa. 
+    Cum sociis natoque penatibus et magnis dis parturient 
+    montes, nascetur ridiculus mus. Donec quam felis, 
+    ultricies nec, pellentesque eu, pretium quis, sem.</p>
+    
+    
+    <ul>
+      <li>Lorem ipsum dolor sit amet consectetuer.</li>
+      <li>Aenean commodo ligula eget dolor.</li>
+      <li>Aenean massa cum sociis natoque penatibus.</li>
+    </ul>
+    
+    
+    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
+    elit. Aenean commodo ligula eget dolor. Aenean massa. 
+    Cum sociis natoque penatibus et magnis dis parturient 
+    montes, nascetur ridiculus mus. Donec quam felis, 
+    ultricies nec, pellentesque eu, pretium quis, sem.</p>
+    
+    
+    
+    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
+    elit. Aenean commodo ligula eget dolor. Aenean massa. 
+    Cum sociis natoque penatibus et magnis dis parturient 
+    montes, nascetur ridiculus mus. Donec quam felis, 
+    ultricies nec, pellentesque eu, pretium quis, sem.</p>
+     
+    </article>
+    <aside>
+      <h2>Get started quickly!</h2>
+      <p>Flumen flumen per praecipitem per <strong>mortuorum scalas</strong> truncata conpage abiecerunt in acri artuum truncata raptavere impetu coniunctos scalas mox in.</p>
+      <p>Exaggerando vertenda exaggerando celsae potius altius congrueret iras ne actus.</p>
+      <h2>On to the next step</h2>
+      <p>You're aware about your compliance issue? Let's <a href="../taxonomies/">build a taxonomy</a>!</p>
+    </aside>
+    <footer>
+      <p>
+        <a href="../authors/">© 2015–2015 MaSTIC – Université Libre de Bruxelles</a>
+      </p>
+    </footer>
+    <script>(function(a){if(navigator.userAgent.match(/like Mac OS X/i)){var c=[1,1],b="querySelectorAll"in a?a.querySelectorAll("meta[name=viewport]"):[],d=function(){b.content="width=device-width,minimum-scale="+c[0]+",maximum-scale="+c[1];a.removeEventListener("gesturestart",d,!0)};if((b=b[b.length-1])&&"addEventListener"in a)d(),c=[0.25,1.6],a.addEventListener("gesturestart",d,!0)}})(document);</script>
+  </body>
+</html>
+;T;	I"l
+<article>
+ <h1>Lorem ipsum dolor sit amet consectetuer adipiscing 
+elit</h1>
+
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
+elit. Aenean commodo ligula eget dolor. Aenean massa 
+<strong>strong</strong>. Cum sociis natoque penatibus 
+et magnis dis parturient montes, nascetur ridiculus 
+mus. Donec quam felis, ultricies nec, pellentesque 
+eu, pretium quis, sem. Nulla consequat massa quis 
+enim. Donec pede justo, fringilla vel, aliquet nec, 
+vulputate eget, arcu. In enim justo, rhoncus ut, 
+imperdiet a, venenatis vitae, justo. Nullam dictum 
+felis eu pede <a class="external ext" href="#">link</a> 
+mollis pretium. Integer tincidunt. Cras dapibus. 
+Vivamus elementum semper nisi. Aenean vulputate 
+eleifend tellus. Aenean leo ligula, porttitor eu, 
+consequat vitae, eleifend ac, enim. Aliquam lorem ante, 
+dapibus in, viverra quis, feugiat a, tellus. Phasellus 
+viverra nulla ut metus varius laoreet. Quisque rutrum. 
+Aenean imperdiet. Etiam ultricies nisi vel augue. 
+Curabitur ullamcorper ultricies nisi.</p>
+
+
+<h1>Lorem ipsum dolor sit amet consectetuer adipiscing 
+elit</h1>
+
+
+<h2>Aenean commodo ligula eget dolor aenean massa</h2>
+
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
+elit. Aenean commodo ligula eget dolor. Aenean massa. 
+Cum sociis natoque penatibus et magnis dis parturient 
+montes, nascetur ridiculus mus. Donec quam felis, 
+ultricies nec, pellentesque eu, pretium quis, sem.</p>
+
+
+<h2>Aenean commodo ligula eget dolor aenean massa</h2>
+
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
+elit. Aenean commodo ligula eget dolor. Aenean massa. 
+Cum sociis natoque penatibus et magnis dis parturient 
+montes, nascetur ridiculus mus. Donec quam felis, 
+ultricies nec, pellentesque eu, pretium quis, sem.</p>
+
+
+<ul>
+  <li>Lorem ipsum dolor sit amet consectetuer.</li>
+  <li>Aenean commodo ligula eget dolor.</li>
+  <li>Aenean massa cum sociis natoque penatibus.</li>
+</ul>
+
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
+elit. Aenean commodo ligula eget dolor. Aenean massa. 
+Cum sociis natoque penatibus et magnis dis parturient 
+montes, nascetur ridiculus mus. Donec quam felis, 
+ultricies nec, pellentesque eu, pretium quis, sem.</p>
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
+elit. Aenean commodo ligula eget dolor. Aenean massa. 
+Cum sociis natoque penatibus et magnis dis parturient 
+montes, nascetur ridiculus mus. Donec quam felis, 
+ultricies nec, pellentesque eu, pretium quis, sem.</p>
+ 
+</article>
+<aside>
+  <h2>Get started quickly!</h2>
+  <p>Flumen flumen per praecipitem per <strong>mortuorum scalas</strong> truncata conpage abiecerunt in acri artuum truncata raptavere impetu coniunctos scalas mox in.</p>
+  <p>Exaggerando vertenda exaggerando celsae potius altius congrueret iras ne actus.</p>
+  <h2>On to the next step</h2>
+  <p>You're aware about your compliance issue? Let's <a href="/taxonomies/">build a taxonomy</a>!</p>
+</aside>
+;T;
+@�;@�I"/2-taxonomies/;T{;{	;I"<!DOCTYPE html>
+<html lang="en">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <title>LEMURIDAE.ORG | Taxonomies</title>
+    <link href="../stylesheets/main.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Josefin+Sans:600" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lora" rel="stylesheet" type="text/css">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  </head>
+  <body>
+    <header>
+      <hgroup>
+        <h1>
+          <a href="../" rel="contents">LEMURIDAE.ORG</a>
+        </h1>
+        <h2>
+          Text mining for content enhancement &amp; compliance
+          <a href="../" rel="contents">
+            <img alt="" class="logo" src="../images/lemur_logo.jpg">
+          </a>
+        </h2>
+      </hgroup>
+    </header>
+    <nav>
+      <ul>
+        <li>
+          <a href="../compliance/">Compliance</a>
+        </li>
+        <li>
+          <a href="./">Taxonomies</a>
+        </li>
+        <li>
+          <a href="../classification/">Classification</a>
+        </li>
+        <li>
+          <a href="../about/">About</a>
+        </li>
+      </ul>
+    </nav>
+    
+    <article>
+      <h1>Lorem ipsum dolor sit amet consectetuer adipiscing 
+    elit</h1>
+    
+    
+    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
+    elit. Aenean commodo ligula eget dolor. Aenean massa 
+    <strong>strong</strong>. Cum sociis natoque penatibus 
+    et magnis dis parturient montes, nascetur ridiculus 
+    mus. Donec quam felis, ultricies nec, pellentesque 
+    eu, pretium quis, sem. Nulla consequat massa quis 
+    enim. Donec pede justo, fringilla vel, aliquet nec, 
+    vulputate eget, arcu. In enim justo, rhoncus ut, 
+    imperdiet a, venenatis vitae, justo. Nullam dictum 
+    felis eu pede <a class="external ext" href="#">link</a> 
+    mollis pretium. Integer tincidunt. Cras dapibus. 
+    Vivamus elementum semper nisi. Aenean vulputate 
+    eleifend tellus. Aenean leo ligula, porttitor eu, 
+    consequat vitae, eleifend ac, enim. Aliquam lorem ante, 
+    dapibus in, viverra quis, feugiat a, tellus. Phasellus 
+    viverra nulla ut metus varius laoreet. Quisque rutrum. 
+    Aenean imperdiet. Etiam ultricies nisi vel augue. 
+    Curabitur ullamcorper ultricies nisi.</p>
+    
+    
+    <h1>Lorem ipsum dolor sit amet consectetuer adipiscing 
+    elit</h1>
+    
+    
+    <h2>Aenean commodo ligula eget dolor aenean massa</h2>
+    
+    
+    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
+    elit. Aenean commodo ligula eget dolor. Aenean massa. 
+    Cum sociis natoque penatibus et magnis dis parturient 
+    montes, nascetur ridiculus mus. Donec quam felis, 
+    ultricies nec, pellentesque eu, pretium quis, sem.</p>
+    
+    
+    <h2>Aenean commodo ligula eget dolor aenean massa</h2>
+    
+    
+    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
+    elit. Aenean commodo ligula eget dolor. Aenean massa. 
+    Cum sociis natoque penatibus et magnis dis parturient 
+    montes, nascetur ridiculus mus. Donec quam felis, 
+    ultricies nec, pellentesque eu, pretium quis, sem.</p>
+    
+    
+    <ul>
+      <li>Lorem ipsum dolor sit amet consectetuer.</li>
+      <li>Aenean commodo ligula eget dolor.</li>
+      <li>Aenean massa cum sociis natoque penatibus.</li>
+    </ul>
+    
+    
+    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
+    elit. Aenean commodo ligula eget dolor. Aenean massa. 
+    Cum sociis natoque penatibus et magnis dis parturient 
+    montes, nascetur ridiculus mus. Donec quam felis, 
+    ultricies nec, pellentesque eu, pretium quis, sem.</p>
+    
+    
+    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
+    elit. Aenean commodo ligula eget dolor. Aenean massa. 
+    Cum sociis natoque penatibus et magnis dis parturient 
+    montes, nascetur ridiculus mus. Donec quam felis, 
+    ultricies nec, pellentesque eu, pretium quis, sem.</p>
+    
+    </article>
+    
+    <aside>
+      <h2>You already have a taxonomy?</h2>
+      <p>Then let's <a href="../cleanup/">tag or classify</a> your content with it!</p>
+      <h2>Need help?</h2>
+      <p><strong>Ask your question</strong> on Twitter and get help from experts.</p>
+      <a href="https://twitter.com/intent/tweet?screen_name=LemuridaeDotOrg" class="twitter-mention-button" data-related="LemuridaeDotOrg">Tweet to @LemuridaeDotOrg</a>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+      <h2>Stay informed!</h2>
+      <a href="https://twitter.com/LemuridaeDotOrg" class="twitter-follow-button" data-show-count="false">Follow @LemuridaeDotOrg</a>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+    </aside>
+    <footer>
+      <p>
+        <a href="../authors/">© 2015–2015 MaSTIC – Université Libre de Bruxelles</a>
+      </p>
+    </footer>
+    <script>(function(a){if(navigator.userAgent.match(/like Mac OS X/i)){var c=[1,1],b="querySelectorAll"in a?a.querySelectorAll("meta[name=viewport]"):[],d=function(){b.content="width=device-width,minimum-scale="+c[0]+",maximum-scale="+c[1];a.removeEventListener("gesturestart",d,!0)};if((b=b[b.length-1])&&"addEventListener"in a)d(),c=[0.25,1.6],a.addEventListener("gesturestart",d,!0)}})(document);</script>
+  </body>
+</html>
+;T;	I"5
+<article>
+  <h1>Lorem ipsum dolor sit amet consectetuer adipiscing 
+elit</h1>
+
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
+elit. Aenean commodo ligula eget dolor. Aenean massa 
+<strong>strong</strong>. Cum sociis natoque penatibus 
+et magnis dis parturient montes, nascetur ridiculus 
+mus. Donec quam felis, ultricies nec, pellentesque 
+eu, pretium quis, sem. Nulla consequat massa quis 
+enim. Donec pede justo, fringilla vel, aliquet nec, 
+vulputate eget, arcu. In enim justo, rhoncus ut, 
+imperdiet a, venenatis vitae, justo. Nullam dictum 
+felis eu pede <a class="external ext" href="#">link</a> 
+mollis pretium. Integer tincidunt. Cras dapibus. 
+Vivamus elementum semper nisi. Aenean vulputate 
+eleifend tellus. Aenean leo ligula, porttitor eu, 
+consequat vitae, eleifend ac, enim. Aliquam lorem ante, 
+dapibus in, viverra quis, feugiat a, tellus. Phasellus 
+viverra nulla ut metus varius laoreet. Quisque rutrum. 
+Aenean imperdiet. Etiam ultricies nisi vel augue. 
+Curabitur ullamcorper ultricies nisi.</p>
+
+
+<h1>Lorem ipsum dolor sit amet consectetuer adipiscing 
+elit</h1>
+
+
+<h2>Aenean commodo ligula eget dolor aenean massa</h2>
+
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
+elit. Aenean commodo ligula eget dolor. Aenean massa. 
+Cum sociis natoque penatibus et magnis dis parturient 
+montes, nascetur ridiculus mus. Donec quam felis, 
+ultricies nec, pellentesque eu, pretium quis, sem.</p>
+
+
+<h2>Aenean commodo ligula eget dolor aenean massa</h2>
+
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
+elit. Aenean commodo ligula eget dolor. Aenean massa. 
+Cum sociis natoque penatibus et magnis dis parturient 
+montes, nascetur ridiculus mus. Donec quam felis, 
+ultricies nec, pellentesque eu, pretium quis, sem.</p>
+
+
+<ul>
+  <li>Lorem ipsum dolor sit amet consectetuer.</li>
+  <li>Aenean commodo ligula eget dolor.</li>
+  <li>Aenean massa cum sociis natoque penatibus.</li>
+</ul>
+
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
+elit. Aenean commodo ligula eget dolor. Aenean massa. 
+Cum sociis natoque penatibus et magnis dis parturient 
+montes, nascetur ridiculus mus. Donec quam felis, 
+ultricies nec, pellentesque eu, pretium quis, sem.</p>
+
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
+elit. Aenean commodo ligula eget dolor. Aenean massa. 
+Cum sociis natoque penatibus et magnis dis parturient 
+montes, nascetur ridiculus mus. Donec quam felis, 
+ultricies nec, pellentesque eu, pretium quis, sem.</p>
+
+</article>
+
+<aside>
+  <h2>You already have a taxonomy?</h2>
+  <p>Then let's <a href="/cleanup/">tag or classify</a> your content with it!</p>
+  <h2>Need help?</h2>
+  <p><strong>Ask your question</strong> on Twitter and get help from experts.</p>
+  <a href="https://twitter.com/intent/tweet?screen_name=LemuridaeDotOrg" class="twitter-mention-button" data-related="LemuridaeDotOrg">Tweet to @LemuridaeDotOrg</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+  <h2>Stay informed!</h2>
+  <a href="https://twitter.com/LemuridaeDotOrg" class="twitter-follow-button" data-show-count="false">Follow @LemuridaeDotOrg</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+</aside>
+;T;
+@�;@�I"/4-classification/;T{;{	;I"6<!DOCTYPE html>
+<html lang="en">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <title>LEMURIDAE.ORG | Classification</title>
+    <link href="../stylesheets/main.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Josefin+Sans:600" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lora" rel="stylesheet" type="text/css">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  </head>
+  <body>
+    <header>
+      <hgroup>
+        <h1>
+          <a href="../" rel="contents">LEMURIDAE.ORG</a>
+        </h1>
+        <h2>
+          Text mining for content enhancement &amp; compliance
+          <a href="../" rel="contents">
+            <img alt="" class="logo" src="../images/lemur_logo.jpg">
+          </a>
+        </h2>
+      </hgroup>
+    </header>
+    <nav>
+      <ul>
+        <li>
+          <a href="../compliance/">Compliance</a>
+        </li>
+        <li>
+          <a href="../taxonomies/">Taxonomies</a>
+        </li>
+        <li>
+          <a href="./">Classification</a>
+        </li>
+        <li>
+          <a href="../about/">About</a>
+        </li>
+      </ul>
+    </nav>
+    
+    <article>
+    	<h1>Lorem ipsum dolor sit amet consectetuer adipiscing 
+    elit</h1>
+    
+    
+    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
+    elit. Aenean commodo ligula eget dolor. Aenean massa 
+    <strong>strong</strong>. Cum sociis natoque penatibus 
+    et magnis dis parturient montes, nascetur ridiculus 
+    mus. Donec quam felis, ultricies nec, pellentesque 
+    eu, pretium quis, sem. Nulla consequat massa quis 
+    enim. Donec pede justo, fringilla vel, aliquet nec, 
+    vulputate eget, arcu. In enim justo, rhoncus ut, 
+    imperdiet a, venenatis vitae, justo. Nullam dictum 
+    felis eu pede <a class="external ext" href="#">link</a> 
+    mollis pretium. Integer tincidunt. Cras dapibus. 
+    Vivamus elementum semper nisi. Aenean vulputate 
+    eleifend tellus. Aenean leo ligula, porttitor eu, 
+    consequat vitae, eleifend ac, enim. Aliquam lorem ante, 
+    dapibus in, viverra quis, feugiat a, tellus. Phasellus 
+    viverra nulla ut metus varius laoreet. Quisque rutrum. 
+    Aenean imperdiet. Etiam ultricies nisi vel augue. 
+    Curabitur ullamcorper ultricies nisi.</p>
+    
+    
+    <h1>Lorem ipsum dolor sit amet consectetuer adipiscing 
+    elit</h1>
+    
+    
+    <h2>Aenean commodo ligula eget dolor aenean massa</h2>
+    
+    
+    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
+    elit. Aenean commodo ligula eget dolor. Aenean massa. 
+    Cum sociis natoque penatibus et magnis dis parturient 
+    montes, nascetur ridiculus mus. Donec quam felis, 
+    ultricies nec, pellentesque eu, pretium quis, sem.</p>
+    
+    
+    <h2>Aenean commodo ligula eget dolor aenean massa</h2>
+    
+    
+    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
+    elit. Aenean commodo ligula eget dolor. Aenean massa. 
+    Cum sociis natoque penatibus et magnis dis parturient 
+    montes, nascetur ridiculus mus. Donec quam felis, 
+    ultricies nec, pellentesque eu, pretium quis, sem.</p>
+    
+    
+    <ul>
+      <li>Lorem ipsum dolor sit amet consectetuer.</li>
+      <li>Aenean commodo ligula eget dolor.</li>
+      <li>Aenean massa cum sociis natoque penatibus.</li>
+    </ul>
+    
+    
+    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
+    elit. Aenean commodo ligula eget dolor. Aenean massa. 
+    Cum sociis natoque penatibus et magnis dis parturient 
+    montes, nascetur ridiculus mus. Donec quam felis, 
+    ultricies nec, pellentesque eu, pretium quis, sem.</p>
+    
+    
+    <form action="#" method="post">
+      <fieldset>
+        <label for="name">Name:</label>
+        <input type="text" id="name" placeholder="Enter your 
+    full name">
+    
+        <label for="email">Email:</label>
+        <input type="email" id="email" placeholder="Enter 
+    your email address">
+    
+        <label for="message">Message:</label>
+        <textarea id="message" placeholder="What's on your 
+    mind?"></textarea>
+    
+        <input type="submit" value="Send message">
+    
+      </fieldset>
+    </form>
+    
+    
+    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
+    elit. Aenean commodo ligula eget dolor. Aenean massa. 
+    Cum sociis natoque penatibus et magnis dis parturient 
+    montes, nascetur ridiculus mus. Donec quam felis, 
+    ultricies nec, pellentesque eu, pretium quis, sem.</p>
+    
+    
+    <table class="data">
+      <tr>
+        <th>Entry Header 1</th>
+        <th>Entry Header 2</th>
+        <th>Entry Header 3</th>
+        <th>Entry Header 4</th>
+      </tr>
+      <tr>
+        <td>Entry First Line 1</td>
+        <td>Entry First Line 2</td>
+        <td>Entry First Line 3</td>
+        <td>Entry First Line 4</td>
+      </tr>
+      <tr>
+        <td>Entry Line 1</td>
+        <td>Entry Line 2</td>
+        <td>Entry Line 3</td>
+        <td>Entry Line 4</td>
+      </tr>
+      <tr>
+        <td>Entry Last Line 1</td>
+        <td>Entry Last Line 2</td>
+        <td>Entry Last Line 3</td>
+        <td>Entry Last Line 4</td>
+      </tr>
+    </table>
+    
+    
+    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
+    elit. Aenean commodo ligula eget dolor. Aenean massa. 
+    Cum sociis natoque penatibus et magnis dis parturient 
+    montes, nascetur ridiculus mus. Donec quam felis, 
+    ultricies nec, pellentesque eu, pretium quis, sem.</p>
+    
+    </article>
+    <footer>
+      <p>
+        <a href="../authors/">© 2015–2015 MaSTIC – Université Libre de Bruxelles</a>
+      </p>
+    </footer>
+    <script>(function(a){if(navigator.userAgent.match(/like Mac OS X/i)){var c=[1,1],b="querySelectorAll"in a?a.querySelectorAll("meta[name=viewport]"):[],d=function(){b.content="width=device-width,minimum-scale="+c[0]+",maximum-scale="+c[1];a.removeEventListener("gesturestart",d,!0)};if((b=b[b.length-1])&&"addEventListener"in a)d(),c=[0.25,1.6],a.addEventListener("gesturestart",d,!0)}})(document);</script>
+  </body>
+</html>
+;T;	I"�
+<article>
+	<h1>Lorem ipsum dolor sit amet consectetuer adipiscing 
+elit</h1>
+
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
+elit. Aenean commodo ligula eget dolor. Aenean massa 
+<strong>strong</strong>. Cum sociis natoque penatibus 
+et magnis dis parturient montes, nascetur ridiculus 
+mus. Donec quam felis, ultricies nec, pellentesque 
+eu, pretium quis, sem. Nulla consequat massa quis 
+enim. Donec pede justo, fringilla vel, aliquet nec, 
+vulputate eget, arcu. In enim justo, rhoncus ut, 
+imperdiet a, venenatis vitae, justo. Nullam dictum 
+felis eu pede <a class="external ext" href="#">link</a> 
+mollis pretium. Integer tincidunt. Cras dapibus. 
+Vivamus elementum semper nisi. Aenean vulputate 
+eleifend tellus. Aenean leo ligula, porttitor eu, 
+consequat vitae, eleifend ac, enim. Aliquam lorem ante, 
+dapibus in, viverra quis, feugiat a, tellus. Phasellus 
+viverra nulla ut metus varius laoreet. Quisque rutrum. 
+Aenean imperdiet. Etiam ultricies nisi vel augue. 
+Curabitur ullamcorper ultricies nisi.</p>
+
+
+<h1>Lorem ipsum dolor sit amet consectetuer adipiscing 
+elit</h1>
+
+
+<h2>Aenean commodo ligula eget dolor aenean massa</h2>
+
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
+elit. Aenean commodo ligula eget dolor. Aenean massa. 
+Cum sociis natoque penatibus et magnis dis parturient 
+montes, nascetur ridiculus mus. Donec quam felis, 
+ultricies nec, pellentesque eu, pretium quis, sem.</p>
+
+
+<h2>Aenean commodo ligula eget dolor aenean massa</h2>
+
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
+elit. Aenean commodo ligula eget dolor. Aenean massa. 
+Cum sociis natoque penatibus et magnis dis parturient 
+montes, nascetur ridiculus mus. Donec quam felis, 
+ultricies nec, pellentesque eu, pretium quis, sem.</p>
+
+
+<ul>
+  <li>Lorem ipsum dolor sit amet consectetuer.</li>
+  <li>Aenean commodo ligula eget dolor.</li>
+  <li>Aenean massa cum sociis natoque penatibus.</li>
+</ul>
+
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
+elit. Aenean commodo ligula eget dolor. Aenean massa. 
+Cum sociis natoque penatibus et magnis dis parturient 
+montes, nascetur ridiculus mus. Donec quam felis, 
+ultricies nec, pellentesque eu, pretium quis, sem.</p>
+
+
+<form action="#" method="post">
+  <fieldset>
+    <label for="name">Name:</label>
+    <input type="text" id="name" placeholder="Enter your 
+full name" />
+
+    <label for="email">Email:</label>
+    <input type="email" id="email" placeholder="Enter 
+your email address" />
+
+    <label for="message">Message:</label>
+    <textarea id="message" placeholder="What's on your 
+mind?"></textarea>
+
+    <input type="submit" value="Send message" />
+
+  </fieldset>
+</form>
+
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
+elit. Aenean commodo ligula eget dolor. Aenean massa. 
+Cum sociis natoque penatibus et magnis dis parturient 
+montes, nascetur ridiculus mus. Donec quam felis, 
+ultricies nec, pellentesque eu, pretium quis, sem.</p>
+
+
+<table class="data">
+  <tr>
+    <th>Entry Header 1</th>
+    <th>Entry Header 2</th>
+    <th>Entry Header 3</th>
+    <th>Entry Header 4</th>
+  </tr>
+  <tr>
+    <td>Entry First Line 1</td>
+    <td>Entry First Line 2</td>
+    <td>Entry First Line 3</td>
+    <td>Entry First Line 4</td>
+  </tr>
+  <tr>
+    <td>Entry Line 1</td>
+    <td>Entry Line 2</td>
+    <td>Entry Line 3</td>
+    <td>Entry Line 4</td>
+  </tr>
+  <tr>
+    <td>Entry Last Line 1</td>
+    <td>Entry Last Line 2</td>
+    <td>Entry Last Line 3</td>
+    <td>Entry Last Line 4</td>
+  </tr>
+</table>
+
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
+elit. Aenean commodo ligula eget dolor. Aenean massa. 
+Cum sociis natoque penatibus et magnis dis parturient 
+montes, nascetur ridiculus mus. Donec quam felis, 
+ultricies nec, pellentesque eu, pretium quis, sem.</p>
+
+</article>
+;T;
+@�;@�I"/images/lemur_name/;T{;{ I"/images/lemur_logo/;T{;{ :versioni
