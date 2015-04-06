@@ -1584,7 +1584,7 @@ ultricies nec, pellentesque eu, pretium quis, sem.</p>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 </aside>
 ;T;
-@>;@=I"/authors/;T{;{	;I"<<!DOCTYPE html>
+@>;@=I"/authors/;T{;{	;I"h<!DOCTYPE html>
 <html lang="en">
   <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -1630,7 +1630,7 @@ ultricies nec, pellentesque eu, pretium quis, sem.</p>
     
     <article>
       <h1>Authors</h1>
-      <p><em>Lemuridae.org</em> is a <a href="http://mastic.ulb.ac.be">MaSTIC</a> initiative.<br>
+      <p><em>Lemuridae.org</em> is a <a href="http://mastic.ulb.ac.be">MaSTIC</a>/<a href="https://www.iminds.be/">iMinds</a> initiative.<br>
       We love to hear from you at <a href="mailto:info@lemuridae.org">info@lemuridae.org</a>.</p>
       <p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
     elit. Aenean commodo ligula eget dolor. Aenean massa. 
@@ -1656,10 +1656,10 @@ ultricies nec, pellentesque eu, pretium quis, sem.</p>
     <script>(function(a){if(navigator.userAgent.match(/like Mac OS X/i)){var c=[1,1],b="querySelectorAll"in a?a.querySelectorAll("meta[name=viewport]"):[],d=function(){b.content="width=device-width,minimum-scale="+c[0]+",maximum-scale="+c[1];a.removeEventListener("gesturestart",d,!0)};if((b=b[b.length-1])&&"addEventListener"in a)d(),c=[0.25,1.6],a.addEventListener("gesturestart",d,!0)}})(document);</script>
   </body>
 </html>
-;T;	I"×
+;T;	I"
 <article>
   <h1>Authors</h1>
-  <p><em>Lemuridae.org</em> is a <a href="http://mastic.ulb.ac.be">MaSTIC</a> initiative.<br>
+  <p><em>Lemuridae.org</em> is a <a href="http://mastic.ulb.ac.be">MaSTIC</a>/<a href="https://www.iminds.be/">iMinds</a> initiative.<br>
   We love to hear from you at <a href="mailto:info@lemuridae.org">info@lemuridae.org</a>.</p>
   <p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
 elit. Aenean commodo ligula eget dolor. Aenean massa. 
