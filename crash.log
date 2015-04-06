@@ -1,9 +1,8 @@
-Crashlog created at 2015-04-06 16:33:49 +0200
+Crashlog created at 2015-04-06 18:09:01 +0200
 
 ===== MESSAGE:
 
-LoadError: cannot load such file -- listen
-Install the 'listen' gem using `gem install listen`.
+NameError: uninitialized constant Nanoc::Toolbox
 
 ===== COMPILATION STACK:
 
@@ -11,26 +10,39 @@ Install the 'listen' gem using `gem install listen`.
 
 ===== STACK TRACE:
 
-  0. /Users/rhubain/.rvm/rubies/ruby-1.9.3-p551/lib/ruby/site_ruby/1.9.1/rubygems/core_ext/kernel_require.rb:54:in `require'
-  1. /Users/rhubain/.rvm/rubies/ruby-1.9.3-p551/lib/ruby/site_ruby/1.9.1/rubygems/core_ext/kernel_require.rb:54:in `require'
-  2. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/cli/commands/watch.rb:15:in `run'
-  3. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/cli/command_runner.rb:12:in `block in call'
-  4. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/cli/error_handler.rb:72:in `handle_while'
-  5. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/cli/error_handler.rb:24:in `handle_while'
-  6. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/cli/command_runner.rb:11:in `call'
-  7. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/cri-2.6.1/lib/cri/command_dsl.rb:223:in `block in runner'
-  8. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/cri-2.6.1/lib/cri/command.rb:298:in `call'
-  9. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/cri-2.6.1/lib/cri/command.rb:298:in `run_this'
-  10. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/cri-2.6.1/lib/cri/command.rb:251:in `run'
-  11. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/cri-2.6.1/lib/cri/command.rb:264:in `run'
-  12. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/cli.rb:58:in `block in run'
-  13. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/cli/error_handler.rb:72:in `handle_while'
-  14. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/cli/error_handler.rb:24:in `handle_while'
-  15. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/cli.rb:56:in `run'
-  16. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/bin/nanoc:25:in `<top (required)>'
-  17. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/bin/nanoc:23:in `load'
-  18. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/bin/nanoc:23:in `<main>'
-  19. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/bin/ruby_executable_hooks:15:in `eval'
+  0. lib/helpers.rb:4:in `<main>'
+  1. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/base/source_data/code_snippet.rb:34:in `eval'
+  2. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/base/source_data/code_snippet.rb:34:in `load'
+  3. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/base/source_data/site.rb:328:in `each'
+  4. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/base/source_data/site.rb:328:in `load_code_snippets'
+  5. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/base/source_data/site.rb:240:in `load'
+  6. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/base/source_data/site.rb:126:in `layouts'
+  7. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/base/compilation/compiler.rb:186:in `dependency_tracker'
+  8. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/base/memoization.rb:54:in `block in memoize'
+  9. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/base/compilation/compiler.rb:458:in `stores'
+  10. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/base/compilation/compiler.rb:145:in `unload'
+  11. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/base/source_data/site.rb:277:in `unload'
+  12. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/base/source_data/site.rb:257:in `rescue in load'
+  13. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/base/source_data/site.rb:261:in `load'
+  14. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/cli/command_runner.rb:62:in `load_site'
+  15. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/cli/commands/compile.rb:378:in `run'
+  16. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/cli/command_runner.rb:12:in `block in call'
+  17. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/cli/error_handler.rb:72:in `handle_while'
+  18. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/cli/error_handler.rb:24:in `handle_while'
+  19. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/cli/command_runner.rb:11:in `call'
+  20. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/cri-2.6.1/lib/cri/command_dsl.rb:223:in `block in runner'
+  21. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/cri-2.6.1/lib/cri/command.rb:298:in `call'
+  22. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/cri-2.6.1/lib/cri/command.rb:298:in `run_this'
+  23. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/cri-2.6.1/lib/cri/command.rb:251:in `run'
+  24. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/cri-2.6.1/lib/cri/command.rb:264:in `run'
+  25. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/cli.rb:58:in `block in run'
+  26. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/cli/error_handler.rb:72:in `handle_while'
+  27. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/cli/error_handler.rb:24:in `handle_while'
+  28. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/cli.rb:56:in `run'
+  29. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/bin/nanoc:25:in `<top (required)>'
+  30. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/bin/nanoc:23:in `load'
+  31. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/bin/nanoc:23:in `<main>'
+  32. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/bin/ruby_executable_hooks:15:in `eval'
 
 ===== VERSION INFORMATION:
 
@@ -107,7 +119,7 @@ SSH_AUTH_SOCK => "/private/tmp/com.apple.launchd.cGTWgx6Qqw/Listeners"
 TERM => "xterm-256color"
 TERM_PROGRAM => "Apple_Terminal"
 TERM_PROGRAM_VERSION => "343.6"
-TERM_SESSION_ID => "479895D8-6E47-47A6-AFE2-FB168F398C87"
+TERM_SESSION_ID => "102084AE-72BE-4E0D-966C-92F17E70949A"
 TMPDIR => "/var/folders/hx/9g9v5x3n1kl1r803n0f2dhmh0000gn/T/"
 USER => "rhubain"
 XPC_FLAGS => "0x0"
