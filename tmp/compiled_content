@@ -160,7 +160,7 @@ a:hover {
   line-height: 20px;
 }
 ;T;	@;
-@I"/0-index/;T{;{	;I"	<!DOCTYPE html>
+@I"/0-index/;T{;{	;I".	<!DOCTYPE html>
 <html lang="en">
   <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -200,7 +200,7 @@ a:hover {
     </aside>
     <footer>
       <p>
-        <a href="authors/">© 2015–2015 MaSTIC – Université Libre de Bruxelles</a>
+        <a href="authors/">© 2015–2015 Ghent University – iMinds and MaSTIC – Université Libre de Bruxelles</a>
       </p>
     </footer>
     <script>(function(a){if(navigator.userAgent.match(/like Mac OS X/i)){var c=[1,1],b="querySelectorAll"in a?a.querySelectorAll("meta[name=viewport]"):[],d=function(){b.content="width=device-width,minimum-scale="+c[0]+",maximum-scale="+c[1];a.removeEventListener("gesturestart",d,!0)};if((b=b[b.length-1])&&"addEventListener"in a)d(),c=[0.25,1.6],a.addEventListener("gesturestart",d,!0)}})(document);</script>
@@ -1449,7 +1449,7 @@ I"�
   <p><a href="mailto:info@freeyourmetadata.org">Contact us</a> to host a Free Your Metadata session at your event.</p>
   </div>
 </aside>
-;T;@7I"/9-about/;T{;{	;I"�<!DOCTYPE html>
+;T;@7I"/9-about/;T{;{	;I"<!DOCTYPE html>
 <html lang="en">
   <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -1534,7 +1534,7 @@ I"�
     </aside>
     <footer>
       <p>
-        <a href="../authors/">© 2015–2015 MaSTIC – Université Libre de Bruxelles</a>
+        <a href="../authors/">© 2015–2015 Ghent University – iMinds and MaSTIC – Université Libre de Bruxelles</a>
       </p>
     </footer>
     <script>(function(a){if(navigator.userAgent.match(/like Mac OS X/i)){var c=[1,1],b="querySelectorAll"in a?a.querySelectorAll("meta[name=viewport]"):[],d=function(){b.content="width=device-width,minimum-scale="+c[0]+",maximum-scale="+c[1];a.removeEventListener("gesturestart",d,!0)};if((b=b[b.length-1])&&"addEventListener"in a)d(),c=[0.25,1.6],a.addEventListener("gesturestart",d,!0)}})(document);</script>
@@ -1582,7 +1582,7 @@ ultricies nec, pellentesque eu, pretium quis, sem.</p>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 </aside>
 ;T;
-@>;@=I"/authors/;T{;{	;I"B<!DOCTYPE html>
+@>;@=I"/authors/;T{;{	;I"�<!DOCTYPE html>
 <html lang="en">
   <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -1644,17 +1644,16 @@ ultricies nec, pellentesque eu, pretium quis, sem.</p>
       <h2>Copyright</h2>
       <p>Unless otherwise noted, all material on this website is copyrighted by the above authors. All rights reserved.</p> 
       <p>The <a href="http://commons.wikimedia.org/wiki/File:Lemur_catta_001.jpg">lemur photo</a> is licensed under a Creative Commons license by Alex Dunkel.</p>
-      <p>The <a href="http://commons.wikimedia.org/wiki/File:IMB_PC-IMG_7271.jpg">pc photo</a> is licensed under a Creative Commons license by Alex Dunkel.</p>
     </article>
     <footer>
       <p>
-        <a href="./">© 2015–2015 MaSTIC – Université Libre de Bruxelles</a>
+        <a href="./">© 2015–2015 Ghent University – iMinds and MaSTIC – Université Libre de Bruxelles</a>
       </p>
     </footer>
     <script>(function(a){if(navigator.userAgent.match(/like Mac OS X/i)){var c=[1,1],b="querySelectorAll"in a?a.querySelectorAll("meta[name=viewport]"):[],d=function(){b.content="width=device-width,minimum-scale="+c[0]+",maximum-scale="+c[1];a.removeEventListener("gesturestart",d,!0)};if((b=b[b.length-1])&&"addEventListener"in a)d(),c=[0.25,1.6],a.addEventListener("gesturestart",d,!0)}})(document);</script>
   </body>
 </html>
-;T;	I"s
+;T;	I"�
 <article>
   <h1>Authors</h1>
   <p><em>Lemuridae.org</em> is a <a href="http://mastic.ulb.ac.be">MaSTIC</a> initiative.<br>
@@ -1674,7 +1673,6 @@ ultricies nec, pellentesque eu, pretium quis, sem.</p>
   <h2>Copyright</h2>
   <p>Unless otherwise noted, all material on this website is copyrighted by the above authors. All rights reserved.</p> 
   <p>The <a href="http://commons.wikimedia.org/wiki/File:Lemur_catta_001.jpg">lemur photo</a> is licensed under a Creative Commons license by Alex Dunkel.</p>
-  <p>The <a href="http://commons.wikimedia.org/wiki/File:IMB_PC-IMG_7271.jpg">pc photo</a> is licensed under a Creative Commons license by Alex Dunkel.</p>
 </article>
 ;T;
 @C;@BI"/events/2011-09-23/;T{;{;I" ;T;	@G;
@@ -3228,7 +3226,7 @@ html .home .section {
   <p>In this video, Seth van Hooland, Max De Wilde, and Ruben Verborgh introduce <em>Free Your Metadata</em>.</p>
 <iframe class="youtube" width="660" height="402" src="http://www.youtube.com/embed/KtP9qlx56_c?rel=0&amp;autoplay=1&amp;theme=light&amp;color=white&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 ;T;
-@�;@�I"/images/lemur/;T{;{ I"/images/lemur_broad/;T{;{ I"/1-compliance/;T{;{	;I"!<!DOCTYPE html>
+@�;@�I"/images/lemur/;T{;{ I"/images/lemur_broad/;T{;{ I"/1-compliance/;T{;{	;I"A<!DOCTYPE html>
 <html lang="en">
   <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -3351,7 +3349,7 @@ html .home .section {
     </aside>
     <footer>
       <p>
-        <a href="../authors/">© 2015–2015 MaSTIC – Université Libre de Bruxelles</a>
+        <a href="../authors/">© 2015–2015 Ghent University – iMinds and MaSTIC – Université Libre de Bruxelles</a>
       </p>
     </footer>
     <script>(function(a){if(navigator.userAgent.match(/like Mac OS X/i)){var c=[1,1],b="querySelectorAll"in a?a.querySelectorAll("meta[name=viewport]"):[],d=function(){b.content="width=device-width,minimum-scale="+c[0]+",maximum-scale="+c[1];a.removeEventListener("gesturestart",d,!0)};if((b=b[b.length-1])&&"addEventListener"in a)d(),c=[0.25,1.6],a.addEventListener("gesturestart",d,!0)}})(document);</script>
@@ -3437,7 +3435,7 @@ ultricies nec, pellentesque eu, pretium quis, sem.</p>
   <p>You're aware about your compliance issue? Let's <a href="/taxonomies/">build a taxonomy</a>!</p>
 </aside>
 ;T;
-@�;@�I"/2-taxonomies/;T{;{	;I""<!DOCTYPE html>
+@�;@�I"/2-taxonomies/;T{;{	;I"B<!DOCTYPE html>
 <html lang="en">
   <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -3565,7 +3563,7 @@ ultricies nec, pellentesque eu, pretium quis, sem.</p>
     </aside>
     <footer>
       <p>
-        <a href="../authors/">© 2015–2015 MaSTIC – Université Libre de Bruxelles</a>
+        <a href="../authors/">© 2015–2015 Ghent University – iMinds and MaSTIC – Université Libre de Bruxelles</a>
       </p>
     </footer>
     <script>(function(a){if(navigator.userAgent.match(/like Mac OS X/i)){var c=[1,1],b="querySelectorAll"in a?a.querySelectorAll("meta[name=viewport]"):[],d=function(){b.content="width=device-width,minimum-scale="+c[0]+",maximum-scale="+c[1];a.removeEventListener("gesturestart",d,!0)};if((b=b[b.length-1])&&"addEventListener"in a)d(),c=[0.25,1.6],a.addEventListener("gesturestart",d,!0)}})(document);</script>
@@ -3656,7 +3654,7 @@ ultricies nec, pellentesque eu, pretium quis, sem.</p>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 </aside>
 ;T;
-@�;@�I"/4-classification/;T{;{	;I")<!DOCTYPE html>
+@�;@�I"/4-classification/;T{;{	;I"I<!DOCTYPE html>
 <html lang="en">
   <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -3826,7 +3824,7 @@ ultricies nec, pellentesque eu, pretium quis, sem.</p>
     </article>
     <footer>
       <p>
-        <a href="../authors/">© 2015–2015 MaSTIC – Université Libre de Bruxelles</a>
+        <a href="../authors/">© 2015–2015 Ghent University – iMinds and MaSTIC – Université Libre de Bruxelles</a>
       </p>
     </footer>
     <script>(function(a){if(navigator.userAgent.match(/like Mac OS X/i)){var c=[1,1],b="querySelectorAll"in a?a.querySelectorAll("meta[name=viewport]"):[],d=function(){b.content="width=device-width,minimum-scale="+c[0]+",maximum-scale="+c[1];a.removeEventListener("gesturestart",d,!0)};if((b=b[b.length-1])&&"addEventListener"in a)d(),c=[0.25,1.6],a.addEventListener("gesturestart",d,!0)}})(document);</script>
