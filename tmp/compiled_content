@@ -160,7 +160,7 @@ a:hover {
   line-height: 20px;
 }
 ;T;	@;
-@I"/0-index/;T{;{	;I"	<!DOCTYPE html>
+@I"/0-index/;T{;{	;I"	<!DOCTYPE html>
 <html lang="en">
   <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -173,16 +173,14 @@ a:hover {
     <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
   </head>
   <body class="home">
-    
     <article>
       <div class="billboard">
         <hgroup>
+          <a href="about/"><img src="images/lemur.jpg" alt="" margin-left="-200px" class="logo"></a>
           <h1><a href="about/">Lemuridae</a></h1>
           <h2><a href="about/">Build. Classify. Comply.</a></h2>
           <h3><a href="about/">Text mining for content enhancement &amp; compliance</a></h3>
         </hgroup>
-        	<p></p>
-          <p><a href="about/"><img src="images/lemur_broad.jpg"></a></p>
       </div>
     </article>
     
@@ -208,16 +206,14 @@ a:hover {
     <script>(function(a){if(navigator.userAgent.match(/like Mac OS X/i)){var c=[1,1],b="querySelectorAll"in a?a.querySelectorAll("meta[name=viewport]"):[],d=function(){b.content="width=device-width,minimum-scale="+c[0]+",maximum-scale="+c[1];a.removeEventListener("gesturestart",d,!0)};if((b=b[b.length-1])&&"addEventListener"in a)d(),c=[0.25,1.6],a.addEventListener("gesturestart",d,!0)}})(document);</script>
   </body>
 </html>
-;T;	I"–
-<article>
+;T;	I"‡<article>
   <div class='billboard'>
     <hgroup>
+      <a href='/about/'><img src='/images/lemur.jpg' alt='' margin-left="-200px" class="logo" /></a>
       <h1><a href='/about/'>Lemuridae</a></h1>
       <h2><a href='/about/'>Build. Classify. Comply.</a></h2>
       <h3><a href='/about/'>Text mining for content enhancement & compliance</a></h3>
     </hgroup>
-    	<p></p>
-      <p><a href='/about/'><img src='/images/lemur_broad.jpg'></a></p>
   </div>
 </article>
 
@@ -1855,7 +1851,7 @@ ultricies nec, pellentesque eu, pretium quis, sem.</p>
 ;T;	@ì;
 @ìI"$/publications/freeyourmetadata/;T{;{ I"3/publications/named-entity-recognition-bibtex/;T{;{ I"5/publications/named-entity-recognition-citation/;T{;{;I"–van Hooland, S., De Wilde, M., Verborgh, R., Steiner T., and Van de Walle, R., Exploring Entity Recognition and Disambiguation for Cultural Heritage Collections? In: Literary and Linguistics Computing, 2014.
 ;T;	@ù;
-@ùI",/publications/named-entity-recognition/;T{;{ I"/publications/rest-bibtex/;T{;{ I"/publications/rest/;T{;{ I"/stylesheets/main/;T{;{;I"î%/*
+@ùI",/publications/named-entity-recognition/;T{;{ I"/publications/rest-bibtex/;T{;{ I"/publications/rest/;T{;{ I"/stylesheets/main/;T{;{;I" %/*
   html5doctor.com Reset Stylesheet
   v1.6.1
   Last Updated: 2010-09-17
@@ -2243,8 +2239,11 @@ footer {
 .billboard img.logo {
   float: right;
   min-width: 50px;
-  max-width: 300px;
-  margin: -20px 0 2px -130px;
+  max-width: 800px;
+  margin-top: 70px;
+  margin-right: 0;
+  margin-bottom: 2px;
+  margin-left: -600px;
   *margin: 100px -5px -500px -130px;
   *width: 280px;
 }
@@ -2519,7 +2518,7 @@ code {
 html .home .section {
   padding-right: 0\0/;
 }
-;T;	I"ˆ%/*
+;T;	I"2&/*
   html5doctor.com Reset Stylesheet
   v1.6.1
   Last Updated: 2010-09-17
@@ -2798,8 +2797,11 @@ footer {
   img.logo {
     float: right;
     min-width: 50px;
-    max-width: 300px;
-    margin: -20px 0 2px -130px;
+    max-width: 800px;
+    margin-top: 70px;
+    margin-right: 0;
+    margin-bottom: 2px;
+    margin-left: -600px;
     *margin: 100px -5px -500px -130px;
     *width: 280px;
   }

@@ -1,4 +1,4 @@
-Crashlog created at 2015-04-03 18:49:22 +0200
+Crashlog created at 2015-04-06 15:06:37 +0200
 
 ===== MESSAGE:
 
@@ -39,7 +39,7 @@ Running ruby 1.9.3 (2014-11-13) on x86_64-darwin14.1.0 with RubyGems 2.4.6.
 
 ===== SYSTEM INFORMATION:
 
-Darwin lpic-mac7.ulb.ac.be 14.1.0 Darwin Kernel Version 14.1.0: Mon Dec 22 23:10:38 PST 2014; root:xnu-2782.10.72~2/RELEASE_X86_64 x86_64
+Darwin Raphaels-MacBook-Pro.local 14.1.0 Darwin Kernel Version 14.1.0: Mon Dec 22 23:10:38 PST 2014; root:xnu-2782.10.72~2/RELEASE_X86_64 x86_64
 
 ===== INSTALLED GEMS:
 
@@ -99,7 +99,7 @@ LOGNAME => "rhubain"
 MY_RUBY_HOME => "/Users/rhubain/.rvm/rubies/ruby-1.9.3-p551"
 OLDPWD => "/Users/rhubain"
 PATH => "/Users/rhubain/.rvm/gems/ruby-1.9.3-p551/bin:/Users/rhubain/.rvm/gems/ruby-1.9.3-p551@global/bin:/Users/rhubain/.rvm/rubies/ruby-1.9.3-p551/bin:/Library/Frameworks/Python.framework/Versions/3.4/bin:/Library/Frameworks/Python.framework/Versions/3.4/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:/usr/texbin:/Users/rhubain/.rvm/bin"
-PWD => "/Users/rhubain/GitHub/lemuridae"
+PWD => "/Users/rhubain/GitHub/lemuridae_website"
 RUBY_VERSION => "ruby-1.9.3-p551"
 SHELL => "/bin/bash"
 SHLVL => "1"
@@ -107,7 +107,7 @@ SSH_AUTH_SOCK => "/private/tmp/com.apple.launchd.cGTWgx6Qqw/Listeners"
 TERM => "xterm-256color"
 TERM_PROGRAM => "Apple_Terminal"
 TERM_PROGRAM_VERSION => "343.6"
-TERM_SESSION_ID => "119E7413-64A9-4BD0-9903-9372E00D2D7E"
+TERM_SESSION_ID => "479895D8-6E47-47A6-AFE2-FB168F398C87"
 TMPDIR => "/var/folders/hx/9g9v5x3n1kl1r803n0f2dhmh0000gn/T/"
 USER => "rhubain"
 XPC_FLAGS => "0x0"
