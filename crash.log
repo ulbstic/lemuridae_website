@@ -1,4 +1,4 @@
-Crashlog created at 2015-04-06 18:09:01 +0200
+Crashlog created at 2015-04-06 20:54:22 +0200
 
 ===== MESSAGE:
 
@@ -119,7 +119,7 @@ SSH_AUTH_SOCK => "/private/tmp/com.apple.launchd.cGTWgx6Qqw/Listeners"
 TERM => "xterm-256color"
 TERM_PROGRAM => "Apple_Terminal"
 TERM_PROGRAM_VERSION => "343.6"
-TERM_SESSION_ID => "102084AE-72BE-4E0D-966C-92F17E70949A"
+TERM_SESSION_ID => "743BF98E-6F3B-4CD9-84D2-797B269238C3"
 TMPDIR => "/var/folders/hx/9g9v5x3n1kl1r803n0f2dhmh0000gn/T/"
 USER => "rhubain"
 XPC_FLAGS => "0x0"
