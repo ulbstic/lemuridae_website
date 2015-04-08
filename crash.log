@@ -1,9 +1,8 @@
-Crashlog created at 2015-04-08 16:10:29 +0200
+Crashlog created at 2015-04-08 16:27:07 +0200
 
 ===== MESSAGE:
 
-LoadError: cannot load such file -- listen
-Install the 'listen' gem using `gem install listen`.
+NoMethodError: undefined method `change' for #<Listen::Listener:0x007fababaf8ee0>
 
 ===== COMPILATION STACK:
 
@@ -11,26 +10,24 @@ Install the 'listen' gem using `gem install listen`.
 
 ===== STACK TRACE:
 
-  0. /Users/rhubain/.rvm/rubies/ruby-1.9.3-p551/lib/ruby/site_ruby/1.9.1/rubygems/core_ext/kernel_require.rb:54:in `require'
-  1. /Users/rhubain/.rvm/rubies/ruby-1.9.3-p551/lib/ruby/site_ruby/1.9.1/rubygems/core_ext/kernel_require.rb:54:in `require'
-  2. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/cli/commands/watch.rb:15:in `run'
-  3. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/cli/command_runner.rb:12:in `block in call'
-  4. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/cli/error_handler.rb:72:in `handle_while'
-  5. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/cli/error_handler.rb:24:in `handle_while'
-  6. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/cli/command_runner.rb:11:in `call'
-  7. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/cri-2.6.1/lib/cri/command_dsl.rb:223:in `block in runner'
-  8. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/cri-2.6.1/lib/cri/command.rb:298:in `call'
-  9. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/cri-2.6.1/lib/cri/command.rb:298:in `run_this'
-  10. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/cri-2.6.1/lib/cri/command.rb:251:in `run'
-  11. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/cri-2.6.1/lib/cri/command.rb:264:in `run'
-  12. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/cli.rb:58:in `block in run'
-  13. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/cli/error_handler.rb:72:in `handle_while'
-  14. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/cli/error_handler.rb:24:in `handle_while'
-  15. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/cli.rb:56:in `run'
-  16. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/bin/nanoc:25:in `<top (required)>'
-  17. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/bin/nanoc:23:in `load'
-  18. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/bin/nanoc:23:in `<main>'
-  19. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/bin/ruby_executable_hooks:15:in `eval'
+  0. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/cli/commands/watch.rb:84:in `run'
+  1. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/cli/command_runner.rb:12:in `block in call'
+  2. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/cli/error_handler.rb:72:in `handle_while'
+  3. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/cli/error_handler.rb:24:in `handle_while'
+  4. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/cli/command_runner.rb:11:in `call'
+  5. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/cri-2.6.1/lib/cri/command_dsl.rb:223:in `block in runner'
+  6. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/cri-2.6.1/lib/cri/command.rb:298:in `call'
+  7. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/cri-2.6.1/lib/cri/command.rb:298:in `run_this'
+  8. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/cri-2.6.1/lib/cri/command.rb:251:in `run'
+  9. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/cri-2.6.1/lib/cri/command.rb:264:in `run'
+  10. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/cli.rb:58:in `block in run'
+  11. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/cli/error_handler.rb:72:in `handle_while'
+  12. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/cli/error_handler.rb:24:in `handle_while'
+  13. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib/nanoc/cli.rb:56:in `run'
+  14. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/bin/nanoc:25:in `<top (required)>'
+  15. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/bin/nanoc:23:in `load'
+  16. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/bin/nanoc:23:in `<main>'
+  17. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/bin/ruby_executable_hooks:15:in `eval'
 
 ===== VERSION INFORMATION:
 
@@ -48,6 +45,7 @@ Darwin lpic-mac7.ulb.ac.be 14.1.0 Darwin Kernel Version 14.1.0: Mon Dec 22 23:10
   adsf 1.2.0
   bigdecimal 1.1.0
   bundler-unload 1.0.2
+  celluloid 0.16.0
   chunky_png 1.3.4
   colored 1.2
   commonjs 0.2.7
@@ -59,12 +57,14 @@ Darwin lpic-mac7.ulb.ac.be 14.1.0 Darwin Kernel Version 14.1.0: Mon Dec 22 23:10
   ffi 1.9.8
   gem-wrappers 1.2.7
   haml 4.0.6
+  hitimes 1.2.2
   html_compressor 0.0.3
   io-console 0.3
   json 1.5.5
   kramdown 1.6.0
   less 2.6.0
   libv8 3.16.14.7
+  listen 2.10.0
   maruku 0.7.2
   mini_portile 0.6.2
   minitest 2.5.1
@@ -85,6 +85,7 @@ Darwin lpic-mac7.ulb.ac.be 14.1.0 Darwin Kernel Version 14.1.0: Mon Dec 22 23:10
   systemu 2.6.5
   therubyracer 0.12.1
   tilt 2.0.1
+  timers 4.0.1
   w3c_validators 1.2
 
 ===== ENVIRONMENT:
@@ -133,11 +134,24 @@ rvm_version => "1.26.11 (latest)"
   5. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/colored-1.2/lib
   6. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/cri-2.6.1/lib
   7. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/nanoc-3.7.5/lib
-  8. /Users/rhubain/.rvm/rubies/ruby-1.9.3-p551/lib/ruby/site_ruby/1.9.1
-  9. /Users/rhubain/.rvm/rubies/ruby-1.9.3-p551/lib/ruby/site_ruby/1.9.1/x86_64-darwin14.1.0
-  10. /Users/rhubain/.rvm/rubies/ruby-1.9.3-p551/lib/ruby/site_ruby
-  11. /Users/rhubain/.rvm/rubies/ruby-1.9.3-p551/lib/ruby/vendor_ruby/1.9.1
-  12. /Users/rhubain/.rvm/rubies/ruby-1.9.3-p551/lib/ruby/vendor_ruby/1.9.1/x86_64-darwin14.1.0
-  13. /Users/rhubain/.rvm/rubies/ruby-1.9.3-p551/lib/ruby/vendor_ruby
-  14. /Users/rhubain/.rvm/rubies/ruby-1.9.3-p551/lib/ruby/1.9.1
-  15. /Users/rhubain/.rvm/rubies/ruby-1.9.3-p551/lib/ruby/1.9.1/x86_64-darwin14.1.0
+  8. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/hitimes-1.2.2/lib
+  9. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/extensions/x86_64-darwin-14/1.9.1/hitimes-1.2.2
+  10. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/timers-4.0.1/lib
+  11. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/celluloid-0.16.0/lib
+  12. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/rb-fsevent-0.9.4/lib
+  13. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/ffi-1.9.8/lib
+  14. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/extensions/x86_64-darwin-14/1.9.1/ffi-1.9.8
+  15. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/rb-inotify-0.9.5/lib
+  16. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/listen-2.10.0/lib
+  17. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/Platform-0.4.0/lib
+  18. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/open4-1.3.4/lib
+  19. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/POpen4-0.1.4/lib
+  20. /Users/rhubain/.rvm/gems/ruby-1.9.3-p551/gems/html_compressor-0.0.3/lib
+  21. /Users/rhubain/.rvm/rubies/ruby-1.9.3-p551/lib/ruby/site_ruby/1.9.1
+  22. /Users/rhubain/.rvm/rubies/ruby-1.9.3-p551/lib/ruby/site_ruby/1.9.1/x86_64-darwin14.1.0
+  23. /Users/rhubain/.rvm/rubies/ruby-1.9.3-p551/lib/ruby/site_ruby
+  24. /Users/rhubain/.rvm/rubies/ruby-1.9.3-p551/lib/ruby/vendor_ruby/1.9.1
+  25. /Users/rhubain/.rvm/rubies/ruby-1.9.3-p551/lib/ruby/vendor_ruby/1.9.1/x86_64-darwin14.1.0
+  26. /Users/rhubain/.rvm/rubies/ruby-1.9.3-p551/lib/ruby/vendor_ruby
+  27. /Users/rhubain/.rvm/rubies/ruby-1.9.3-p551/lib/ruby/1.9.1
+  28. /Users/rhubain/.rvm/rubies/ruby-1.9.3-p551/lib/ruby/1.9.1/x86_64-darwin14.1.0
