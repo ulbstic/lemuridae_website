@@ -160,7 +160,8 @@ a:hover {
   line-height: 20px;
 }
 ;T;	@;
-@I"/0-index/;T{;{	;I"<!DOCTYPE html>
+@I"/0-index/;T{;{	;I"�
+<!DOCTYPE html>
 <html lang="en">
   <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -174,6 +175,16 @@ a:hover {
     <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
   </head>
   <body class="home">
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    
+      ga('create', 'UA-61680968-1', 'auto');
+      ga('send', 'pageview');
+    
+    </script>
     <article>
       <div class="billboard">
         <hgroup>
@@ -187,27 +198,36 @@ a:hover {
     
     <aside>
       <div class="section">
-        <h2><a href="taxonomies/">Build taxonomies &amp; file plans</a></h2>
-        <p>Duis aute irure dolor in tempor reprehenderit in velit esse cillum eiusmod voluptate.</p>
+        <h2><a href="taxonomies/">Analyse</a></h2>
+        <p>Discover how text mining methods can be applied on your documents to extract terms and semantic relations in order to represent your knowledge trough taxonomies or populated ontologies.</p>
       </div>
       <div class="section">
-        <h2><a href="classification/">Classify &amp; annotate content</a></h2>
-        <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.</p>
+        <h2><a href="classification/">Classify</a></h2>
+        <p>Once your taxonomies or ontologies are built, you can classify and annotate your documentation by using custom natural language processing scripts and fuzzy matching algorithms.</p>
       </div>
       <div class="section">
-        <h2><a href="compliance/">Compliance issues &amp; challenges</a></h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+        <h2><a href="compliance/">Comply</a></h2>
+        <p>Compliance become an inevitable stack but new constraints waste users' time and it's a crucial issue in standards' implementation; automatization could be seen as a third way.</p>
       </div>
     </aside>
     <footer>
       <p>
-        <a href="authors/">© 2015–2015 Ghent University – iMinds and MaSTIC – Université Libre de Bruxelles</a>
+        <a href="authors/">© 2015–2015 Ghent University – iMinds and MaSTIC – Université libre de Bruxelles</a>
       </p>
     </footer>
-    
   </body>
 </html>
-;T;	I"�<article>
+;T;	I"\<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-61680968-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<article>
   <div class='billboard'>
     <hgroup>
       <a href='/about/'><img src='/images/lemur.jpg' alt='' margin-left="-200px" class="logo" /></a>
@@ -220,18 +240,19 @@ a:hover {
 
 <aside>
   <div class='section'>
-    <h2><a href='/taxonomies/'>Build taxonomies & file plans</a></h2>
-    <p>Duis aute irure dolor in tempor reprehenderit in velit esse cillum eiusmod voluptate.</p>
+    <h2><a href='/taxonomies/'>Analyse</a></h2>
+    <p>Discover how text mining methods can be applied on your documents to extract terms and semantic relations in order to represent your knowledge trough taxonomies or populated ontologies.</p>
   </div>
   <div class='section'>
-    <h2><a href='/classification/'>Classify & annotate content</a></h2>
-    <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.</p>
+    <h2><a href='/classification/'>Classify</a></h2>
+    <p>Once your taxonomies or ontologies are built, you can classify and annotate your documentation by using custom natural language processing scripts and fuzzy matching algorithms.</p>
   </div>
   <div class='section'>
-    <h2><a href='/compliance/'>Compliance issues & challenges</a></h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+    <h2><a href='/compliance/'>Comply</a></h2>
+    <p>Compliance become an inevitable stack but new constraints waste users' time and it's a crucial issue in standards' implementation; automatization could be seen as a third way.</p>
   </div>
-</aside>;T;
+</aside>
+;T;
 @;@I"/1-cleanup/;T{;{	;I"�.<!DOCTYPE html>
 <html lang="en">
   <head>
@@ -1449,7 +1470,7 @@ I"�
   <p><a href="mailto:info@freeyourmetadata.org">Contact us</a> to host a Free Your Metadata session at your event.</p>
   </div>
 </aside>
-;T;@7I"/9-about/;T{;{	;I"�<!DOCTYPE html>
+;T;@7I"/9-about/;T{;{	;I"�<!DOCTYPE html>
 <html lang="en">
   <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -1492,7 +1513,16 @@ I"�
         </li>
       </ul>
     </nav>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
     
+      ga('create', 'UA-61680968-1', 'auto');
+      ga('send', 'pageview');
+    
+    </script>
     <article>
     <h1>Lorem ipsum dolor sit amet consectetuer adipiscing 
     elit</h1>
@@ -1535,13 +1565,21 @@ I"�
     </aside>
     <footer>
       <p>
-        <a href="../authors/">© 2015–2015 Ghent University – iMinds and MaSTIC – Université Libre de Bruxelles</a>
+        <a href="../authors/">© 2015–2015 Ghent University – iMinds and MaSTIC – Université libre de Bruxelles</a>
       </p>
     </footer>
-    
   </body>
 </html>
-;T;	I"�
+;T;	I"k	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-61680968-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
 <article>
 <h1>Lorem ipsum dolor sit amet consectetuer adipiscing 
 elit</h1>
@@ -1583,7 +1621,7 @@ ultricies nec, pellentesque eu, pretium quis, sem.</p>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 </aside>
 ;T;
-@>;@=I"/authors/;T{;{	;I"�<!DOCTYPE html>
+@>;@=I"/authors/;T{;{	;I"�<!DOCTYPE html>
 <html lang="en">
   <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -1626,7 +1664,16 @@ ultricies nec, pellentesque eu, pretium quis, sem.</p>
         </li>
       </ul>
     </nav>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
     
+      ga('create', 'UA-61680968-1', 'auto');
+      ga('send', 'pageview');
+    
+    </script>
     <article>
       <h1>Authors</h1>
       <p><em>Lemuridae.org</em> is a <a href="http://mastic.ulb.ac.be">MaSTIC</a>/<a href="https://www.iminds.be/">iMinds</a> initiative.<br>
@@ -1649,13 +1696,21 @@ ultricies nec, pellentesque eu, pretium quis, sem.</p>
     </article>
     <footer>
       <p>
-        <a href="./">© 2015–2015 Ghent University – iMinds and MaSTIC – Université Libre de Bruxelles</a>
+        <a href="./">© 2015–2015 Ghent University – iMinds and MaSTIC – Université libre de Bruxelles</a>
       </p>
     </footer>
-    
   </body>
 </html>
-;T;	I"
+;T;	I"�<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-61680968-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
 <article>
   <h1>Authors</h1>
   <p><em>Lemuridae.org</em> is a <a href="http://mastic.ulb.ac.be">MaSTIC</a>/<a href="https://www.iminds.be/">iMinds</a> initiative.<br>
@@ -3439,7 +3494,7 @@ ultricies nec, pellentesque eu, pretium quis, sem.</p>
   <p>You're aware about your compliance issue? Let's <a href="/taxonomies/">build a taxonomy</a>!</p>
 </aside>
 ;T;
-@�;@�I"/2-taxonomies/;T{;{	;I"&<!DOCTYPE html>
+@�;@�I"/2-taxonomies/;T{;{	;I"�<!DOCTYPE html>
 <html lang="en">
   <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -3482,7 +3537,16 @@ ultricies nec, pellentesque eu, pretium quis, sem.</p>
         </li>
       </ul>
     </nav>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
     
+      ga('create', 'UA-61680968-1', 'auto');
+      ga('send', 'pageview');
+    
+    </script>
     <article>
       <h1>Lorem ipsum dolor sit amet consectetuer adipiscing 
     elit</h1>
@@ -3568,13 +3632,21 @@ ultricies nec, pellentesque eu, pretium quis, sem.</p>
     </aside>
     <footer>
       <p>
-        <a href="../authors/">© 2015–2015 Ghent University – iMinds and MaSTIC – Université Libre de Bruxelles</a>
+        <a href="../authors/">© 2015–2015 Ghent University – iMinds and MaSTIC – Université libre de Bruxelles</a>
       </p>
     </footer>
-    
   </body>
 </html>
-;T;	I"Y
+;T;	I"�<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-61680968-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
 <article>
   <h1>Lorem ipsum dolor sit amet consectetuer adipiscing 
 elit</h1>
@@ -3964,7 +4036,7 @@ ultricies nec, pellentesque eu, pretium quis, sem.</p>
 
 </article>
 ;T;
-@�;@�I"/images/lemur_name/;T{;{ I"/images/lemur_logo/;T{;{ I"/images/lemur_v1/;T{;{ I"/images/lemur_v2/;T{;{ I"/1-classification/;T{;{	;I"-<!DOCTYPE html>
+@�;@�I"/images/lemur_name/;T{;{ I"/images/lemur_logo/;T{;{ I"/images/lemur_v1/;T{;{ I"/images/lemur_v2/;T{;{ I"/1-classification/;T{;{	;I"�<!DOCTYPE html>
 <html lang="en">
   <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -4007,7 +4079,16 @@ ultricies nec, pellentesque eu, pretium quis, sem.</p>
         </li>
       </ul>
     </nav>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
     
+      ga('create', 'UA-61680968-1', 'auto');
+      ga('send', 'pageview');
+    
+    </script>
     <article>
     	<h1>Lorem ipsum dolor sit amet consectetuer adipiscing 
     elit</h1>
@@ -4135,13 +4216,21 @@ ultricies nec, pellentesque eu, pretium quis, sem.</p>
     </article>
     <footer>
       <p>
-        <a href="../authors/">© 2015–2015 Ghent University – iMinds and MaSTIC – Université Libre de Bruxelles</a>
+        <a href="../authors/">© 2015–2015 Ghent University – iMinds and MaSTIC – Université libre de Bruxelles</a>
       </p>
     </footer>
-    
   </body>
 </html>
-;T;	I"�
+;T;	I"X<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-61680968-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
 <article>
 	<h1>Lorem ipsum dolor sit amet consectetuer adipiscing 
 elit</h1>
@@ -4268,7 +4357,7 @@ ultricies nec, pellentesque eu, pretium quis, sem.</p>
 
 </article>
 ;T;
-@�;@�I"/3-compliance/;T{;{	;I"%<!DOCTYPE html>
+@�;@�I"/3-compliance/;T{;{	;I"�<!DOCTYPE html>
 <html lang="en">
   <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -4311,7 +4400,16 @@ ultricies nec, pellentesque eu, pretium quis, sem.</p>
         </li>
       </ul>
     </nav>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
     
+      ga('create', 'UA-61680968-1', 'auto');
+      ga('send', 'pageview');
+    
+    </script>
     <article>
      <h1>Lorem ipsum dolor sit amet consectetuer adipiscing 
     elit</h1>
@@ -4392,13 +4490,21 @@ ultricies nec, pellentesque eu, pretium quis, sem.</p>
     </aside>
     <footer>
       <p>
-        <a href="../authors/">© 2015–2015 Ghent University – iMinds and MaSTIC – Université Libre de Bruxelles</a>
+        <a href="../authors/">© 2015–2015 Ghent University – iMinds and MaSTIC – Université libre de Bruxelles</a>
       </p>
     </footer>
-    
   </body>
 </html>
-;T;	I"l
+;T;	I"<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-61680968-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
 <article>
  <h1>Lorem ipsum dolor sit amet consectetuer adipiscing 
 elit</h1>
