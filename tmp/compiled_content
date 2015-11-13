@@ -1,4 +1,4 @@
-{:	data{@I"/:ET{:default{	:	lastI"<!DOCTYPE HTML>
+{:	data{II"/:ET{:default{	:	lastI"<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -160,7 +160,7 @@ a:hover {
   line-height: 20px;
 }
 ;T;	@;
-@I"/0-index/;T{;{	;I"ò
+@I"/0-index/;T{;{	;I";
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -188,36 +188,35 @@ a:hover {
     <article>
       <div class="billboard">
         <hgroup>
-          <a href="about/"><img src="images/lemur.jpg" alt="" margin-left="-200px" class="logo"></a>
-          <h1><a href="about/">Lemuridae</a></h1>
-          <h2><a href="about/">Analyse. Classify. Comply.</a></h2>
-          <h3><a href="about/">Text mining for content enhancement &amp; compliance</a></h3>
+          <a href="mission/"><img src="images/lemur.jpg" alt="" margin-left="-200px" class="logo"></a>
+          <h1><a href="mission/">Lemuridae</a></h1>
+          <h2><a href="mission/">Text Mining for Information Governance</a></h2>
         </hgroup>
       </div>
     </article>
     
     <aside>
       <div class="section">
-        <h2><a href="analyse/">Analyse</a></h2>
-        <p>Discover how text mining methods can be applied on your documents to extract terms and semantic relations in order to represent your knowledge trough taxonomies or populated ontologies.</p>
+        <h2><a href="mission/">Mission</a></h2>
+        <p>Lemuridae provides methods and tools to offer a resting ground for the disturbed souls of documents, condemned to wander in the meanders of shared drives.</p>
       </div>
       <div class="section">
-        <h2><a href="classify/">Classify</a></h2>
-        <p>Once your taxonomies or ontologies are built, you can classify and annotate your documentation by using custom natural language processing scripts and fuzzy matching algorithms.</p>
+        <h2><a href="case-studies/">Case Studies</a></h2>
+        <p>There is an urgent need for empirically-based research in the domain of information governance. Lemuridae focusses on aggregating real-life case-studies.</p>
       </div>
       <div class="section">
-        <h2><a href="comply/">Comply</a></h2>
-        <p>Compliance become an inevitable stack but new constraints waste users' time and it's a crucial issue in standards' implementation; automatization could be seen as a third way.</p>
+        <h2><a href="team/">Team</a></h2>
+        <p>Lemuridae is an initiative of <a href="http://mastic.ulb.ac.be">MaSTIC</a> (Universit√© libre de Bruxelles) and <a href="https://www.iminds.be/">iMinds</a> (Universiteit Gent), based in the very heart of Europe.</p>
       </div>
     </aside>
     <footer>
       <p>
-        <a href="authors/">¬© 2015‚Äì2015 Ghent University ‚Äì iMinds and MaSTIC ‚Äì Universit√© libre de Bruxelles</a>
+        <a href="team/">¬© 2015‚Äì2015 MaSTIC ‚Äì Universit√© libre de Bruxelles and Ghent University ‚Äì iMinds</a>
       </p>
     </footer>
   </body>
 </html>
-;T;	I"O<script>
+;T;	I"¸<script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -230,26 +229,25 @@ a:hover {
 <article>
   <div class='billboard'>
     <hgroup>
-      <a href='/about/'><img src='/images/lemur.jpg' alt='' margin-left="-200px" class="logo" /></a>
-      <h1><a href='/about/'>Lemuridae</a></h1>
-      <h2><a href='/about/'>Analyse. Classify. Comply.</a></h2>
-      <h3><a href='/about/'>Text mining for content enhancement & compliance</a></h3>
+      <a href='/mission/'><img src='/images/lemur.jpg' alt='' margin-left="-200px" class="logo" /></a>
+      <h1><a href='/mission/'>Lemuridae</a></h1>
+      <h2><a href='/mission/'>Text Mining for Information Governance</a></h2>
     </hgroup>
   </div>
 </article>
 
 <aside>
   <div class='section'>
-    <h2><a href='/analyse/'>Analyse</a></h2>
-    <p>Discover how text mining methods can be applied on your documents to extract terms and semantic relations in order to represent your knowledge trough taxonomies or populated ontologies.</p>
+    <h2><a href='/mission/'>Mission</a></h2>
+    <p>Lemuridae provides methods and tools to offer a resting ground for the disturbed souls of documents, condemned to wander in the meanders of shared drives.</p>
   </div>
   <div class='section'>
-    <h2><a href='/classify/'>Classify</a></h2>
-    <p>Once your taxonomies or ontologies are built, you can classify and annotate your documentation by using custom natural language processing scripts and fuzzy matching algorithms.</p>
+    <h2><a href='/case-studies/'>Case Studies</a></h2>
+    <p>There is an urgent need for empirically-based research in the domain of information governance. Lemuridae focusses on aggregating real-life case-studies.</p>
   </div>
   <div class='section'>
-    <h2><a href='/comply/'>Comply</a></h2>
-    <p>Compliance become an inevitable stack but new constraints waste users' time and it's a crucial issue in standards' implementation; automatization could be seen as a third way.</p>
+    <h2><a href='/team/'>Team</a></h2>
+    <p>Lemuridae is an initiative of <a href="http://mastic.ulb.ac.be">MaSTIC</a> (Universit√© libre de Bruxelles) and <a href="https://www.iminds.be/">iMinds</a> (Universiteit Gent), based in the very heart of Europe.</p>
   </div>
 </aside>
 ;T;
@@ -1470,7 +1468,7 @@ I"“
   <p><a href="mailto:info@freeyourmetadata.org">Contact us</a> to host a Free Your Metadata session at your event.</p>
   </div>
 </aside>
-;T;@7I"/9-about/;T{;{	;I"è<!DOCTYPE html>
+;T;@7I"/9-about/;T{;{	;I" <!DOCTYPE html>
 <html lang="en">
   <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -1524,36 +1522,29 @@ I"“
     
     </script>
     <article>
-    <h1>Lorem ipsum dolor sit amet consectetuer adipiscing 
-    elit</h1>
+    <h1>An interoperable world...</h1>
+    
+    <p>In a context where information systems are increasingly interconnected, interoperability is a crucial challenge. Standards, the common basis for systems development, have a major role to play as an interoperability facilitator. Records management has not been left behind and <i>Lemuridae</i> focuses on this particular aspect: both ISO 15489 and MoReq2010 ‚Äî two references in the field ‚Äî recommend the use of classification plans, also called filing plans. Classifying a record gives it a default disposal schedule and helps to manage its retention rules.</p>
+    
+    <h1>Issues surrounding compliance</h1>
     
     
-    <h2>Aenean commodo ligula eget dolor aenean massa</h2>
+    <p>In so doing, the filing plan is a vital component and its quality could imply strategic legal, political or administrative impacts.
+    However, developing and managing a classification plan are time-consuming tasks which require a large amount of resources. 
+    Since these tasks have no directly perceptible benefits, organisations tend to allocate them little funding.</p>
     
     
-    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
-    elit. Aenean commodo ligula eget dolor. Aenean massa. 
-    Cum sociis natoque penatibus et magnis dis parturient 
-    montes, nascetur ridiculus mus. Donec quam felis, 
-    ultricies nec, pellentesque eu, pretium quis, sem.</p>
+    <h1>Automation as a solution?</h1>
     
     
-    <h2>Aenean commodo ligula eget dolor aenean massa</h2>
+    <p>Automation could be a way to reduce the financing costs of filing plan management.
+    But the point is that building and using a classification scheme requires a detailed human analysis; so making it automated is undoubtedly a very complex task.</p>
     
-    
-    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
-    elit. Aenean commodo ligula eget dolor. Aenean massa. 
-    Cum sociis natoque penatibus et magnis dis parturient 
-    montes, nascetur ridiculus mus. Donec quam felis, 
-    ultricies nec, pellentesque eu, pretium quis, sem.</p>
+    <p>However,  on the one hand, the natural language processing research area has made great leap forwards towards information extraction from textual data; and the information needed to develop classification plans can be found, most of the time, within textual documents. On the other hand, automated classification systems based on textual features extraction and machine learning algorithms are beginning to achieve outstanding results. Gartner predicts that those technologies will reach their maturity peak within two years.</p>
     
     </article>
     
     <aside>
-      <h2>Read our article</h2>
-      <p>Coriolano regnum ferre debuerunt debuerunt ferre illi Vecellinum arma amici.</p>
-      <h2>Get started now</h2>
-      <p>Talis quam mortem coepit res haud scio sit post meam.</p>
       <h2>Keep in touch</h2>
       <p>Do not hesitate to send us a tweet.</p>
       <p><a href="https://twitter.com/intent/tweet?screen_name=LemuridaeDotOrg" class="twitter-mention-button" data-related="LemuridaeDotOrg">Tweet to @LemuridaeDotOrg</a></p>
@@ -1570,7 +1561,7 @@ I"“
     </footer>
   </body>
 </html>
-;T;	I"k	<script>
+;T;	I"¯<script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -1581,36 +1572,29 @@ I"“
 
 </script>
 <article>
-<h1>Lorem ipsum dolor sit amet consectetuer adipiscing 
-elit</h1>
+<h1>An interoperable world...</h1>
+
+<p>In a context where information systems are increasingly interconnected, interoperability is a crucial challenge. Standards, the common basis for systems development, have a major role to play as an interoperability facilitator. Records management has not been left behind and <i>Lemuridae</i> focuses on this particular aspect: both ISO 15489 and MoReq2010 ‚Äî two references in the field ‚Äî recommend the use of classification plans, also called filing plans. Classifying a record gives it a default disposal schedule and helps to manage its retention rules.</p>
+
+<h1>Issues surrounding compliance</h1>
 
 
-<h2>Aenean commodo ligula eget dolor aenean massa</h2>
+<p>In so doing, the filing plan is a vital component and its quality could imply strategic legal, political or administrative impacts.
+However, developing and managing a classification plan are time-consuming tasks which require a large amount of resources. 
+Since these tasks have no directly perceptible benefits, organisations tend to allocate them little funding.</p>
 
 
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
-elit. Aenean commodo ligula eget dolor. Aenean massa. 
-Cum sociis natoque penatibus et magnis dis parturient 
-montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem.</p>
+<h1>Automation as a solution?</h1>
 
 
-<h2>Aenean commodo ligula eget dolor aenean massa</h2>
+<p>Automation could be a way to reduce the financing costs of filing plan management.
+But the point is that building and using a classification scheme requires a detailed human analysis; so making it automated is undoubtedly a very complex task.</p>
 
-
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
-elit. Aenean commodo ligula eget dolor. Aenean massa. 
-Cum sociis natoque penatibus et magnis dis parturient 
-montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem.</p>
+<p>However,  on the one hand, the natural language processing research area has made great leap forwards towards information extraction from textual data; and the information needed to develop classification plans can be found, most of the time, within textual documents. On the other hand, automated classification systems based on textual features extraction and machine learning algorithms are beginning to achieve outstanding results. Gartner predicts that those technologies will reach their maturity peak within two years.</p>
 
 </article>
 
 <aside>
-  <h2>Read our article</h2>
-  <p>Coriolano regnum ferre debuerunt debuerunt ferre illi Vecellinum arma amici.</p>
-  <h2>Get started now</h2>
-  <p>Talis quam mortem coepit res haud scio sit post meam.</p>
   <h2>Keep in touch</h2>
   <p>Do not hesitate to send us a tweet.</p>
   <p><a href="https://twitter.com/intent/tweet?screen_name=LemuridaeDotOrg" class="twitter-mention-button" data-related="LemuridaeDotOrg">Tweet to @LemuridaeDotOrg</a></p>
@@ -1906,7 +1890,7 @@ ultricies nec, pellentesque eu, pretium quis, sem.</p>
 ;T;	@ì;
 @ìI"$/publications/freeyourmetadata/;T{;{ I"3/publications/named-entity-recognition-bibtex/;T{;{ I"5/publications/named-entity-recognition-citation/;T{;{;I"–van Hooland, S., De Wilde, M., Verborgh, R., Steiner T., and Van de Walle, R., Exploring Entity Recognition and Disambiguation for Cultural Heritage Collections? In: Literary and Linguistics Computing, 2014.
 ;T;	@ù;
-@ùI",/publications/named-entity-recognition/;T{;{ I"/publications/rest-bibtex/;T{;{ I"/publications/rest/;T{;{ I"/stylesheets/main/;T{;{;I" %/*
+@ùI",/publications/named-entity-recognition/;T{;{ I"/publications/rest-bibtex/;T{;{ I"/publications/rest/;T{;{ I"/stylesheets/main/;T{;{;I"ï%/*
   html5doctor.com Reset Stylesheet
   v1.6.1
   Last Updated: 2010-09-17
@@ -2294,13 +2278,11 @@ footer {
 .billboard img.logo {
   float: right;
   min-width: 50px;
-  max-width: 800px;
+  max-width: 700px;
   margin-top: 70px;
   margin-right: 0;
   margin-bottom: 2px;
   margin-left: -600px;
-  *margin: 100px -5px -500px -130px;
-  *width: 280px;
 }
 .billboard h1 {
   padding-top: 70px;
@@ -2400,7 +2382,7 @@ h2.screencast a:active {
     margin: 0;
   }
   .billboard img.logo {
-    max-width: 30%;
+    max-width: 60%;
     margin-top: 0;
     margin-right: 20px;
   }
@@ -2410,7 +2392,7 @@ h2.screencast a:active {
     padding-top: 30px;
   }
   .billboard img.logo {
-    max-width: 28%;
+    max-width: 50%;
     margin-right: 50px;
   }
   .home aside {
@@ -2428,7 +2410,7 @@ h2.screencast a:active {
     padding: 0;
   }
   .billboard img.logo {
-    max-width: 20%;
+    max-width: 40%;
   }
 }
 @media only screen and (max-height: 400px) {
@@ -2446,7 +2428,7 @@ h2.screencast a:active {
     font-size: 13px;
   }
   .billboard img.logo {
-    max-width: 6%;
+    max-width: 20%;
   }
   .billboard figure {
     display: none;
@@ -2573,7 +2555,7 @@ code {
 html .home .section {
   padding-right: 0\0/;
 }
-;T;	I"2&/*
+;T;	I"˘%/*
   html5doctor.com Reset Stylesheet
   v1.6.1
   Last Updated: 2010-09-17
@@ -2852,13 +2834,11 @@ footer {
   img.logo {
     float: right;
     min-width: 50px;
-    max-width: 800px;
+    max-width: 700px;
     margin-top: 70px;
     margin-right: 0;
     margin-bottom: 2px;
     margin-left: -600px;
-    *margin: 100px -5px -500px -130px;
-    *width: 280px;
   }
   h1 {
     padding-top: 70px;
@@ -2960,7 +2940,7 @@ h2.screencast {
     margin: 0;
 
     img.logo {
-      max-width: 30%;
+      max-width: 60%;
       margin-top: 0;
       margin-right: 20px;
     }
@@ -2973,7 +2953,7 @@ h2.screencast {
       padding-top: 30px;
     }
     img.logo {
-      max-width: 28%;
+      max-width: 50%;
       margin-right: 50px;
     }
   }
@@ -2998,7 +2978,7 @@ h2.screencast {
       padding: 0;
     }
     img.logo {
-      max-width: 20%;
+      max-width: 40%;
     }
   }
 }
@@ -3018,7 +2998,7 @@ h2.screencast {
     font-size: 13px;
 
     img.logo {
-      max-width: 6%;
+      max-width: 20%;
     }
     figure {
       display: none;
@@ -4584,7 +4564,7 @@ ultricies nec, pellentesque eu, pretium quis, sem.</p>
   <p>You're aware about your compliance issue? Let's <a href="/taxonomies/">build a taxonomy</a>!</p>
 </aside>
 ;T;
-@‡;@ﬂI"/1-analyse/;T{;{	;I"√<!DOCTYPE html>
+@‡;@ﬂI"/1-analyse/;T{;{	;I"‹<!DOCTYPE html>
 <html lang="en">
   <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -4638,79 +4618,32 @@ ultricies nec, pellentesque eu, pretium quis, sem.</p>
     
     </script>
     <article>
-      <h1>Lorem ipsum dolor sit amet consectetuer adipiscing 
-    elit</h1>
+    <h1>What does analyse mean?</h1>
     
+    <p>What we call analyse means construct a knowledge representation that reflects a certain reality for a sector or an organisation. This representation can be called <b>knowledge organisation systems</b> (KOS) ‚Äî it is a very wide concept that includes authority lists, classification systems, controlled vocabularies, filing plan, relational database scheme, ontologies, etc. In a certain way, even a share drive's directory structure is a KOS!</p>
     
-    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
-    elit. Aenean commodo ligula eget dolor. Aenean massa 
-    <strong>strong</strong>. Cum sociis natoque penatibus 
-    et magnis dis parturient montes, nascetur ridiculus 
-    mus. Donec quam felis, ultricies nec, pellentesque 
-    eu, pretium quis, sem. Nulla consequat massa quis 
-    enim. Donec pede justo, fringilla vel, aliquet nec, 
-    vulputate eget, arcu. In enim justo, rhoncus ut, 
-    imperdiet a, venenatis vitae, justo. Nullam dictum 
-    felis eu pede <a class="external ext" href="#">link</a> 
-    mollis pretium. Integer tincidunt. Cras dapibus. 
-    Vivamus elementum semper nisi. Aenean vulputate 
-    eleifend tellus. Aenean leo ligula, porttitor eu, 
-    consequat vitae, eleifend ac, enim. Aliquam lorem ante, 
-    dapibus in, viverra quis, feugiat a, tellus. Phasellus 
-    viverra nulla ut metus varius laoreet. Quisque rutrum. 
-    Aenean imperdiet. Etiam ultricies nisi vel augue. 
-    Curabitur ullamcorper ultricies nisi.</p>
+    <h2>Why?</h2>
     
+    <p>Every time we build an information system, we begin by sketching the outlines of the knowledge field related to the organisation in witch this system will be implemented. This step is a necessary requirement, just as well as nobody builds a house without starting with a construction plan.</p>
     
-    <h1>Lorem ipsum dolor sit amet consectetuer adipiscing 
-    elit</h1>
+    <p>In addition, information systems are increasingly interconnected and standards can play the role of interoperability facilitator. Records management standards ‚Äî such as ISO 15489 and MoReq2010 ‚Äî recommend the use of filing plans, i.e. a knowledge organisation system.</p>
     
+    <h2>How?</h2>
     
-    <h2>Aenean commodo ligula eget dolor aenean massa</h2>
+    <p>Developing and managing a classification plan are time-consuming tasks which require a large amount of resources. Since these tasks have no directly perceptible benefits, organisations tend to allocate them little funding.</p>
     
+    <p>Automation could be a way to reduce the financing costs of filing plan management.
+    But the point is that building and using a classification scheme requires a detailed human analysis; so making it automated is undoubtedly a very complex task.</p>
     
-    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
-    elit. Aenean commodo ligula eget dolor. Aenean massa. 
-    Cum sociis natoque penatibus et magnis dis parturient 
-    montes, nascetur ridiculus mus. Donec quam felis, 
-    ultricies nec, pellentesque eu, pretium quis, sem.</p>
+    <p>However,  on the one hand, the natural language processing research area has made great leap forwards towards information extraction from textual data; and the information needed to develop classification plans can be found, most of the time, within textual documents. On the other hand, automated classification systems based on textual features extraction and machine learning algorithms are beginning to achieve outstanding results. Gartner predicts that those technologies will reach their maturity peak within two years.</p>
     
-    
-    <h2>Aenean commodo ligula eget dolor aenean massa</h2>
-    
-    
-    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
-    elit. Aenean commodo ligula eget dolor. Aenean massa. 
-    Cum sociis natoque penatibus et magnis dis parturient 
-    montes, nascetur ridiculus mus. Donec quam felis, 
-    ultricies nec, pellentesque eu, pretium quis, sem.</p>
-    
-    
-    <ul>
-      <li>Lorem ipsum dolor sit amet consectetuer.</li>
-      <li>Aenean commodo ligula eget dolor.</li>
-      <li>Aenean massa cum sociis natoque penatibus.</li>
-    </ul>
-    
-    
-    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
-    elit. Aenean commodo ligula eget dolor. Aenean massa. 
-    Cum sociis natoque penatibus et magnis dis parturient 
-    montes, nascetur ridiculus mus. Donec quam felis, 
-    ultricies nec, pellentesque eu, pretium quis, sem.</p>
-    
-    
-    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
-    elit. Aenean commodo ligula eget dolor. Aenean massa. 
-    Cum sociis natoque penatibus et magnis dis parturient 
-    montes, nascetur ridiculus mus. Donec quam felis, 
-    ultricies nec, pellentesque eu, pretium quis, sem.</p>
+    <h1>Case study in the pharmaceutical area</h1>
     
     </article>
     
     <aside>
       <h2>You already have a taxonomy?</h2>
-      <p>Then let's <a href="../cleanup/">tag or classify</a> your content with it!</p>
+      <p>Then let's <a href="../classify/">tag or classify</a> your content with it!</p>
       <h2>Need help?</h2>
       <p><strong>Ask your question</strong> on Twitter and get help from experts.</p>
       <a href="https://twitter.com/intent/tweet?screen_name=LemuridaeDotOrg" class="twitter-mention-button" data-related="LemuridaeDotOrg">Tweet to @LemuridaeDotOrg</a>
@@ -4727,7 +4660,7 @@ ultricies nec, pellentesque eu, pretium quis, sem.</p>
     </footer>
   </body>
 </html>
-;T;	I"Ò<script>
+;T;	I"∆<script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -4738,79 +4671,32 @@ ultricies nec, pellentesque eu, pretium quis, sem.</p>
 
 </script>
 <article>
-  <h1>Lorem ipsum dolor sit amet consectetuer adipiscing 
-elit</h1>
+<h1>What does analyse mean?</h1>
 
+<p>What we call analyse means construct a knowledge representation that reflects a certain reality for a sector or an organisation. This representation can be called <b>knowledge organisation systems</b> (KOS) ‚Äî it is a very wide concept that includes authority lists, classification systems, controlled vocabularies, filing plan, relational database scheme, ontologies, etc. In a certain way, even a share drive's directory structure is a KOS!</p>
 
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
-elit. Aenean commodo ligula eget dolor. Aenean massa 
-<strong>strong</strong>. Cum sociis natoque penatibus 
-et magnis dis parturient montes, nascetur ridiculus 
-mus. Donec quam felis, ultricies nec, pellentesque 
-eu, pretium quis, sem. Nulla consequat massa quis 
-enim. Donec pede justo, fringilla vel, aliquet nec, 
-vulputate eget, arcu. In enim justo, rhoncus ut, 
-imperdiet a, venenatis vitae, justo. Nullam dictum 
-felis eu pede <a class="external ext" href="#">link</a> 
-mollis pretium. Integer tincidunt. Cras dapibus. 
-Vivamus elementum semper nisi. Aenean vulputate 
-eleifend tellus. Aenean leo ligula, porttitor eu, 
-consequat vitae, eleifend ac, enim. Aliquam lorem ante, 
-dapibus in, viverra quis, feugiat a, tellus. Phasellus 
-viverra nulla ut metus varius laoreet. Quisque rutrum. 
-Aenean imperdiet. Etiam ultricies nisi vel augue. 
-Curabitur ullamcorper ultricies nisi.</p>
+<h2>Why?</h2>
 
+<p>Every time we build an information system, we begin by sketching the outlines of the knowledge field related to the organisation in witch this system will be implemented. This step is a necessary requirement, just as well as nobody builds a house without starting with a construction plan.</p>
 
-<h1>Lorem ipsum dolor sit amet consectetuer adipiscing 
-elit</h1>
+<p>In addition, information systems are increasingly interconnected and standards can play the role of interoperability facilitator. Records management standards ‚Äî such as ISO 15489 and MoReq2010 ‚Äî recommend the use of filing plans, i.e. a knowledge organisation system.</p>
 
+<H2>How?</H2>
 
-<h2>Aenean commodo ligula eget dolor aenean massa</h2>
+<p>Developing and managing a classification plan are time-consuming tasks which require a large amount of resources. Since these tasks have no directly perceptible benefits, organisations tend to allocate them little funding.</p>
 
+<p>Automation could be a way to reduce the financing costs of filing plan management.
+But the point is that building and using a classification scheme requires a detailed human analysis; so making it automated is undoubtedly a very complex task.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
-elit. Aenean commodo ligula eget dolor. Aenean massa. 
-Cum sociis natoque penatibus et magnis dis parturient 
-montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem.</p>
+<p>However,  on the one hand, the natural language processing research area has made great leap forwards towards information extraction from textual data; and the information needed to develop classification plans can be found, most of the time, within textual documents. On the other hand, automated classification systems based on textual features extraction and machine learning algorithms are beginning to achieve outstanding results. Gartner predicts that those technologies will reach their maturity peak within two years.</p>
 
-
-<h2>Aenean commodo ligula eget dolor aenean massa</h2>
-
-
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
-elit. Aenean commodo ligula eget dolor. Aenean massa. 
-Cum sociis natoque penatibus et magnis dis parturient 
-montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem.</p>
-
-
-<ul>
-  <li>Lorem ipsum dolor sit amet consectetuer.</li>
-  <li>Aenean commodo ligula eget dolor.</li>
-  <li>Aenean massa cum sociis natoque penatibus.</li>
-</ul>
-
-
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
-elit. Aenean commodo ligula eget dolor. Aenean massa. 
-Cum sociis natoque penatibus et magnis dis parturient 
-montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem.</p>
-
-
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
-elit. Aenean commodo ligula eget dolor. Aenean massa. 
-Cum sociis natoque penatibus et magnis dis parturient 
-montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem.</p>
+<h1>Case study in the pharmaceutical area</h1>
 
 </article>
 
 <aside>
   <h2>You already have a taxonomy?</h2>
-  <p>Then let's <a href="/cleanup/">tag or classify</a> your content with it!</p>
+  <p>Then let's <a href="/classify/">tag or classify</a> your content with it!</p>
   <h2>Need help?</h2>
   <p><strong>Ask your question</strong> on Twitter and get help from experts.</p>
   <a href="https://twitter.com/intent/tweet?screen_name=LemuridaeDotOrg" class="twitter-mention-button" data-related="LemuridaeDotOrg">Tweet to @LemuridaeDotOrg</a>
@@ -4821,7 +4707,7 @@ ultricies nec, pellentesque eu, pretium quis, sem.</p>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 </aside>
 ;T;
-@Â;@‰I"/2-classify/;T{;{	;I" <!DOCTYPE html>
+@Â;@‰I"/2-classify/;T{;{	;I"P<!DOCTYPE html>
 <html lang="en">
   <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -4875,128 +4761,7 @@ ultricies nec, pellentesque eu, pretium quis, sem.</p>
     
     </script>
     <article>
-    	<h1>Lorem ipsum dolor sit amet consectetuer adipiscing 
-    elit</h1>
-    
-    
-    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
-    elit. Aenean commodo ligula eget dolor. Aenean massa 
-    <strong>strong</strong>. Cum sociis natoque penatibus 
-    et magnis dis parturient montes, nascetur ridiculus 
-    mus. Donec quam felis, ultricies nec, pellentesque 
-    eu, pretium quis, sem. Nulla consequat massa quis 
-    enim. Donec pede justo, fringilla vel, aliquet nec, 
-    vulputate eget, arcu. In enim justo, rhoncus ut, 
-    imperdiet a, venenatis vitae, justo. Nullam dictum 
-    felis eu pede <a class="external ext" href="#">link</a> 
-    mollis pretium. Integer tincidunt. Cras dapibus. 
-    Vivamus elementum semper nisi. Aenean vulputate 
-    eleifend tellus. Aenean leo ligula, porttitor eu, 
-    consequat vitae, eleifend ac, enim. Aliquam lorem ante, 
-    dapibus in, viverra quis, feugiat a, tellus. Phasellus 
-    viverra nulla ut metus varius laoreet. Quisque rutrum. 
-    Aenean imperdiet. Etiam ultricies nisi vel augue. 
-    Curabitur ullamcorper ultricies nisi.</p>
-    
-    
-    <h1>Lorem ipsum dolor sit amet consectetuer adipiscing 
-    elit</h1>
-    
-    
-    <h2>Aenean commodo ligula eget dolor aenean massa</h2>
-    
-    
-    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
-    elit. Aenean commodo ligula eget dolor. Aenean massa. 
-    Cum sociis natoque penatibus et magnis dis parturient 
-    montes, nascetur ridiculus mus. Donec quam felis, 
-    ultricies nec, pellentesque eu, pretium quis, sem.</p>
-    
-    
-    <h2>Aenean commodo ligula eget dolor aenean massa</h2>
-    
-    
-    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
-    elit. Aenean commodo ligula eget dolor. Aenean massa. 
-    Cum sociis natoque penatibus et magnis dis parturient 
-    montes, nascetur ridiculus mus. Donec quam felis, 
-    ultricies nec, pellentesque eu, pretium quis, sem.</p>
-    
-    
-    <ul>
-      <li>Lorem ipsum dolor sit amet consectetuer.</li>
-      <li>Aenean commodo ligula eget dolor.</li>
-      <li>Aenean massa cum sociis natoque penatibus.</li>
-    </ul>
-    
-    
-    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
-    elit. Aenean commodo ligula eget dolor. Aenean massa. 
-    Cum sociis natoque penatibus et magnis dis parturient 
-    montes, nascetur ridiculus mus. Donec quam felis, 
-    ultricies nec, pellentesque eu, pretium quis, sem.</p>
-    
-    
-    <form action="#" method="post">
-      <fieldset>
-        <label for="name">Name:</label>
-        <input type="text" id="name" placeholder="Enter your 
-    full name">
-    
-        <label for="email">Email:</label>
-        <input type="email" id="email" placeholder="Enter 
-    your email address">
-    
-        <label for="message">Message:</label>
-        <textarea id="message" placeholder="What's on your 
-    mind?"></textarea>
-    
-        <input type="submit" value="Send message">
-    
-      </fieldset>
-    </form>
-    
-    
-    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
-    elit. Aenean commodo ligula eget dolor. Aenean massa. 
-    Cum sociis natoque penatibus et magnis dis parturient 
-    montes, nascetur ridiculus mus. Donec quam felis, 
-    ultricies nec, pellentesque eu, pretium quis, sem.</p>
-    
-    
-    <table class="data">
-      <tr>
-        <th>Entry Header 1</th>
-        <th>Entry Header 2</th>
-        <th>Entry Header 3</th>
-        <th>Entry Header 4</th>
-      </tr>
-      <tr>
-        <td>Entry First Line 1</td>
-        <td>Entry First Line 2</td>
-        <td>Entry First Line 3</td>
-        <td>Entry First Line 4</td>
-      </tr>
-      <tr>
-        <td>Entry Line 1</td>
-        <td>Entry Line 2</td>
-        <td>Entry Line 3</td>
-        <td>Entry Line 4</td>
-      </tr>
-      <tr>
-        <td>Entry Last Line 1</td>
-        <td>Entry Last Line 2</td>
-        <td>Entry Last Line 3</td>
-        <td>Entry Last Line 4</td>
-      </tr>
-    </table>
-    
-    
-    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
-    elit. Aenean commodo ligula eget dolor. Aenean massa. 
-    Cum sociis natoque penatibus et magnis dis parturient 
-    montes, nascetur ridiculus mus. Donec quam felis, 
-    ultricies nec, pellentesque eu, pretium quis, sem.</p>
+    	To be done.
     
     </article>
     <footer>
@@ -5006,7 +4771,7 @@ ultricies nec, pellentesque eu, pretium quis, sem.</p>
     </footer>
   </body>
 </html>
-;T;	I"X<script>
+;T;	I"º<script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -5017,132 +4782,12 @@ ultricies nec, pellentesque eu, pretium quis, sem.</p>
 
 </script>
 <article>
-	<h1>Lorem ipsum dolor sit amet consectetuer adipiscing 
-elit</h1>
-
-
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
-elit. Aenean commodo ligula eget dolor. Aenean massa 
-<strong>strong</strong>. Cum sociis natoque penatibus 
-et magnis dis parturient montes, nascetur ridiculus 
-mus. Donec quam felis, ultricies nec, pellentesque 
-eu, pretium quis, sem. Nulla consequat massa quis 
-enim. Donec pede justo, fringilla vel, aliquet nec, 
-vulputate eget, arcu. In enim justo, rhoncus ut, 
-imperdiet a, venenatis vitae, justo. Nullam dictum 
-felis eu pede <a class="external ext" href="#">link</a> 
-mollis pretium. Integer tincidunt. Cras dapibus. 
-Vivamus elementum semper nisi. Aenean vulputate 
-eleifend tellus. Aenean leo ligula, porttitor eu, 
-consequat vitae, eleifend ac, enim. Aliquam lorem ante, 
-dapibus in, viverra quis, feugiat a, tellus. Phasellus 
-viverra nulla ut metus varius laoreet. Quisque rutrum. 
-Aenean imperdiet. Etiam ultricies nisi vel augue. 
-Curabitur ullamcorper ultricies nisi.</p>
-
-
-<h1>Lorem ipsum dolor sit amet consectetuer adipiscing 
-elit</h1>
-
-
-<h2>Aenean commodo ligula eget dolor aenean massa</h2>
-
-
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
-elit. Aenean commodo ligula eget dolor. Aenean massa. 
-Cum sociis natoque penatibus et magnis dis parturient 
-montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem.</p>
-
-
-<h2>Aenean commodo ligula eget dolor aenean massa</h2>
-
-
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
-elit. Aenean commodo ligula eget dolor. Aenean massa. 
-Cum sociis natoque penatibus et magnis dis parturient 
-montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem.</p>
-
-
-<ul>
-  <li>Lorem ipsum dolor sit amet consectetuer.</li>
-  <li>Aenean commodo ligula eget dolor.</li>
-  <li>Aenean massa cum sociis natoque penatibus.</li>
-</ul>
-
-
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
-elit. Aenean commodo ligula eget dolor. Aenean massa. 
-Cum sociis natoque penatibus et magnis dis parturient 
-montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem.</p>
-
-
-<form action="#" method="post">
-  <fieldset>
-    <label for="name">Name:</label>
-    <input type="text" id="name" placeholder="Enter your 
-full name" />
-
-    <label for="email">Email:</label>
-    <input type="email" id="email" placeholder="Enter 
-your email address" />
-
-    <label for="message">Message:</label>
-    <textarea id="message" placeholder="What's on your 
-mind?"></textarea>
-
-    <input type="submit" value="Send message" />
-
-  </fieldset>
-</form>
-
-
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
-elit. Aenean commodo ligula eget dolor. Aenean massa. 
-Cum sociis natoque penatibus et magnis dis parturient 
-montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem.</p>
-
-
-<table class="data">
-  <tr>
-    <th>Entry Header 1</th>
-    <th>Entry Header 2</th>
-    <th>Entry Header 3</th>
-    <th>Entry Header 4</th>
-  </tr>
-  <tr>
-    <td>Entry First Line 1</td>
-    <td>Entry First Line 2</td>
-    <td>Entry First Line 3</td>
-    <td>Entry First Line 4</td>
-  </tr>
-  <tr>
-    <td>Entry Line 1</td>
-    <td>Entry Line 2</td>
-    <td>Entry Line 3</td>
-    <td>Entry Line 4</td>
-  </tr>
-  <tr>
-    <td>Entry Last Line 1</td>
-    <td>Entry Last Line 2</td>
-    <td>Entry Last Line 3</td>
-    <td>Entry Last Line 4</td>
-  </tr>
-</table>
-
-
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
-elit. Aenean commodo ligula eget dolor. Aenean massa. 
-Cum sociis natoque penatibus et magnis dis parturient 
-montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem.</p>
+	To be done.
 
 </article>
 ;T;
-@Í;@ÈI"/3-comply/;T{;{	;I"¬<!DOCTYPE html>
+@Í;@ÈI"/3-comply/;T{;{	;I".
+<!DOCTYPE html>
 <html lang="en">
   <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -5196,74 +4841,8 @@ ultricies nec, pellentesque eu, pretium quis, sem.</p>
     
     </script>
     <article>
-     <h1>Lorem ipsum dolor sit amet consectetuer adipiscing 
-    elit</h1>
     
-    
-    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
-    elit. Aenean commodo ligula eget dolor. Aenean massa 
-    <strong>strong</strong>. Cum sociis natoque penatibus 
-    et magnis dis parturient montes, nascetur ridiculus 
-    mus. Donec quam felis, ultricies nec, pellentesque 
-    eu, pretium quis, sem. Nulla consequat massa quis 
-    enim. Donec pede justo, fringilla vel, aliquet nec, 
-    vulputate eget, arcu. In enim justo, rhoncus ut, 
-    imperdiet a, venenatis vitae, justo. Nullam dictum 
-    felis eu pede <a class="external ext" href="#">link</a> 
-    mollis pretium. Integer tincidunt. Cras dapibus. 
-    Vivamus elementum semper nisi. Aenean vulputate 
-    eleifend tellus. Aenean leo ligula, porttitor eu, 
-    consequat vitae, eleifend ac, enim. Aliquam lorem ante, 
-    dapibus in, viverra quis, feugiat a, tellus. Phasellus 
-    viverra nulla ut metus varius laoreet. Quisque rutrum. 
-    Aenean imperdiet. Etiam ultricies nisi vel augue. 
-    Curabitur ullamcorper ultricies nisi.</p>
-    
-    
-    <h1>Lorem ipsum dolor sit amet consectetuer adipiscing 
-    elit</h1>
-    
-    
-    <h2>Aenean commodo ligula eget dolor aenean massa</h2>
-    
-    
-    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
-    elit. Aenean commodo ligula eget dolor. Aenean massa. 
-    Cum sociis natoque penatibus et magnis dis parturient 
-    montes, nascetur ridiculus mus. Donec quam felis, 
-    ultricies nec, pellentesque eu, pretium quis, sem.</p>
-    
-    
-    <h2>Aenean commodo ligula eget dolor aenean massa</h2>
-    
-    
-    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
-    elit. Aenean commodo ligula eget dolor. Aenean massa. 
-    Cum sociis natoque penatibus et magnis dis parturient 
-    montes, nascetur ridiculus mus. Donec quam felis, 
-    ultricies nec, pellentesque eu, pretium quis, sem.</p>
-    
-    
-    <ul>
-      <li>Lorem ipsum dolor sit amet consectetuer.</li>
-      <li>Aenean commodo ligula eget dolor.</li>
-      <li>Aenean massa cum sociis natoque penatibus.</li>
-    </ul>
-    
-    
-    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
-    elit. Aenean commodo ligula eget dolor. Aenean massa. 
-    Cum sociis natoque penatibus et magnis dis parturient 
-    montes, nascetur ridiculus mus. Donec quam felis, 
-    ultricies nec, pellentesque eu, pretium quis, sem.</p>
-    
-    
-    
-    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
-    elit. Aenean commodo ligula eget dolor. Aenean massa. 
-    Cum sociis natoque penatibus et magnis dis parturient 
-    montes, nascetur ridiculus mus. Donec quam felis, 
-    ultricies nec, pellentesque eu, pretium quis, sem.</p>
+    To be done.
      
     </article>
     <aside>
@@ -5280,7 +4859,7 @@ ultricies nec, pellentesque eu, pretium quis, sem.</p>
     </footer>
   </body>
 </html>
-;T;	I"<script>
+;T;	I"x<script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -5291,74 +4870,8 @@ ultricies nec, pellentesque eu, pretium quis, sem.</p>
 
 </script>
 <article>
- <h1>Lorem ipsum dolor sit amet consectetuer adipiscing 
-elit</h1>
 
-
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
-elit. Aenean commodo ligula eget dolor. Aenean massa 
-<strong>strong</strong>. Cum sociis natoque penatibus 
-et magnis dis parturient montes, nascetur ridiculus 
-mus. Donec quam felis, ultricies nec, pellentesque 
-eu, pretium quis, sem. Nulla consequat massa quis 
-enim. Donec pede justo, fringilla vel, aliquet nec, 
-vulputate eget, arcu. In enim justo, rhoncus ut, 
-imperdiet a, venenatis vitae, justo. Nullam dictum 
-felis eu pede <a class="external ext" href="#">link</a> 
-mollis pretium. Integer tincidunt. Cras dapibus. 
-Vivamus elementum semper nisi. Aenean vulputate 
-eleifend tellus. Aenean leo ligula, porttitor eu, 
-consequat vitae, eleifend ac, enim. Aliquam lorem ante, 
-dapibus in, viverra quis, feugiat a, tellus. Phasellus 
-viverra nulla ut metus varius laoreet. Quisque rutrum. 
-Aenean imperdiet. Etiam ultricies nisi vel augue. 
-Curabitur ullamcorper ultricies nisi.</p>
-
-
-<h1>Lorem ipsum dolor sit amet consectetuer adipiscing 
-elit</h1>
-
-
-<h2>Aenean commodo ligula eget dolor aenean massa</h2>
-
-
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
-elit. Aenean commodo ligula eget dolor. Aenean massa. 
-Cum sociis natoque penatibus et magnis dis parturient 
-montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem.</p>
-
-
-<h2>Aenean commodo ligula eget dolor aenean massa</h2>
-
-
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
-elit. Aenean commodo ligula eget dolor. Aenean massa. 
-Cum sociis natoque penatibus et magnis dis parturient 
-montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem.</p>
-
-
-<ul>
-  <li>Lorem ipsum dolor sit amet consectetuer.</li>
-  <li>Aenean commodo ligula eget dolor.</li>
-  <li>Aenean massa cum sociis natoque penatibus.</li>
-</ul>
-
-
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
-elit. Aenean commodo ligula eget dolor. Aenean massa. 
-Cum sociis natoque penatibus et magnis dis parturient 
-montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem.</p>
-
-
-
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
-elit. Aenean commodo ligula eget dolor. Aenean massa. 
-Cum sociis natoque penatibus et magnis dis parturient 
-montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem.</p>
+To be done.
  
 </article>
 <aside>
@@ -5369,4 +4882,984 @@ ultricies nec, pellentesque eu, pretium quis, sem.</p>
   <p>You're aware about your compliance issue? Let's <a href="/taxonomies/">build a taxonomy</a>!</p>
 </aside>
 ;T;
-@Ô;@Ó:versioni
+@Ô;@ÓI"/1-mission/;T{;{	;I"“<!DOCTYPE html>
+<html lang="en">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <title>Lemuridae | Mission</title>
+    <link href="../stylesheets/main.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Josefin+Sans:600" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lora" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lato&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  </head>
+  <body>
+    <header>
+      <hgroup>
+        <h1>
+          <a href="../" rel="contents">Lemuridae</a>
+        </h1>
+        <h2>
+          Text mining for content enhancement &amp; compliance
+          <a href="../" rel="contents">
+            <img alt="" class="logo" src="../images/lemur.jpg">
+          </a>
+        </h2>
+      </hgroup>
+    </header>
+    <nav>
+      <ul>
+        <li>
+          <a href="./">Mission</a>
+        </li>
+        <li>
+          <a href="../case-studies/">Case Studies</a>
+        </li>
+        <li>
+          <a href="../team/">Team</a>
+        </li>
+      </ul>
+    </nav>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    
+      ga('create', 'UA-61680968-1', 'auto');
+      ga('send', 'pageview');
+    
+    </script>
+    <article>
+    
+    <h2>Exorcise the disturbed souls of documents</h2>    
+        <p>In Roman mythology, <a href="http://en.wikipedia.org/wiki/Lemures" target="_blank"><i>lemures</i></a> symbolise "wandering and vengeful spirits of those not afforded proper burial and without tomb inscriptions". These vagrant and potentially vengeful creatures seemed particularly relevant as a name for our project. Lemuridae wants to provides methods and tools to offer a resting ground for the disturbed souls of documents. Without quality metadata, non-structured documents are condemned to wander in the meanders of shared drives and the jungle of isolated business applications. More over, with the growing body of legislation concerning the protection of personal data, documents not properly appraised might come back to haunt you in the context of a litigation.</p>
+        
+    <h2>Failure of the EDRMS approach</h2>
+        
+        <p>As a community, we must acknowledge the recurring failure of the traditional EDRMS approach on the terrain. Despite efforts to convince end-users to properly manage their documents and declare records when needed, secretaries, project officers or management do not want to go into a separate database to add metadata to documents. In the current context of staff cuts, it is very challenging to convince employees across the hierarchy of an organisation to put time into an adequate handling of documents. On the other hand, Freedom of Information acts and legislation in regards to the protection of personal data are increasingly putting pressure on public and private organisations to put in place a coherent Information Governance policy.</p> 
+        
+        <h2>Possibilities and limits of automation</h2>
+        
+        <p>Auto-classification has been proposed as a solution by vendors ever since the 1980s. However, abstraction made of some particular cases where massive investments could be made, we can hardly say auto-classification has reached maturity on the terrain. Until now, it is an approach far beyond the possibilities of small- to mid-sized organisations. The Lemuridae projects wants to build bridges between the traditional document and records management field on the one hand and recent developments in Natural-Language Processing (NLP), rules engines and Linked Data methods. By doing so, we want to lower the barrier for experimentation with automation in the Information Governance domain. </p>
+    
+    </article>
+    
+    <aside>
+      <h2>Keep in touch</h2>
+      <p>Do not hesitate to send us a tweet.</p>
+      <p><a href="https://twitter.com/intent/tweet?screen_name=LemuridaeDotOrg" class="twitter-mention-button" data-related="LemuridaeDotOrg">Tweet to @LemuridaeDotOrg</a></p>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+      <h2>Spread the world</h2>
+      <p>Follow us on Twitter!</p>
+      <p><a href="https://twitter.com/LemuridaeDotOrg" class="twitter-follow-button" data-show-count="false">Follow @LemuridaeDotOrg</a></p>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+    </aside>
+    <footer>
+      <p>
+        <a href="../team/">¬© 2015‚Äì2015 MaSTIC ‚Äì Universit√© libre de Bruxelles and Ghent University ‚Äì iMinds</a>
+      </p>
+    </footer>
+  </body>
+</html>
+;T;	I",<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-61680968-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<article>
+
+<h2>Exorcise the disturbed souls of documents</h2>    
+    <p>In Roman mythology, <a href="http://en.wikipedia.org/wiki/Lemures" target="_blank"><i>lemures</i></a> symbolise "wandering and vengeful spirits of those not afforded proper burial and without tomb inscriptions". These vagrant and potentially vengeful creatures seemed particularly relevant as a name for our project. Lemuridae wants to provides methods and tools to offer a resting ground for the disturbed souls of documents. Without quality metadata, non-structured documents are condemned to wander in the meanders of shared drives and the jungle of isolated business applications. More over, with the growing body of legislation concerning the protection of personal data, documents not properly appraised might come back to haunt you in the context of a litigation.</p>
+    
+<h2>Failure of the EDRMS approach</h2>
+    
+    <p>As a community, we must acknowledge the recurring failure of the traditional EDRMS approach on the terrain. Despite efforts to convince end-users to properly manage their documents and declare records when needed, secretaries, project officers or management do not want to go into a separate database to add metadata to documents. In the current context of staff cuts, it is very challenging to convince employees across the hierarchy of an organisation to put time into an adequate handling of documents. On the other hand, Freedom of Information acts and legislation in regards to the protection of personal data are increasingly putting pressure on public and private organisations to put in place a coherent Information Governance policy.</p> 
+    
+    <h2>Possibilities and limits of automation</h2>
+    
+    <p>Auto-classification has been proposed as a solution by vendors ever since the 1980s. However, abstraction made of some particular cases where massive investments could be made, we can hardly say auto-classification has reached maturity on the terrain. Until now, it is an approach far beyond the possibilities of small- to mid-sized organisations. The Lemuridae projects wants to build bridges between the traditional document and records management field on the one hand and recent developments in Natural-Language Processing (NLP), rules engines and Linked Data methods. By doing so, we want to lower the barrier for experimentation with automation in the Information Governance domain. </p>
+
+</article>
+
+<aside>
+  <h2>Keep in touch</h2>
+  <p>Do not hesitate to send us a tweet.</p>
+  <p><a href="https://twitter.com/intent/tweet?screen_name=LemuridaeDotOrg" class="twitter-mention-button" data-related="LemuridaeDotOrg">Tweet to @LemuridaeDotOrg</a></p>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+  <h2>Spread the world</h2>
+  <p>Follow us on Twitter!</p>
+  <p><a href="https://twitter.com/LemuridaeDotOrg" class="twitter-follow-button" data-show-count="false">Follow @LemuridaeDotOrg</a></p>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+</aside>
+;T;
+@Ù;@ÛI"/2-team/;T{;{	;I"<!DOCTYPE html>
+<html lang="en">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <title>Lemuridae | Team</title>
+    <link href="../stylesheets/main.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Josefin+Sans:600" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lora" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lato&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  </head>
+  <body>
+    <header>
+      <hgroup>
+        <h1>
+          <a href="../" rel="contents">Lemuridae</a>
+        </h1>
+        <h2>
+          Text mining for content enhancement &amp; compliance
+          <a href="../" rel="contents">
+            <img alt="" class="logo" src="../images/lemur.jpg">
+          </a>
+        </h2>
+      </hgroup>
+    </header>
+    <nav>
+      <ul>
+        <li>
+          <a href="../mission/">Mission</a>
+        </li>
+        <li>
+          <a href="./">Team</a>
+        </li>
+        <li>
+          <a href="../case-studies/">Comply</a>
+        </li>
+      </ul>
+    </nav>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    
+      ga('create', 'UA-61680968-1', 'auto');
+      ga('send', 'pageview');
+    
+    </script>
+    <article>
+      <h1>Our Team</h1>
+      <p><em>Lemuridae</em> is a <a href="http://mastic.ulb.ac.be">MaSTIC</a>/<a href="https://www.iminds.be/">iMinds</a> initiative. Our team consists of researchers in the following fields:
+    </p>
+<ul>
+    	<li>Information and records management</li>
+    	<li>Text mining and more broadly computational linguistic</li>
+    	<li>Rules engines, Semantic Web and Linked Data</li>
+    </ul>
+    
+    
+    
+    
+    
+    
+      We love to hear from you at <a href="mailto:info@lemuridae.org">info@lemuridae.org</a>.
+      <p>
+    </p>
+<ul>
+       <li>Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.</li>
+       <li>Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.</li>
+       <li>Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec consectetuer ligula vulputate sem tristique cursus. Nam nulla quam, gravida non, commodo a, sodales sit amet, nisi.</li>
+       <li>Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.</li>
+    </ul>
+                
+      <h2>Copyright</h2>
+      <p>Unless otherwise noted, all material on this website is copyrighted by the above authors. All rights reserved.</p> 
+      <p>The <a href="http://commons.wikimedia.org/wiki/File:Lemur_catta_001.jpg">lemur photo</a> is licensed under a Creative Commons license by Alex Dunkel.</p>
+    </article>
+    <footer>
+      <p>
+        <a href="./">¬© 2015‚Äì2015 Ghent University ‚Äì iMinds and MaSTIC ‚Äì Universit√© libre de Bruxelles</a>
+      </p>
+    </footer>
+  </body>
+</html>
+;T;	I"z<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-61680968-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<article>
+  <h1>Our Team</h1>
+  <p><em>Lemuridae</em> is a <a href="http://mastic.ulb.ac.be">MaSTIC</a>/<a href="https://www.iminds.be/">iMinds</a> initiative. Our team consists of researchers in the following fields:
+<ul>
+	<li>Information and records management</li>
+	<li>Text mining and more broadly computational linguistic</li>
+	<li>Rules engines, Semantic Web and Linked Data</li>
+</ul>
+
+</p>
+
+
+
+
+  We love to hear from you at <a href="mailto:info@lemuridae.org">info@lemuridae.org</a>.</p>
+  <p>
+<ul>
+   <li>Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.</li>
+   <li>Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.</li>
+   <li>Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec consectetuer ligula vulputate sem tristique cursus. Nam nulla quam, gravida non, commodo a, sodales sit amet, nisi.</li>
+   <li>Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.</li>
+</ul>
+            
+  <h2>Copyright</h2>
+  <p>Unless otherwise noted, all material on this website is copyrighted by the above authors. All rights reserved.</p> 
+  <p>The <a href="http://commons.wikimedia.org/wiki/File:Lemur_catta_001.jpg">lemur photo</a> is licensed under a Creative Commons license by Alex Dunkel.</p>
+</article>
+;T;
+@˘;@¯I"/analyse/;T{;{	;I"£<!DOCTYPE html>
+<html lang="en">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <title>Lemuridae | Analyse</title>
+    <link href="../stylesheets/main.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Josefin+Sans:600" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lora" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lato&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  </head>
+  <body>
+    <header>
+      <hgroup>
+        <h1>
+          <a href="../" rel="contents">Lemuridae</a>
+        </h1>
+        <h2>
+          Text mining for content enhancement &amp; compliance
+          <a href="../" rel="contents">
+            <img alt="" class="logo" src="../images/lemur.jpg">
+          </a>
+        </h2>
+      </hgroup>
+    </header>
+    <nav>
+      <ul>
+        <li>
+          <a href="../mission/">Mission</a>
+        </li>
+        <li>
+          <a href="../case-studies/">Case Studies</a>
+        </li>
+        <li>
+          <a href="../team/">Team</a>
+        </li>
+      </ul>
+    </nav>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    
+      ga('create', 'UA-61680968-1', 'auto');
+      ga('send', 'pageview');
+    
+    </script>
+    <article>
+    <h1>What does analyse mean?</h1>
+    
+    <p>What we call analyse means construct a knowledge representation that reflects a certain reality for a sector or an organisation. This representation can be called <b>knowledge organisation systems</b> (KOS) ‚Äî it is a very wide concept that includes authority lists, classification systems, controlled vocabularies, filing plan, relational database scheme, ontologies, etc. In a certain way, even a share drive's directory structure is a KOS!</p>
+    
+    <h2>Why?</h2>
+    
+    <p>Every time we build an information system, we begin by sketching the outlines of the knowledge field related to the organisation in witch this system will be implemented. This step is a necessary requirement, just as well as nobody builds a house without starting with a construction plan.</p>
+    
+    <p>In addition, information systems are increasingly interconnected and standards can play the role of interoperability facilitator. Records management standards ‚Äî such as ISO 15489 and MoReq2010 ‚Äî recommend the use of filing plans, i.e. a knowledge organisation system.</p>
+    
+    <h2>How?</h2>
+    
+    <p>Developing and managing a classification plan are time-consuming tasks which require a large amount of resources. Since these tasks have no directly perceptible benefits, organisations tend to allocate them little funding.</p>
+    
+    <p>Automation could be a way to reduce the financing costs of filing plan management.
+    But the point is that building and using a classification scheme requires a detailed human analysis; so making it automated is undoubtedly a very complex task.</p>
+    
+    <p>However,  on the one hand, the natural language processing research area has made great leap forwards towards information extraction from textual data; and the information needed to develop classification plans can be found, most of the time, within textual documents. On the other hand, automated classification systems based on textual features extraction and machine learning algorithms are beginning to achieve outstanding results. Gartner predicts that those technologies will reach their maturity peak within two years.</p>
+    
+    <h1>Case study in the pharmaceutical area</h1>
+    
+    </article>
+    
+    <aside>
+      <h2>You already have a taxonomy?</h2>
+      <p>Then let's <a href="../classify/">tag or classify</a> your content with it!</p>
+      <h2>Need help?</h2>
+      <p><strong>Ask your question</strong> on Twitter and get help from experts.</p>
+      <a href="https://twitter.com/intent/tweet?screen_name=LemuridaeDotOrg" class="twitter-mention-button" data-related="LemuridaeDotOrg">Tweet to @LemuridaeDotOrg</a>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+      <h2>Stay informed!</h2>
+    <p>Follow us on Twitter!</p>  
+    <p><a href="https://twitter.com/LemuridaeDotOrg" class="twitter-follow-button" data-show-count="false">Follow @LemuridaeDotOrg</a></p>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+    </aside>
+    <footer>
+      <p>
+        <a href="../team/">¬© 2015‚Äì2015 MaSTIC ‚Äì Universit√© libre de Bruxelles and Ghent University ‚Äì iMinds</a>
+      </p>
+    </footer>
+  </body>
+</html>
+;T;	I"∆<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-61680968-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<article>
+<h1>What does analyse mean?</h1>
+
+<p>What we call analyse means construct a knowledge representation that reflects a certain reality for a sector or an organisation. This representation can be called <b>knowledge organisation systems</b> (KOS) ‚Äî it is a very wide concept that includes authority lists, classification systems, controlled vocabularies, filing plan, relational database scheme, ontologies, etc. In a certain way, even a share drive's directory structure is a KOS!</p>
+
+<h2>Why?</h2>
+
+<p>Every time we build an information system, we begin by sketching the outlines of the knowledge field related to the organisation in witch this system will be implemented. This step is a necessary requirement, just as well as nobody builds a house without starting with a construction plan.</p>
+
+<p>In addition, information systems are increasingly interconnected and standards can play the role of interoperability facilitator. Records management standards ‚Äî such as ISO 15489 and MoReq2010 ‚Äî recommend the use of filing plans, i.e. a knowledge organisation system.</p>
+
+<H2>How?</H2>
+
+<p>Developing and managing a classification plan are time-consuming tasks which require a large amount of resources. Since these tasks have no directly perceptible benefits, organisations tend to allocate them little funding.</p>
+
+<p>Automation could be a way to reduce the financing costs of filing plan management.
+But the point is that building and using a classification scheme requires a detailed human analysis; so making it automated is undoubtedly a very complex task.</p>
+
+<p>However,  on the one hand, the natural language processing research area has made great leap forwards towards information extraction from textual data; and the information needed to develop classification plans can be found, most of the time, within textual documents. On the other hand, automated classification systems based on textual features extraction and machine learning algorithms are beginning to achieve outstanding results. Gartner predicts that those technologies will reach their maturity peak within two years.</p>
+
+<h1>Case study in the pharmaceutical area</h1>
+
+</article>
+
+<aside>
+  <h2>You already have a taxonomy?</h2>
+  <p>Then let's <a href="/classify/">tag or classify</a> your content with it!</p>
+  <h2>Need help?</h2>
+  <p><strong>Ask your question</strong> on Twitter and get help from experts.</p>
+  <a href="https://twitter.com/intent/tweet?screen_name=LemuridaeDotOrg" class="twitter-mention-button" data-related="LemuridaeDotOrg">Tweet to @LemuridaeDotOrg</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+  <h2>Stay informed!</h2>
+<p>Follow us on Twitter!</p>  
+<p><a href="https://twitter.com/LemuridaeDotOrg" class="twitter-follow-button" data-show-count="false">Follow @LemuridaeDotOrg</a></p>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+</aside>
+;T;
+@˛;@˝I"/classify/;T{;{	;I"<!DOCTYPE html>
+<html lang="en">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <title>Lemuridae | Classify</title>
+    <link href="../stylesheets/main.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Josefin+Sans:600" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lora" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lato&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  </head>
+  <body>
+    <header>
+      <hgroup>
+        <h1>
+          <a href="../" rel="contents">Lemuridae</a>
+        </h1>
+        <h2>
+          Text mining for content enhancement &amp; compliance
+          <a href="../" rel="contents">
+            <img alt="" class="logo" src="../images/lemur.jpg">
+          </a>
+        </h2>
+      </hgroup>
+    </header>
+    <nav>
+      <ul>
+        <li>
+          <a href="../mission/">Mission</a>
+        </li>
+        <li>
+          <a href="../case-studies/">Case Studies</a>
+        </li>
+        <li>
+          <a href="../team/">Team</a>
+        </li>
+      </ul>
+    </nav>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    
+      ga('create', 'UA-61680968-1', 'auto');
+      ga('send', 'pageview');
+    
+    </script>
+    <article>
+    	To be done.
+    
+    </article>
+    <footer>
+      <p>
+        <a href="../team/">¬© 2015‚Äì2015 MaSTIC ‚Äì Universit√© libre de Bruxelles and Ghent University ‚Äì iMinds</a>
+      </p>
+    </footer>
+  </body>
+</html>
+;T;	I"º<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-61680968-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<article>
+	To be done.
+
+</article>
+;T;
+@;@I"/comply/;T{;{	;I"£
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <title>Lemuridae | Comply</title>
+    <link href="../stylesheets/main.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Josefin+Sans:600" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lora" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lato&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  </head>
+  <body>
+    <header>
+      <hgroup>
+        <h1>
+          <a href="../" rel="contents">Lemuridae</a>
+        </h1>
+        <h2>
+          Text mining for content enhancement &amp; compliance
+          <a href="../" rel="contents">
+            <img alt="" class="logo" src="../images/lemur.jpg">
+          </a>
+        </h2>
+      </hgroup>
+    </header>
+    <nav>
+      <ul>
+        <li>
+          <a href="../mission/">Mission</a>
+        </li>
+        <li>
+          <a href="../case-studies/">Case Studies</a>
+        </li>
+        <li>
+          <a href="../team/">Team</a>
+        </li>
+      </ul>
+    </nav>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    
+      ga('create', 'UA-61680968-1', 'auto');
+      ga('send', 'pageview');
+    
+    </script>
+    <article>
+    
+    To be done.
+    
+    <a href="http://safeandsound.quarles.com/2015/04/eus-new-data-protection-law-is-likely-to-impact-all-companies-doing-business-in-europe/">Interesting source here</a>
+     
+    </article>
+    <aside>
+      <h2>Get started quickly!</h2>
+      <p>Flumen flumen per praecipitem per <strong>mortuorum scalas</strong> truncata conpage abiecerunt in acri artuum truncata raptavere impetu coniunctos scalas mox in.</p>
+      <p>Exaggerando vertenda exaggerando celsae potius altius congrueret iras ne actus.</p>
+      <h2>On to the next step</h2>
+      <p>You're aware about your compliance issue? Let's <a href="../taxonomies/">build a taxonomy</a>!</p>
+    </aside>
+    <footer>
+      <p>
+        <a href="../team/">¬© 2015‚Äì2015 MaSTIC ‚Äì Universit√© libre de Bruxelles and Ghent University ‚Äì iMinds</a>
+      </p>
+    </footer>
+  </body>
+</html>
+;T;	I"<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-61680968-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<article>
+
+To be done.
+
+<a href="http://safeandsound.quarles.com/2015/04/eus-new-data-protection-law-is-likely-to-impact-all-companies-doing-business-in-europe/">Interesting source here</a>
+ 
+</article>
+<aside>
+  <h2>Get started quickly!</h2>
+  <p>Flumen flumen per praecipitem per <strong>mortuorum scalas</strong> truncata conpage abiecerunt in acri artuum truncata raptavere impetu coniunctos scalas mox in.</p>
+  <p>Exaggerando vertenda exaggerando celsae potius altius congrueret iras ne actus.</p>
+  <h2>On to the next step</h2>
+  <p>You're aware about your compliance issue? Let's <a href="/taxonomies/">build a taxonomy</a>!</p>
+</aside>
+;T;
+@;@I"/data/;T{;{	;I"6<!DOCTYPE html>
+<html lang="en">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <title>Lemuridae | Authors</title>
+    <link href="../stylesheets/main.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Josefin+Sans:600" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lora" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lato&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  </head>
+  <body>
+    <header>
+      <hgroup>
+        <h1>
+          <a href="../" rel="contents">Lemuridae</a>
+        </h1>
+        <h2>
+          Text mining for content enhancement &amp; compliance
+          <a href="../" rel="contents">
+            <img alt="" class="logo" src="../images/lemur.jpg">
+          </a>
+        </h2>
+      </hgroup>
+    </header>
+    <nav>
+      <ul>
+        <li>
+          <a href="../mission/">Mission</a>
+        </li>
+        <li>
+          <a href="../case-studies/">Case Studies</a>
+        </li>
+        <li>
+          <a href="../team/">Team</a>
+        </li>
+      </ul>
+    </nav>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    
+      ga('create', 'UA-61680968-1', 'auto');
+      ga('send', 'pageview');
+    
+    </script>
+    <article>
+      <h1>Authors</h1>
+      <p><em>Lemuridae.org</em> is a <a href="http://mastic.ulb.ac.be">MaSTIC</a>/<a href="https://www.iminds.be/">iMinds</a> initiative.<br>
+      We love to hear from you at <a href="mailto:info@lemuridae.org">info@lemuridae.org</a>.</p>
+      <p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
+    elit. Aenean commodo ligula eget dolor. Aenean massa. 
+    Cum sociis natoque penatibus et magnis dis parturient 
+    montes, nascetur ridiculus mus. Donec quam felis, 
+    ultricies nec, pellentesque eu, pretium quis, sem.</p>
+    <ul>
+       <li>Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.</li>
+       <li>Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.</li>
+       <li>Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec consectetuer ligula vulputate sem tristique cursus. Nam nulla quam, gravida non, commodo a, sodales sit amet, nisi.</li>
+       <li>Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.</li>
+    </ul>
+                
+      <h2>Copyright</h2>
+      <p>Unless otherwise noted, all material on this website is copyrighted by the above authors. All rights reserved.</p> 
+      <p>The <a href="http://commons.wikimedia.org/wiki/File:Lemur_catta_001.jpg">lemur photo</a> is licensed under a Creative Commons license by Alex Dunkel.</p>
+    </article>
+    <footer>
+      <p>
+        <a href="../team/">¬© 2015‚Äì2015 MaSTIC ‚Äì Universit√© libre de Bruxelles and Ghent University ‚Äì iMinds</a>
+      </p>
+    </footer>
+  </body>
+</html>
+;T;	I"õ<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-61680968-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<article>
+  <h1>Authors</h1>
+  <p><em>Lemuridae.org</em> is a <a href="http://mastic.ulb.ac.be">MaSTIC</a>/<a href="https://www.iminds.be/">iMinds</a> initiative.<br>
+  We love to hear from you at <a href="mailto:info@lemuridae.org">info@lemuridae.org</a>.</p>
+  <p>Lorem ipsum dolor sit amet, consectetuer adipiscing 
+elit. Aenean commodo ligula eget dolor. Aenean massa. 
+Cum sociis natoque penatibus et magnis dis parturient 
+montes, nascetur ridiculus mus. Donec quam felis, 
+ultricies nec, pellentesque eu, pretium quis, sem.</p>
+<ul>
+   <li>Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.</li>
+   <li>Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.</li>
+   <li>Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec consectetuer ligula vulputate sem tristique cursus. Nam nulla quam, gravida non, commodo a, sodales sit amet, nisi.</li>
+   <li>Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.</li>
+</ul>
+            
+  <h2>Copyright</h2>
+  <p>Unless otherwise noted, all material on this website is copyrighted by the above authors. All rights reserved.</p> 
+  <p>The <a href="http://commons.wikimedia.org/wiki/File:Lemur_catta_001.jpg">lemur photo</a> is licensed under a Creative Commons license by Alex Dunkel.</p>
+</article>
+;T;
+@;@I"/3-case-studies/;T{;{	;I"è
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <title>Lemuridae | Comply</title>
+    <link href="../stylesheets/main.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Josefin+Sans:600" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lora" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lato&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  </head>
+  <body>
+    <header>
+      <hgroup>
+        <h1>
+          <a href="../" rel="contents">Lemuridae</a>
+        </h1>
+        <h2>
+          Text mining for content enhancement &amp; compliance
+          <a href="../" rel="contents">
+            <img alt="" class="logo" src="../images/lemur.jpg">
+          </a>
+        </h2>
+      </hgroup>
+    </header>
+    <nav>
+      <ul>
+        <li>
+          <a href="../mission/">Mission</a>
+        </li>
+        <li>
+          <a href="../team/">Team</a>
+        </li>
+        <li>
+          <a href="./">Comply</a>
+        </li>
+      </ul>
+    </nav>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    
+      ga('create', 'UA-61680968-1', 'auto');
+      ga('send', 'pageview');
+    
+    </script>
+    <article>
+    
+    To be done.
+    
+    <a href="http://safeandsound.quarles.com/2015/04/eus-new-data-protection-law-is-likely-to-impact-all-companies-doing-business-in-europe/">Interesting source here</a>
+     
+    </article>
+    <aside>
+      <h2>Get started quickly!</h2>
+      <p>Flumen flumen per praecipitem per <strong>mortuorum scalas</strong> truncata conpage abiecerunt in acri artuum truncata raptavere impetu coniunctos scalas mox in.</p>
+      <p>Exaggerando vertenda exaggerando celsae potius altius congrueret iras ne actus.</p>
+      <h2>On to the next step</h2>
+      <p>You're aware about your compliance issue? Let's <a href="../taxonomies/">build a taxonomy</a>!</p>
+    </aside>
+    <footer>
+      <p>
+        <a href="../team/">¬© 2015‚Äì2015 Ghent University ‚Äì iMinds and MaSTIC ‚Äì Universit√© libre de Bruxelles</a>
+      </p>
+    </footer>
+  </body>
+</html>
+;T;	I"<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-61680968-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<article>
+
+To be done.
+
+<a href="http://safeandsound.quarles.com/2015/04/eus-new-data-protection-law-is-likely-to-impact-all-companies-doing-business-in-europe/">Interesting source here</a>
+ 
+</article>
+<aside>
+  <h2>Get started quickly!</h2>
+  <p>Flumen flumen per praecipitem per <strong>mortuorum scalas</strong> truncata conpage abiecerunt in acri artuum truncata raptavere impetu coniunctos scalas mox in.</p>
+  <p>Exaggerando vertenda exaggerando celsae potius altius congrueret iras ne actus.</p>
+  <h2>On to the next step</h2>
+  <p>You're aware about your compliance issue? Let's <a href="/taxonomies/">build a taxonomy</a>!</p>
+</aside>
+;T;
+@;@I"/2-case-studies/;T{;{	;I"’<!DOCTYPE html>
+<html lang="en">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <title>Lemuridae | Case Studies</title>
+    <link href="../stylesheets/main.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Josefin+Sans:600" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lora" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lato&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  </head>
+  <body>
+    <header>
+      <hgroup>
+        <h1>
+          <a href="../" rel="contents">Lemuridae</a>
+        </h1>
+        <h2>
+          Text mining for content enhancement &amp; compliance
+          <a href="../" rel="contents">
+            <img alt="" class="logo" src="../images/lemur.jpg">
+          </a>
+        </h2>
+      </hgroup>
+    </header>
+    <nav>
+      <ul>
+        <li>
+          <a href="../mission/">Mission</a>
+        </li>
+        <li>
+          <a href="./">Case Studies</a>
+        </li>
+        <li>
+          <a href="../team/">Team</a>
+        </li>
+      </ul>
+    </nav>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    
+      ga('create', 'UA-61680968-1', 'auto');
+      ga('send', 'pageview');
+    
+    </script>
+    <article>
+        <h2>Case Studies</h2>
+        <p>There is an urgent need for empirically-based research in the domain of information governance. Academics and standards bodies often issue guidelines without acknowledging the reality of the terrain. On the other hand, the quality of auto-classification tools provided by vendors can not be taken at face value. Lemuridae therefore focusses on aggregating real-life case-studies from the corporate and public sector in which the possibilities and limits of automated metadata creation are analysed in an objective and scientific manner.</p>
+        <h2>Join us!</h2>
+        <p>We are currently setting up multiple case-studies to analyse and benchmark auto-classification methods and tools. Do not hesitate to <a href="mailto:info@lemuridae.org" target="_top">contact us</a> if you want to work with us and set up a case-study based on the content of your organisation.</p>
+    </article>
+    
+    
+    <aside>
+      <h2>Keep in touch</h2>
+      <p>Do not hesitate to send us a tweet.</p>
+      <p><a href="https://twitter.com/intent/tweet?screen_name=LemuridaeDotOrg" class="twitter-mention-button" data-related="LemuridaeDotOrg">Tweet to @LemuridaeDotOrg</a></p>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+      <h2>Spread the world</h2>
+      <p>Follow us on Twitter!</p>
+      <p><a href="https://twitter.com/LemuridaeDotOrg" class="twitter-follow-button" data-show-count="false">Follow @LemuridaeDotOrg</a></p>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+    </aside>
+    <footer>
+      <p>
+        <a href="../team/">¬© 2015‚Äì2015 MaSTIC ‚Äì Universit√© libre de Bruxelles and Ghent University ‚Äì iMinds</a>
+      </p>
+    </footer>
+  </body>
+</html>
+;T;	I"J	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-61680968-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<article>
+    <h2>Case Studies</h2>
+    <p>There is an urgent need for empirically-based research in the domain of information governance. Academics and standards bodies often issue guidelines without acknowledging the reality of the terrain. On the other hand, the quality of auto-classification tools provided by vendors can not be taken at face value. Lemuridae therefore focusses on aggregating real-life case-studies from the corporate and public sector in which the possibilities and limits of automated metadata creation are analysed in an objective and scientific manner.</p>
+    <h2>Join us!</h2>
+    <p>We are currently setting up multiple case-studies to analyse and benchmark auto-classification methods and tools. Do not hesitate to <a href="mailto:info@lemuridae.org" target="_top">contact us</a> if you want to work with us and set up a case-study based on the content of your organisation.</p>
+</article>
+
+
+<aside>
+  <h2>Keep in touch</h2>
+  <p>Do not hesitate to send us a tweet.</p>
+  <p><a href="https://twitter.com/intent/tweet?screen_name=LemuridaeDotOrg" class="twitter-mention-button" data-related="LemuridaeDotOrg">Tweet to @LemuridaeDotOrg</a></p>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+  <h2>Spread the world</h2>
+  <p>Follow us on Twitter!</p>
+  <p><a href="https://twitter.com/LemuridaeDotOrg" class="twitter-follow-button" data-show-count="false">Follow @LemuridaeDotOrg</a></p>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+</aside>;T;
+@;@I"/3-team/;T{;{	;I",<!DOCTYPE html>
+<html lang="en">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <title>Lemuridae | Team</title>
+    <link href="../stylesheets/main.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Josefin+Sans:600" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lora" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lato&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  </head>
+  <body>
+    <header>
+      <hgroup>
+        <h1>
+          <a href="../" rel="contents">Lemuridae</a>
+        </h1>
+        <h2>
+          Text mining for content enhancement &amp; compliance
+          <a href="../" rel="contents">
+            <img alt="" class="logo" src="../images/lemur.jpg">
+          </a>
+        </h2>
+      </hgroup>
+    </header>
+    <nav>
+      <ul>
+        <li>
+          <a href="../mission/">Mission</a>
+        </li>
+        <li>
+          <a href="../case-studies/">Case Studies</a>
+        </li>
+        <li>
+          <a href="./">Team</a>
+        </li>
+      </ul>
+    </nav>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    
+      ga('create', 'UA-61680968-1', 'auto');
+      ga('send', 'pageview');
+    
+    </script>
+    <article>
+        
+        <p>Lemuridae is an initiative of <a href="http://mastic.ulb.ac.be">MaSTIC</a> (Universit√© libre de Bruxelles) and <a href="https://www.iminds.be/">iMinds</a> (Universiteit Gent), based in the very heart of Europe. Our team consists of researchers in the fields of information science, records management, computational linguistics and Linked Data technologies.</p>
+    
+    <p>Partnerships with IT integrators and software vendors ensure us to test the validity and feasibility of proposed methods and tools. If you are interested in joining us, please do not hesitate to <a href="mailto:info@lemuridae.org" target="_top">send an e-mail</a>!</p>
+    
+    
+    
+                
+      <h2>Copyright</h2>
+      <p>Unless otherwise noted, all material on this website is copyrighted by the above authors. All rights reserved.</p> 
+      <p>The <a href="http://commons.wikimedia.org/wiki/File:Lemur_catta_001.jpg">lemur photo</a> is licensed under a Creative Commons license by Alex Dunkel.</p>
+    </article>
+    
+    
+    <aside>
+      <h2>Keep in touch</h2>
+      <p>Do not hesitate to send us a tweet.</p>
+      <p><a href="https://twitter.com/intent/tweet?screen_name=LemuridaeDotOrg" class="twitter-mention-button" data-related="LemuridaeDotOrg">Tweet to @LemuridaeDotOrg</a></p>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+      <h2>Spread the world</h2>
+      <p>Follow us on Twitter!</p>
+      <p><a href="https://twitter.com/LemuridaeDotOrg" class="twitter-follow-button" data-show-count="false">Follow @LemuridaeDotOrg</a></p>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+    </aside>
+    <footer>
+      <p>
+        <a href="./">¬© 2015‚Äì2015 MaSTIC ‚Äì Universit√© libre de Bruxelles and Ghent University ‚Äì iMinds</a>
+      </p>
+    </footer>
+  </body>
+</html>
+;T;	I"ã	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-61680968-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<article>
+    
+    <p>Lemuridae is an initiative of <a href="http://mastic.ulb.ac.be">MaSTIC</a> (Universit√© libre de Bruxelles) and <a href="https://www.iminds.be/">iMinds</a> (Universiteit Gent), based in the very heart of Europe. Our team consists of researchers in the fields of information science, records management, computational linguistics and Linked Data technologies.</p>
+
+<p>Partnerships with IT integrators and software vendors ensure us to test the validity and feasibility of proposed methods and tools. If you are interested in joining us, please do not hesitate to <a href="mailto:info@lemuridae.org" target="_top">send an e-mail</a>!</p>
+
+
+
+            
+  <h2>Copyright</h2>
+  <p>Unless otherwise noted, all material on this website is copyrighted by the above authors. All rights reserved.</p> 
+  <p>The <a href="http://commons.wikimedia.org/wiki/File:Lemur_catta_001.jpg">lemur photo</a> is licensed under a Creative Commons license by Alex Dunkel.</p>
+</article>
+
+
+<aside>
+  <h2>Keep in touch</h2>
+  <p>Do not hesitate to send us a tweet.</p>
+  <p><a href="https://twitter.com/intent/tweet?screen_name=LemuridaeDotOrg" class="twitter-mention-button" data-related="LemuridaeDotOrg">Tweet to @LemuridaeDotOrg</a></p>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+  <h2>Spread the world</h2>
+  <p>Follow us on Twitter!</p>
+  <p><a href="https://twitter.com/LemuridaeDotOrg" class="twitter-follow-button" data-show-count="false">Follow @LemuridaeDotOrg</a></p>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+</aside>;T;
+@;@:versioni
